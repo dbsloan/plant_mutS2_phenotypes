@@ -1,0 +1,370 @@
+Effect of varying amounts of erythromycin on FvFm and root growth.
+
+This model contains random effects of genotype (1|F2) and plate (1|plate). Each plant type (A, B, AB and W) has two genotypes that were tested. All genotypes were planted to together on each particular plate, so that is the plate variable. There are 5 plates per treatment (aka drug condition)
+DC is a code for "drug condition" and I have just designated a letter here (A=no additions, B=Ethanol, C= 0.4 ERY, D= 2 ERY and E=10 ERY) to match up with the column "drug" but have them in the order I want without coding.
+note, root length is measured in mm.
+
+-------------
+FvFm analysis
+-------------
+#This code replaces the placeholders values for drug concentration with their actual values
+Feb2023_ERY$DC = factor(Feb2023_ERY$DC, labels = c("Control", "Ethanol", "Ery 0.4", "Ery 2", "Ery 10"))
+#This code replaces the BA value for genotype with AB
+Feb2023_ERY$Genotype = factor(Feb2023_ERY$Genotype, labels = c("A", "B", "AB", "W"))
+
+library(lme4)
+library(lmerTest)
+library(pbkrtest)
+library(emmeans)
+library(multcomp)
+library(multcompView)
+
+
+Model <- lmer(FvFm ~ Genotype*DC + (1|plate) + (1|F2), data = Feb2023_ERY)
+anova(Model)
+emmeans(Model, pairwise ~ Genotype|DC)
+
+#Tukey significance groups
+Model <- lmer(FvFm ~ Genotype*DC + (1|plate) + (1|F2), data = Feb2023_ERY)
+FvFm_ee <- emmeans(Model, pairwise ~ Genotype|DC, adjust = "tukey")
+FvFm_cld <- cld(FvFm_ee, alpha = 0.05, Letters = letters)
+FvFm_cld
+
+--------------
+Root analysis
+--------------
+library(lme4)
+library(lmerTest)
+library(pbkrtest)
+library(emmeans)
+Model <- lmer(Root ~ Genotype*DC + (1|plate) + (1|F2), data = Feb2023_ERY)
+anova(Model)
+emmeans(Model, pairwise ~ Genotype|DC)
+
+#Tukey significance groups
+Model <- lmer(Root ~ Genotype*DC + (1|plate) + (1|F2), data = Feb2023_ERY)
+Root_ee <- emmeans(Model, pairwise ~ Genotype|DC, adjust = "tukey")
+Root_cld <- Root(FvFm_ee, alpha = 0.05, Letters = letters)
+Root_cld
+
+
+-------------------------
+-------------------------
+FvFm results
+-------------------------
+-------------------------
+> View(Feb2023_ERY)
+> 
+> #This code replaces the placeholders values for drug concentration with their actual values
+> Feb2023_ERY$DC = factor(Feb2023_ERY$DC, labels = c("Control", "Ethanol", "Ery 0.4", "Ery 2", "Ery 10"))
+> #This code replaces the BA value for genotype with AB
+> Feb2023_ERY$Genotype = factor(Feb2023_ERY$Genotype, labels = c("A", "B", "AB", "W"))
+> 
+> Model <- lmer(FvFm ~ Genotype*DC + (1|plate) + (1|F2), data = Feb2023_ERY)
+
+> anova(Model)
+Type III Analysis of Variance Table with Satterthwaite's method
+            Sum Sq Mean Sq NumDF   DenDF F value    Pr(>F)    
+Genotype    0.6478 0.21592     3 155.965  85.729 < 2.2e-16 ***
+DC          5.2659 1.31647     4  19.573 522.694 < 2.2e-16 ***
+Genotype:DC 0.4810 0.04008    12 155.950  15.915 < 2.2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+boundary (singular) fit: see help('isSingular')
+
+> emmeans(Model, pairwise ~ Genotype|DC)
+$emmeans
+DC = Control:
+ Genotype emmean     SE   df lower.CL upper.CL
+ A         0.744 0.0185 59.0    0.707    0.781
+ B         0.765 0.0185 59.0    0.728    0.802
+ AB        0.755 0.0185 59.0    0.718    0.792
+ W         0.747 0.0193 66.6    0.708    0.785
+
+DC = Ethanol:
+ Genotype emmean     SE   df lower.CL upper.CL
+ A         0.706 0.0185 59.0    0.669    0.743
+ B         0.748 0.0185 59.0    0.711    0.785
+ AB        0.677 0.0185 59.0    0.640    0.714
+ W         0.744 0.0193 66.6    0.706    0.783
+
+DC = Ery 0.4:
+ Genotype emmean     SE   df lower.CL upper.CL
+ A         0.571 0.0185 59.0    0.534    0.608
+ B         0.629 0.0193 66.6    0.591    0.668
+ AB        0.614 0.0185 59.0    0.577    0.651
+ W         0.726 0.0193 66.6    0.688    0.765
+
+DC = Ery 2:
+ Genotype emmean     SE   df lower.CL upper.CL
+ A         0.345 0.0185 59.0    0.308    0.382
+ B         0.353 0.0185 59.0    0.316    0.390
+ AB        0.377 0.0185 59.0    0.340    0.414
+ W         0.607 0.0185 59.0    0.570    0.644
+
+DC = Ery 10:
+ Genotype emmean     SE   df lower.CL upper.CL
+ A         0.000 0.0185 59.0   -0.037    0.037
+ B         0.000 0.0185 59.0   -0.037    0.037
+ AB        0.000 0.0185 59.0   -0.037    0.037
+ W         0.270 0.0185 59.0    0.233    0.307
+
+Degrees-of-freedom method: kenward-roger 
+Confidence level used: 0.95 
+
+$contrasts
+DC = Control:
+ contrast estimate     SE   df t.ratio p.value
+ A - B    -0.02050 0.0224 68.3  -0.913  0.7978
+ A - AB   -0.01040 0.0224 68.3  -0.463  0.9668
+ A - W    -0.00228 0.0231 72.9  -0.099  0.9997
+ B - AB    0.01010 0.0224 68.3   0.450  0.9694
+ B - W     0.01822 0.0231 72.9   0.788  0.8598
+ AB - W    0.00812 0.0231 72.9   0.351  0.9850
+
+DC = Ethanol:
+ contrast estimate     SE   df t.ratio p.value
+ A - B    -0.04200 0.0224 68.3  -1.871  0.2499
+ A - AB    0.02920 0.0224 68.3   1.301  0.5655
+ A - W    -0.03806 0.0231 72.9  -1.646  0.3597
+ B - AB    0.07120 0.0224 68.3   3.172  0.0119
+ B - W     0.00394 0.0231 72.9   0.170  0.9982
+ AB - W   -0.06726 0.0231 72.9  -2.909  0.0243
+
+DC = Ery 0.4:
+ contrast estimate     SE   df t.ratio p.value
+ A - B    -0.05807 0.0231 72.9  -2.511  0.0665
+ A - AB   -0.04300 0.0224 68.3  -1.916  0.2311
+ A - W    -0.15523 0.0231 72.9  -6.713  <.0001
+ B - AB    0.01507 0.0231 72.9   0.652  0.9146
+ B - W    -0.09715 0.0238 77.6  -4.080  0.0006
+ AB - W   -0.11223 0.0231 72.9  -4.853  <.0001
+
+DC = Ery 2:
+ contrast estimate     SE   df t.ratio p.value
+ A - B    -0.00740 0.0224 68.3  -0.330  0.9875
+ A - AB   -0.03220 0.0224 68.3  -1.435  0.4824
+ A - W    -0.26220 0.0224 68.3 -11.683  <.0001
+ B - AB   -0.02480 0.0224 68.3  -1.105  0.6877
+ B - W    -0.25480 0.0224 68.3 -11.353  <.0001
+ AB - W   -0.23000 0.0224 68.3 -10.248  <.0001
+
+DC = Ery 10:
+ contrast estimate     SE   df t.ratio p.value
+ A - B     0.00000 0.0224 68.3   0.000  1.0000
+ A - AB    0.00000 0.0224 68.3   0.000  1.0000
+ A - W    -0.26980 0.0224 68.3 -12.021  <.0001
+ B - AB    0.00000 0.0224 68.3   0.000  1.0000
+ B - W    -0.26980 0.0224 68.3 -12.021  <.0001
+ AB - W   -0.26980 0.0224 68.3 -12.021  <.0001
+
+Degrees-of-freedom method: kenward-roger 
+P value adjustment: tukey method for comparing a family of 4 estimates 
+
+> 
+> #Tukey significance groups
+> Model <- lmer(FvFm ~ Genotype*DC + (1|plate) + (1|F2), data = Feb2023_ERY)
+boundary (singular) fit: see help('isSingular')
+> FvFm_ee <- emmeans(Model, pairwise ~ Genotype|DC, adjust = "tukey")
+> FvFm_cld <- cld(FvFm_ee, alpha = 0.05, Letters = letters)
+> FvFm_cld
+DC = Control:
+ Genotype emmean     SE   df lower.CL upper.CL .group
+ A         0.744 0.0185 59.0    0.707    0.781  a    
+ W         0.747 0.0193 66.6    0.708    0.785  a    
+ AB        0.755 0.0185 59.0    0.718    0.792  a    
+ B         0.765 0.0185 59.0    0.728    0.802  a    
+
+DC = Ethanol:
+ Genotype emmean     SE   df lower.CL upper.CL .group
+ AB        0.677 0.0185 59.0    0.640    0.714  a    
+ A         0.706 0.0185 59.0    0.669    0.743  ab   
+ W         0.744 0.0193 66.6    0.706    0.783   b   
+ B         0.748 0.0185 59.0    0.711    0.785   b   
+
+DC = Ery 0.4:
+ Genotype emmean     SE   df lower.CL upper.CL .group
+ A         0.571 0.0185 59.0    0.534    0.608  a    
+ AB        0.614 0.0185 59.0    0.577    0.651  a    
+ B         0.629 0.0193 66.6    0.591    0.668  a    
+ W         0.726 0.0193 66.6    0.688    0.765   b   
+
+DC = Ery 2:
+ Genotype emmean     SE   df lower.CL upper.CL .group
+ A         0.345 0.0185 59.0    0.308    0.382  a    
+ B         0.353 0.0185 59.0    0.316    0.390  a    
+ AB        0.377 0.0185 59.0    0.340    0.414  a    
+ W         0.607 0.0185 59.0    0.570    0.644   b   
+
+DC = Ery 10:
+ Genotype emmean     SE   df lower.CL upper.CL .group
+ B         0.000 0.0185 59.0   -0.037    0.037  a    
+ A         0.000 0.0185 59.0   -0.037    0.037  a    
+ AB        0.000 0.0185 59.0   -0.037    0.037  a    
+ W         0.270 0.0185 59.0    0.233    0.307   b   
+
+Degrees-of-freedom method: kenward-roger 
+Confidence level used: 0.95 
+P value adjustment: tukey method for comparing a family of 4 estimates 
+significance level used: alpha = 0.05 
+NOTE: If two or more means share the same grouping symbol,
+      then we cannot show them to be different.
+      But we also did not show them to be the same.
+
+
+-------------------------------------
+-------------------------------------
+Results ROOT length
+-------------------------------------
+-------------------------------------
+> #analysis for Root length
+> Model <- lmer(Root ~ Genotype*DC + (1|plate) + (1|F2), data = Feb2023_ERY)
+boundary (singular) fit: see help('isSingular')
+
+> anova(Model)
+Type III Analysis of Variance Table with Satterthwaite's method
+             Sum Sq Mean Sq NumDF   DenDF F value    Pr(>F)    
+Genotype      379.0   126.3     3   3.969  1.8567 0.2784492    
+DC          15709.4  3927.4     4 172.024 57.7156 < 2.2e-16 ***
+Genotype:DC  2545.6   212.1    12 172.022  3.1175 0.0005019 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+> emmeans(Model, pairwise ~ Genotype|DC)
+$emmeans
+DC = Control:
+ Genotype emmean   SE   df lower.CL upper.CL
+ A         32.31 3.34 19.2   25.320     39.3
+ B         30.89 3.22 16.8   24.084     37.7
+ AB        25.83 3.22 16.8   19.019     32.6
+ W         26.65 3.22 16.8   19.842     33.5
+
+DC = Ethanol:
+ Genotype emmean   SE   df lower.CL upper.CL
+ A         29.51 3.34 19.2   22.521     36.5
+ B         30.41 3.22 16.8   23.607     37.2
+ AB        22.79 3.22 16.8   15.980     29.6
+ W         29.20 3.22 16.8   22.393     36.0
+
+DC = Ery 0.4:
+ Genotype emmean   SE   df lower.CL upper.CL
+ A         19.73 3.22 16.8   12.922     26.5
+ B         24.69 3.22 16.8   17.879     31.5
+ AB        26.33 3.22 16.8   19.527     33.1
+ W         33.59 3.34 19.2   26.595     40.6
+
+DC = Ery 2:
+ Genotype emmean   SE   df lower.CL upper.CL
+ A         13.45 3.22 16.8    6.639     20.3
+ B         12.70 3.22 16.8    5.896     19.5
+ AB         9.88 3.34 19.2    2.890     16.9
+ W         29.23 3.22 16.8   22.418     36.0
+
+DC = Ery 10:
+ Genotype emmean   SE   df lower.CL upper.CL
+ A          5.33 3.22 16.8   -1.473     12.1
+ B          5.26 3.22 16.8   -1.545     12.1
+ AB         4.65 3.22 16.8   -2.155     11.5
+ W          7.06 3.22 16.8    0.251     13.9
+
+Degrees-of-freedom method: kenward-roger 
+Confidence level used: 0.95 
+
+$contrasts
+DC = Control:
+ contrast estimate   SE   df t.ratio p.value
+ A - B      1.4231 4.64 18.1   0.306  0.9897
+ A - AB     6.4876 4.64 18.1   1.397  0.5170
+ A - W      5.6647 4.64 18.1   1.220  0.6227
+ B - AB     5.0645 4.56 16.9   1.111  0.6878
+ B - W      4.2416 4.56 16.9   0.931  0.7891
+ AB - W    -0.8229 4.56 16.9  -0.181  0.9978
+
+DC = Ethanol:
+ contrast estimate   SE   df t.ratio p.value
+ A - B     -0.8992 4.64 18.1  -0.194  0.9973
+ A - AB     6.7286 4.64 18.1   1.449  0.4869
+ A - W      0.3151 4.64 18.1   0.068  0.9999
+ B - AB     7.6278 4.56 16.9   1.673  0.3672
+ B - W      1.2143 4.56 16.9   0.266  0.9931
+ AB - W    -6.4135 4.56 16.9  -1.407  0.5122
+
+DC = Ery 0.4:
+ contrast estimate   SE   df t.ratio p.value
+ A - B     -4.9568 4.56 16.9  -1.087  0.7016
+ A - AB    -6.6050 4.56 16.9  -1.449  0.4879
+ A - W    -13.8597 4.64 18.1  -2.984  0.0363
+ B - AB    -1.6482 4.56 16.9  -0.362  0.9833
+ B - W     -8.9029 4.64 18.1  -1.917  0.2558
+ AB - W    -7.2547 4.64 18.1  -1.562  0.4235
+
+DC = Ery 2:
+ contrast estimate   SE   df t.ratio p.value
+ A - B      0.7429 4.56 16.9   0.163  0.9984
+ A - AB     3.5615 4.64 18.1   0.767  0.8682
+ A - W    -15.7791 4.56 16.9  -3.462  0.0144
+ B - AB     2.8186 4.64 18.1   0.607  0.9286
+ B - W    -16.5220 4.56 16.9  -3.625  0.0103
+ AB - W   -19.3406 4.64 18.1  -4.165  0.0029
+
+DC = Ery 10:
+ contrast estimate   SE   df t.ratio p.value
+ A - B      0.0718 4.56 16.9   0.016  1.0000
+ A - AB     0.6818 4.56 16.9   0.150  0.9988
+ A - W     -1.7240 4.56 16.9  -0.378  0.9809
+ B - AB     0.6100 4.56 16.9   0.134  0.9991
+ B - W     -1.7958 4.56 16.9  -0.394  0.9786
+ AB - W    -2.4058 4.56 16.9  -0.528  0.9511
+
+Degrees-of-freedom method: kenward-roger 
+P value adjustment: tukey method for comparing a family of 4 estimates 
+
+> 
+> #Tukey significance groups
+> Model <- lmer(Root ~ Genotype*DC + (1|plate) + (1|F2), data = Feb2023_ERY)
+boundary (singular) fit: see help('isSingular')
+> Root_ee <- emmeans(Model, pairwise ~ Genotype|DC, adjust = "tukey")
+> Root_cld <- cld(Root_ee, alpha = 0.05, Letters = letters)
+> Root_cld
+DC = Control:
+ Genotype emmean   SE   df lower.CL upper.CL .group
+ AB        25.83 3.22 16.8   19.019     32.6  a    
+ W         26.65 3.22 16.8   19.842     33.5  a    
+ B         30.89 3.22 16.8   24.084     37.7  a    
+ A         32.31 3.34 19.2   25.320     39.3  a    
+
+DC = Ethanol:
+ Genotype emmean   SE   df lower.CL upper.CL .group
+ AB        22.79 3.22 16.8   15.980     29.6  a    
+ W         29.20 3.22 16.8   22.393     36.0  a    
+ A         29.51 3.34 19.2   22.521     36.5  a    
+ B         30.41 3.22 16.8   23.607     37.2  a    
+
+DC = Ery 0.4:
+ Genotype emmean   SE   df lower.CL upper.CL .group
+ A         19.73 3.22 16.8   12.922     26.5  a    
+ B         24.69 3.22 16.8   17.879     31.5  ab   
+ AB        26.33 3.22 16.8   19.527     33.1  ab   
+ W         33.59 3.34 19.2   26.595     40.6   b   
+
+DC = Ery 2:
+ Genotype emmean   SE   df lower.CL upper.CL .group
+ AB         9.88 3.34 19.2    2.890     16.9  a    
+ B         12.70 3.22 16.8    5.896     19.5  a    
+ A         13.45 3.22 16.8    6.639     20.3  a    
+ W         29.23 3.22 16.8   22.418     36.0   b   
+
+DC = Ery 10:
+ Genotype emmean   SE   df lower.CL upper.CL .group
+ AB         4.65 3.22 16.8   -2.155     11.5  a    
+ B          5.26 3.22 16.8   -1.545     12.1  a    
+ A          5.33 3.22 16.8   -1.473     12.1  a    
+ W          7.06 3.22 16.8    0.251     13.9  a    
+
+Degrees-of-freedom method: kenward-roger 
+Confidence level used: 0.95 
+P value adjustment: tukey method for comparing a family of 4 estimates 
+significance level used: alpha = 0.05 
+NOTE: If two or more means share the same grouping symbol,
+      then we cannot show them to be different.
+      But we also did not show them to be the same. 

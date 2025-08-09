@@ -1,0 +1,6300 @@
+
+WARNING: Seq_2 does not have 2 HSPs
+
+WARNING: Seq_13 does not have 2 HSPs
+
+WARNING: Seq_124 does not have 2 HSPs
+
+WARNING: Seq_213 does not have 2 HSPs
+
+WARNING: Seq_219 does not have 2 HSPs
+
+WARNING: Seq_244 does not have 2 HSPs
+
+WARNING: Seq_246 does not have 2 HSPs
+
+WARNING: Seq_261 does not have 2 HSPs
+
+WARNING: Seq_304 does not have 2 HSPs
+
+WARNING: Seq_323 does not have 2 HSPs
+
+WARNING: Seq_439 does not have 2 HSPs
+
+WARNING: Seq_506 does not have 2 HSPs
+
+WARNING: Seq_521 does not have 2 HSPs
+
+WARNING: Seq_546 does not have 2 HSPs
+
+WARNING: Seq_554 does not have 2 HSPs
+
+WARNING: Seq_597 does not have 2 HSPs
+
+WARNING: Seq_658 does not have 2 HSPs
+
+WARNING: Seq_703 does not have 2 HSPs
+
+WARNING: Seq_726 does not have 2 HSPs
+
+WARNING: Seq_762 does not have 2 HSPs
+
+WARNING: Seq_806 does not have 2 HSPs
+
+WARNING: Seq_808 does not have 2 HSPs
+
+WARNING: Seq_882 does not have 2 HSPs
+
+WARNING: Seq_955 does not have 2 HSPs
+
+WARNING: Seq_970 does not have 2 HSPs
+
+WARNING: Seq_982 does not have 2 HSPs
+
+WARNING: Seq_1021 does not have 2 HSPs
+
+WARNING: Seq_1048 does not have 2 HSPs
+
+WARNING: Seq_1058 does not have 2 HSPs
+
+WARNING: Seq_1071 does not have 2 HSPs
+
+WARNING: Seq_1164 HSP2 does not reach end
+
+WARNING: Seq_1174 does not have 2 HSPs
+
+WARNING: Seq_1190 does not have 2 HSPs
+
+WARNING: Seq_1199 HSP2 does not reach end
+
+WARNING: Seq_1202 does not have 2 HSPs
+
+WARNING: Seq_1273 does not have 2 HSPs
+
+WARNING: Seq_1326 does not have 2 HSPs
+
+WARNING: Seq_1352 does not have 2 HSPs
+
+WARNING: Seq_1355 does not have 2 HSPs
+
+WARNING: Seq_1380 HSP2 does not reach end
+
+WARNING: Seq_1394 does not have 2 HSPs
+
+WARNING: Seq_1406 does not have 2 HSPs
+
+WARNING: Seq_1463 does not have 2 HSPs
+
+WARNING: Seq_1552 does not have 2 HSPs
+
+WARNING: Seq_1553 does not have 2 HSPs
+
+WARNING: Seq_1584 does not have 2 HSPs
+
+WARNING: Seq_1647 does not have 2 HSPs
+
+WARNING: Seq_1699 does not have 2 HSPs
+
+WARNING: Seq_1719 does not have 2 HSPs
+
+WARNING: Seq_1734 does not have 2 HSPs
+
+WARNING: Seq_1744 does not have 2 HSPs
+
+WARNING: Seq_1832 does not have 2 HSPs
+
+WARNING: Seq_1864 does not have 2 HSPs
+
+WARNING: Seq_1997 does not have 2 HSPs
+
+WARNING: Seq_2039 does not have 2 HSPs
+
+WARNING: Seq_2093 does not have 2 HSPs
+
+WARNING: Seq_2162 does not have 2 HSPs
+
+WARNING: Seq_2173 does not have 2 HSPs
+
+WARNING: Seq_2230 HSP2 does not reach end
+
+WARNING: Seq_2236 HSP2 does not reach end
+
+WARNING: Seq_2261 does not have 2 HSPs
+
+WARNING: Seq_2323 does not have 2 HSPs
+
+WARNING: Seq_2352 does not have 2 HSPs
+
+WARNING: Seq_2359 does not have 2 HSPs
+
+WARNING: Seq_2362 does not have 2 HSPs
+
+WARNING: Seq_2386 does not have 2 HSPs
+
+WARNING: Seq_2452 does not have 2 HSPs
+
+WARNING: Seq_2477 does not have 2 HSPs
+
+WARNING: Seq_2534 HSP2 does not reach end
+
+WARNING: Seq_2594 does not have 2 HSPs
+
+WARNING: Seq_2601 does not have 2 HSPs
+
+WARNING: Seq_2609 does not have 2 HSPs
+
+WARNING: Seq_2628 does not have 2 HSPs
+
+WARNING: Seq_2639 does not have 2 HSPs
+
+WARNING: Seq_2646 does not have 2 HSPs
+
+WARNING: Seq_2702 does not have 2 HSPs
+
+WARNING: Seq_2822 does not have 2 HSPs
+
+WARNING: Seq_2837 does not have 2 HSPs
+
+WARNING: Seq_2839 does not have 2 HSPs
+
+WARNING: Seq_2854 does not have 2 HSPs
+
+WARNING: Seq_2901 does not have 2 HSPs
+
+WARNING: Seq_2906 does not have 2 HSPs
+
+WARNING: Seq_2912 does not have 2 HSPs
+
+WARNING: Seq_2918 does not have 2 HSPs
+
+WARNING: Seq_2929 does not have 2 HSPs
+
+WARNING: Seq_2950 does not have 2 HSPs
+
+WARNING: Seq_2973 does not have 2 HSPs
+
+WARNING: Seq_3019 does not have 2 HSPs
+
+WARNING: Seq_3024 does not have 2 HSPs
+
+WARNING: Seq_3035 does not have 2 HSPs
+
+WARNING: Seq_3046 does not have 2 HSPs
+
+WARNING: Seq_3048 does not have 2 HSPs
+
+WARNING: Seq_3072 does not have 2 HSPs
+
+WARNING: Seq_3081 does not have 2 HSPs
+
+WARNING: Seq_3101 does not have 2 HSPs
+
+WARNING: Seq_3233 does not have 2 HSPs
+
+WARNING: Seq_3250 HSP2 does not reach end
+
+WARNING: Seq_3277 does not have 2 HSPs
+
+WARNING: Seq_3293 HSP2 does not reach end
+
+WARNING: Seq_3300 does not have 2 HSPs
+
+WARNING: Seq_3364 does not have 2 HSPs
+
+WARNING: Seq_3381 does not have 2 HSPs
+
+WARNING: Seq_3439 does not have 2 HSPs
+
+WARNING: Seq_3444 does not have 2 HSPs
+
+WARNING: Seq_3486 does not have 2 HSPs
+
+WARNING: Seq_3495 does not have 2 HSPs
+
+WARNING: Seq_3545 does not have 2 HSPs
+
+WARNING: Seq_3552 does not have 2 HSPs
+
+WARNING: Seq_3555 does not have 2 HSPs
+
+WARNING: Seq_3559 does not have 2 HSPs
+
+WARNING: Seq_3572 does not have 2 HSPs
+
+WARNING: Seq_3658 HSP2 does not reach end
+
+WARNING: Seq_3682 does not have 2 HSPs
+
+WARNING: Seq_3746 does not have 2 HSPs
+
+WARNING: Seq_3760 does not have 2 HSPs
+
+WARNING: Seq_3805 does not have 2 HSPs
+
+WARNING: Seq_3898 does not have 2 HSPs
+
+WARNING: Seq_3942 does not have 2 HSPs
+
+WARNING: Seq_3975 does not have 2 HSPs
+
+WARNING: Seq_3982 does not have 2 HSPs
+
+WARNING: Seq_4000 does not have 2 HSPs
+
+WARNING: Seq_4027 does not have 2 HSPs
+
+WARNING: Seq_4138 does not have 2 HSPs
+
+WARNING: Seq_4141 does not have 2 HSPs
+
+WARNING: Seq_4164 does not have 2 HSPs
+
+WARNING: Seq_4204 does not have 2 HSPs
+
+WARNING: Seq_4227 does not have 2 HSPs
+
+WARNING: Seq_4292 does not have 2 HSPs
+
+WARNING: Seq_4329 does not have 2 HSPs
+
+WARNING: Seq_4420 does not have 2 HSPs
+
+WARNING: Seq_4471 does not have 2 HSPs
+
+WARNING: Seq_4567 does not have 2 HSPs
+
+WARNING: Seq_4572 does not have 2 HSPs
+
+WARNING: Seq_4598 does not have 2 HSPs
+
+WARNING: Seq_4615 does not have 2 HSPs
+
+WARNING: Seq_4624 does not have 2 HSPs
+
+WARNING: Seq_4649 does not have 2 HSPs
+
+WARNING: Seq_4653 HSP1 does not start at 1
+
+WARNING: Seq_4762 does not have 2 HSPs
+
+WARNING: Seq_4814 does not have 2 HSPs
+
+WARNING: Seq_4833 does not have 2 HSPs
+
+WARNING: Seq_4845 does not have 2 HSPs
+
+WARNING: Seq_4850 does not have 2 HSPs
+
+WARNING: Seq_4933 does not have 2 HSPs
+
+WARNING: Seq_5004 does not have 2 HSPs
+
+WARNING: Seq_5071 does not have 2 HSPs
+
+WARNING: Seq_5137 does not have 2 HSPs
+
+WARNING: Seq_5207 does not have 2 HSPs
+
+WARNING: Seq_5215 does not have 2 HSPs
+
+WARNING: Seq_5217 does not have 2 HSPs
+
+WARNING: Seq_5227 does not have 2 HSPs
+
+WARNING: Seq_5277 does not have 2 HSPs
+
+WARNING: Seq_5283 does not have 2 HSPs
+
+WARNING: Seq_5288 does not have 2 HSPs
+
+WARNING: Seq_5297 does not have 2 HSPs
+
+WARNING: Seq_5319 does not have 2 HSPs
+
+WARNING: Seq_5329 does not have 2 HSPs
+
+WARNING: Seq_5331 does not have 2 HSPs
+
+WARNING: Seq_5375 does not have 2 HSPs
+
+WARNING: Seq_5391 does not have 2 HSPs
+
+WARNING: Seq_5395 does not have 2 HSPs
+
+WARNING: Seq_5546 does not have 2 HSPs
+
+WARNING: Seq_5548 does not have 2 HSPs
+
+WARNING: Seq_5563 does not have 2 HSPs
+
+WARNING: Seq_5652 does not have 2 HSPs
+
+WARNING: Seq_5736 does not have 2 HSPs
+
+WARNING: Seq_5754 does not have 2 HSPs
+
+WARNING: Seq_5766 does not have 2 HSPs
+
+WARNING: Seq_5775 does not have 2 HSPs
+
+WARNING: Seq_5776 does not have 2 HSPs
+
+WARNING: Seq_5783 does not have 2 HSPs
+
+WARNING: Seq_5794 does not have 2 HSPs
+
+WARNING: Seq_5802 does not have 2 HSPs
+
+WARNING: Seq_5829 does not have 2 HSPs
+
+WARNING: Seq_5958 does not have 2 HSPs
+
+WARNING: Seq_6025 does not have 2 HSPs
+
+WARNING: Seq_6050 does not have 2 HSPs
+
+WARNING: Seq_6106 does not have 2 HSPs
+
+WARNING: Seq_6107 does not have 2 HSPs
+
+WARNING: Seq_6118 does not have 2 HSPs
+
+WARNING: Seq_6121 does not have 2 HSPs
+
+WARNING: Seq_6123 does not have 2 HSPs
+
+WARNING: Seq_6211 does not have 2 HSPs
+
+WARNING: Seq_6335 HSP2 does not reach end
+
+WARNING: Seq_6385 does not have 2 HSPs
+
+WARNING: Seq_6427 does not have 2 HSPs
+
+WARNING: Seq_6454 does not have 2 HSPs
+
+WARNING: Seq_6479 does not have 2 HSPs
+
+WARNING: Seq_6556 does not have 2 HSPs
+
+WARNING: Seq_6589 does not have 2 HSPs
+
+WARNING: Seq_6590 does not have 2 HSPs
+
+WARNING: Seq_6601 does not have 2 HSPs
+
+WARNING: Seq_6612 does not have 2 HSPs
+
+WARNING: Seq_6660 does not have 2 HSPs
+
+WARNING: Seq_6755 does not have 2 HSPs
+
+WARNING: Seq_6824 does not have 2 HSPs
+
+WARNING: Seq_6913 does not have 2 HSPs
+
+WARNING: Seq_6968 does not have 2 HSPs
+
+WARNING: Seq_7018 does not have 2 HSPs
+
+WARNING: Seq_7064 does not have 2 HSPs
+
+WARNING: Seq_7272 does not have 2 HSPs
+
+WARNING: Seq_7282 does not have 2 HSPs
+
+WARNING: Seq_7300 does not have 2 HSPs
+
+WARNING: Seq_7401 does not have 2 HSPs
+
+WARNING: Seq_7447 does not have 2 HSPs
+
+WARNING: Seq_7451 does not have 2 HSPs
+
+WARNING: Seq_7472 does not have 2 HSPs
+
+WARNING: Seq_7534 does not have 2 HSPs
+
+WARNING: Seq_7592 does not have 2 HSPs
+
+WARNING: Seq_7596 does not have 2 HSPs
+
+WARNING: Seq_7616 does not have 2 HSPs
+
+WARNING: Seq_7703 does not have 2 HSPs
+
+WARNING: Seq_7759 does not have 2 HSPs
+
+WARNING: Seq_7798 does not have 2 HSPs
+
+WARNING: Seq_7815 HSP2 does not reach end
+
+WARNING: Seq_7856 does not have 2 HSPs
+
+WARNING: Seq_7878 does not have 2 HSPs
+
+WARNING: Seq_7883 does not have 2 HSPs
+
+WARNING: Seq_7894 does not have 2 HSPs
+
+WARNING: Seq_7911 does not have 2 HSPs
+
+WARNING: Seq_7924 does not have 2 HSPs
+
+WARNING: Seq_7936 does not have 2 HSPs
+
+WARNING: Seq_7948 does not have 2 HSPs
+
+WARNING: Seq_7962 does not have 2 HSPs
+
+WARNING: Seq_7970 does not have 2 HSPs
+
+WARNING: Seq_7976 does not have 2 HSPs
+
+WARNING: Seq_8000 does not have 2 HSPs
+
+WARNING: Seq_8074 does not have 2 HSPs
+
+WARNING: Seq_8161 does not have 2 HSPs
+
+WARNING: Seq_8162 does not have 2 HSPs
+
+WARNING: Seq_8172 does not have 2 HSPs
+
+WARNING: Seq_8184 does not have 2 HSPs
+
+WARNING: Seq_8273 does not have 2 HSPs
+
+WARNING: Seq_8308 does not have 2 HSPs
+
+WARNING: Seq_8412 does not have 2 HSPs
+
+WARNING: Seq_8436 does not have 2 HSPs
+
+WARNING: Seq_8490 does not have 2 HSPs
+
+WARNING: Seq_8510 does not have 2 HSPs
+
+WARNING: Seq_8519 does not have 2 HSPs
+
+WARNING: Seq_8550 does not have 2 HSPs
+
+WARNING: Seq_8575 does not have 2 HSPs
+
+WARNING: Seq_8607 does not have 2 HSPs
+
+WARNING: Seq_8689 does not have 2 HSPs
+
+WARNING: Seq_8778 does not have 2 HSPs
+
+WARNING: Seq_8789 does not have 2 HSPs
+
+WARNING: Seq_8808 does not have 2 HSPs
+
+WARNING: Seq_8826 does not have 2 HSPs
+
+WARNING: Seq_8845 does not have 2 HSPs
+
+WARNING: Seq_8899 does not have 2 HSPs
+
+WARNING: Seq_9003 does not have 2 HSPs
+
+WARNING: Seq_9026 does not have 2 HSPs
+
+WARNING: Seq_9056 does not have 2 HSPs
+
+WARNING: Seq_9083 HSP1 does not start at 1
+
+WARNING: Seq_9170 does not have 2 HSPs
+
+WARNING: Seq_9199 does not have 2 HSPs
+
+WARNING: Seq_9217 does not have 2 HSPs
+
+WARNING: Seq_9220 HSP2 does not reach end
+
+WARNING: Seq_9232 does not have 2 HSPs
+
+WARNING: Seq_9239 does not have 2 HSPs
+
+WARNING: Seq_9317 does not have 2 HSPs
+
+WARNING: Seq_9329 does not have 2 HSPs
+
+WARNING: Seq_9333 does not have 2 HSPs
+
+WARNING: Seq_9354 does not have 2 HSPs
+
+WARNING: Seq_9361 does not have 2 HSPs
+
+WARNING: Seq_9427 does not have 2 HSPs
+
+WARNING: Seq_9483 HSP2 does not reach end
+
+WARNING: Seq_9541 does not have 2 HSPs
+
+WARNING: Seq_9556 does not have 2 HSPs
+
+WARNING: Seq_9574 does not have 2 HSPs
+
+WARNING: Seq_9639 does not have 2 HSPs
+
+WARNING: Seq_9674 does not have 2 HSPs
+
+WARNING: Seq_9678 does not have 2 HSPs
+
+WARNING: Seq_9714 does not have 2 HSPs
+
+WARNING: Seq_9719 does not have 2 HSPs
+
+WARNING: Seq_9738 does not have 2 HSPs
+
+WARNING: Seq_9747 does not have 2 HSPs
+
+WARNING: Seq_9753 does not have 2 HSPs
+
+WARNING: Seq_9813 does not have 2 HSPs
+
+WARNING: Seq_9824 HSP2 does not reach end
+
+WARNING: Seq_9845 does not have 2 HSPs
+
+WARNING: Seq_9863 does not have 2 HSPs
+
+WARNING: Seq_9900 does not have 2 HSPs
+
+WARNING: Seq_9950 does not have 2 HSPs
+
+WARNING: Seq_9977 does not have 2 HSPs
+
+WARNING: Seq_10082 does not have 2 HSPs
+
+WARNING: Seq_10092 does not have 2 HSPs
+
+WARNING: Seq_10119 does not have 2 HSPs
+
+WARNING: Seq_10123 does not have 2 HSPs
+
+WARNING: Seq_10128 does not have 2 HSPs
+
+WARNING: Seq_10151 does not have 2 HSPs
+
+WARNING: Seq_10172 does not have 2 HSPs
+
+WARNING: Seq_10221 does not have 2 HSPs
+
+WARNING: Seq_10348 does not have 2 HSPs
+
+WARNING: Seq_10350 does not have 2 HSPs
+
+WARNING: Seq_10391 HSP2 does not reach end
+
+WARNING: Seq_10392 does not have 2 HSPs
+
+WARNING: Seq_10404 does not have 2 HSPs
+
+WARNING: Seq_10431 does not have 2 HSPs
+
+WARNING: Seq_10458 does not have 2 HSPs
+
+WARNING: Seq_10472 does not have 2 HSPs
+
+WARNING: Seq_10544 HSP2 does not reach end
+
+WARNING: Seq_10613 does not have 2 HSPs
+
+WARNING: Seq_10659 does not have 2 HSPs
+
+WARNING: Seq_10675 does not have 2 HSPs
+
+WARNING: Seq_10679 does not have 2 HSPs
+
+WARNING: Seq_10692 does not have 2 HSPs
+
+WARNING: Seq_10768 does not have 2 HSPs
+
+WARNING: Seq_10785 does not have 2 HSPs
+
+WARNING: Seq_10793 does not have 2 HSPs
+
+WARNING: Seq_10820 does not have 2 HSPs
+
+WARNING: Seq_10833 does not have 2 HSPs
+
+WARNING: Seq_10838 does not have 2 HSPs
+
+WARNING: Seq_10928 does not have 2 HSPs
+
+WARNING: Seq_10934 HSP1 does not start at 1
+
+WARNING: Seq_10953 does not have 2 HSPs
+
+WARNING: Seq_11023 does not have 2 HSPs
+
+WARNING: Seq_11025 does not have 2 HSPs
+
+WARNING: Seq_11040 does not have 2 HSPs
+
+WARNING: Seq_11043 HSP2 does not reach end
+
+WARNING: Seq_11076 does not have 2 HSPs
+
+WARNING: Seq_11127 HSP2 does not reach end
+
+WARNING: Seq_11160 does not have 2 HSPs
+
+WARNING: Seq_11169 does not have 2 HSPs
+
+WARNING: Seq_11237 does not have 2 HSPs
+
+WARNING: Seq_11238 does not have 2 HSPs
+
+WARNING: Seq_11259 does not have 2 HSPs
+
+WARNING: Seq_11270 does not have 2 HSPs
+
+WARNING: Seq_11316 does not have 2 HSPs
+
+WARNING: Seq_11334 does not have 2 HSPs
+
+WARNING: Seq_11366 does not have 2 HSPs
+
+WARNING: Seq_11401 does not have 2 HSPs
+
+WARNING: Seq_11499 does not have 2 HSPs
+
+WARNING: Seq_11508 does not have 2 HSPs
+
+WARNING: Seq_11534 does not have 2 HSPs
+
+WARNING: Seq_11605 does not have 2 HSPs
+
+WARNING: Seq_11607 does not have 2 HSPs
+
+WARNING: Seq_11657 does not have 2 HSPs
+
+WARNING: Seq_11680 does not have 2 HSPs
+
+WARNING: Seq_11734 does not have 2 HSPs
+
+WARNING: Seq_11739 does not have 2 HSPs
+
+WARNING: Seq_11747 does not have 2 HSPs
+
+WARNING: Seq_11767 does not have 2 HSPs
+
+WARNING: Seq_11784 HSP1 does not start at 1
+
+WARNING: Seq_11794 does not have 2 HSPs
+
+WARNING: Seq_11894 does not have 2 HSPs
+
+WARNING: Seq_11897 does not have 2 HSPs
+
+WARNING: Seq_12111 does not have 2 HSPs
+
+WARNING: Seq_12160 does not have 2 HSPs
+
+WARNING: Seq_12204 does not have 2 HSPs
+
+WARNING: Seq_12209 does not have 2 HSPs
+
+WARNING: Seq_12219 does not have 2 HSPs
+
+WARNING: Seq_12237 HSP2 does not reach end
+
+WARNING: Seq_12246 does not have 2 HSPs
+
+WARNING: Seq_12281 does not have 2 HSPs
+
+WARNING: Seq_12292 does not have 2 HSPs
+
+WARNING: Seq_12304 does not have 2 HSPs
+
+WARNING: not hit for Seq_12355
+
+WARNING: Seq_12357 does not have 2 HSPs
+
+WARNING: Seq_12382 does not have 2 HSPs
+
+WARNING: Seq_12388 does not have 2 HSPs
+
+WARNING: Seq_12444 does not have 2 HSPs
+
+WARNING: Seq_12452 does not have 2 HSPs
+
+WARNING: Seq_12480 does not have 2 HSPs
+
+WARNING: Seq_12566 does not have 2 HSPs
+
+WARNING: Seq_12571 does not have 2 HSPs
+
+WARNING: Seq_12600 does not have 2 HSPs
+
+WARNING: Seq_12619 does not have 2 HSPs
+
+WARNING: Seq_12707 HSP2 does not reach end
+
+WARNING: Seq_12736 does not have 2 HSPs
+
+WARNING: Seq_12738 does not have 2 HSPs
+
+WARNING: Seq_12812 does not have 2 HSPs
+
+WARNING: Seq_12814 does not have 2 HSPs
+
+WARNING: Seq_12816 does not have 2 HSPs
+
+WARNING: Seq_12855 does not have 2 HSPs
+
+WARNING: Seq_12880 does not have 2 HSPs
+
+WARNING: Seq_12882 does not have 2 HSPs
+
+WARNING: Seq_12918 does not have 2 HSPs
+
+WARNING: Seq_13037 does not have 2 HSPs
+
+WARNING: Seq_13057 does not have 2 HSPs
+
+WARNING: Seq_13061 does not have 2 HSPs
+
+WARNING: Seq_13078 does not have 2 HSPs
+
+WARNING: Seq_13179 does not have 2 HSPs
+
+WARNING: Seq_13255 does not have 2 HSPs
+
+WARNING: Seq_13333 does not have 2 HSPs
+
+WARNING: Seq_13402 HSP2 does not reach end
+
+WARNING: Seq_13432 does not have 2 HSPs
+
+WARNING: Seq_13465 does not have 2 HSPs
+
+WARNING: Seq_13466 does not have 2 HSPs
+
+WARNING: Seq_13496 does not have 2 HSPs
+
+WARNING: Seq_13497 HSP2 does not reach end
+
+WARNING: Seq_13558 does not have 2 HSPs
+
+WARNING: Seq_13689 does not have 2 HSPs
+
+WARNING: Seq_13697 does not have 2 HSPs
+
+WARNING: Seq_13740 does not have 2 HSPs
+
+WARNING: Seq_13838 HSP2 does not reach end
+
+WARNING: Seq_13852 does not have 2 HSPs
+
+WARNING: Seq_13856 does not have 2 HSPs
+
+WARNING: Seq_13865 HSP2 does not reach end
+
+WARNING: Seq_13976 does not have 2 HSPs
+
+WARNING: Seq_13980 does not have 2 HSPs
+
+WARNING: Seq_13982 does not have 2 HSPs
+
+WARNING: Seq_14070 does not have 2 HSPs
+
+WARNING: Seq_14085 does not have 2 HSPs
+
+WARNING: Seq_14093 HSP2 does not reach end
+
+WARNING: Seq_14111 does not have 2 HSPs
+
+WARNING: Seq_14127 does not have 2 HSPs
+
+WARNING: Seq_14146 HSP1 does not start at 1
+
+WARNING: Seq_14208 does not have 2 HSPs
+
+WARNING: Seq_14242 HSP2 does not reach end
+
+WARNING: Seq_14249 HSP2 does not reach end
+
+WARNING: Seq_14276 does not have 2 HSPs
+
+WARNING: Seq_14314 does not have 2 HSPs
+
+WARNING: Seq_14339 does not have 2 HSPs
+
+WARNING: Seq_14359 does not have 2 HSPs
+
+WARNING: Seq_14402 does not have 2 HSPs
+
+WARNING: Seq_14439 does not have 2 HSPs
+
+WARNING: Seq_14502 does not have 2 HSPs
+
+WARNING: Seq_14532 does not have 2 HSPs
+
+WARNING: Seq_14567 does not have 2 HSPs
+
+WARNING: Seq_14575 does not have 2 HSPs
+
+WARNING: Seq_14586 HSP2 does not reach end
+
+WARNING: Seq_14593 does not have 2 HSPs
+
+WARNING: Seq_14606 does not have 2 HSPs
+
+WARNING: Seq_14607 does not have 2 HSPs
+
+WARNING: Seq_14616 does not have 2 HSPs
+
+WARNING: Seq_14621 HSP2 does not reach end
+
+WARNING: Seq_14652 does not have 2 HSPs
+
+WARNING: Seq_14661 does not have 2 HSPs
+
+WARNING: Seq_14669 does not have 2 HSPs
+
+WARNING: Seq_14693 does not have 2 HSPs
+
+WARNING: Seq_14708 does not have 2 HSPs
+
+WARNING: Seq_14730 does not have 2 HSPs
+
+WARNING: Seq_14787 does not have 2 HSPs
+
+WARNING: Seq_14793 does not have 2 HSPs
+
+WARNING: Seq_14827 does not have 2 HSPs
+
+WARNING: Seq_14846 does not have 2 HSPs
+
+WARNING: Seq_14861 does not have 2 HSPs
+
+WARNING: Seq_14884 does not have 2 HSPs
+
+WARNING: Seq_14909 does not have 2 HSPs
+
+WARNING: Seq_14922 does not have 2 HSPs
+
+WARNING: Seq_14924 does not have 2 HSPs
+
+WARNING: Seq_14971 does not have 2 HSPs
+
+WARNING: Seq_15023 does not have 2 HSPs
+
+WARNING: Seq_15041 does not have 2 HSPs
+
+WARNING: Seq_15053 does not have 2 HSPs
+
+WARNING: Seq_15076 does not have 2 HSPs
+
+WARNING: Seq_15080 does not have 2 HSPs
+
+WARNING: Seq_15105 does not have 2 HSPs
+
+WARNING: Seq_15119 does not have 2 HSPs
+
+WARNING: Seq_15159 does not have 2 HSPs
+
+WARNING: Seq_15200 does not have 2 HSPs
+
+WARNING: Seq_15215 does not have 2 HSPs
+
+WARNING: Seq_15222 does not have 2 HSPs
+
+WARNING: Seq_15223 does not have 2 HSPs
+
+WARNING: Seq_15236 does not have 2 HSPs
+
+WARNING: Seq_15274 does not have 2 HSPs
+
+WARNING: Seq_15295 does not have 2 HSPs
+
+WARNING: Seq_15311 does not have 2 HSPs
+
+WARNING: Seq_15332 does not have 2 HSPs
+
+WARNING: Seq_15335 does not have 2 HSPs
+
+WARNING: Seq_15378 does not have 2 HSPs
+
+WARNING: Seq_15420 does not have 2 HSPs
+
+WARNING: Seq_15435 does not have 2 HSPs
+
+WARNING: Seq_15463 does not have 2 HSPs
+
+WARNING: Seq_15511 HSP2 does not reach end
+
+WARNING: Seq_15522 HSP2 does not reach end
+
+WARNING: Seq_15539 does not have 2 HSPs
+
+WARNING: not hit for Seq_15542
+
+WARNING: Seq_15564 does not have 2 HSPs
+
+WARNING: Seq_15572 does not have 2 HSPs
+
+WARNING: Seq_15593 does not have 2 HSPs
+
+WARNING: Seq_15595 does not have 2 HSPs
+
+WARNING: Seq_15714 does not have 2 HSPs
+
+WARNING: Seq_15728 does not have 2 HSPs
+
+WARNING: Seq_15741 does not have 2 HSPs
+
+WARNING: Seq_15819 does not have 2 HSPs
+
+WARNING: Seq_15827 does not have 2 HSPs
+
+WARNING: Seq_15901 does not have 2 HSPs
+
+WARNING: Seq_15910 does not have 2 HSPs
+
+WARNING: Seq_15915 does not have 2 HSPs
+
+WARNING: Seq_15919 does not have 2 HSPs
+
+WARNING: Seq_15942 does not have 2 HSPs
+
+WARNING: Seq_15954 does not have 2 HSPs
+
+WARNING: Seq_15991 does not have 2 HSPs
+
+WARNING: Seq_15995 does not have 2 HSPs
+
+WARNING: Seq_16024 does not have 2 HSPs
+
+WARNING: Seq_16090 does not have 2 HSPs
+
+WARNING: Seq_16158 does not have 2 HSPs
+
+WARNING: Seq_16160 does not have 2 HSPs
+
+WARNING: Seq_16182 HSP1 does not start at 1
+
+WARNING: Seq_16209 does not have 2 HSPs
+
+WARNING: Seq_16341 HSP2 does not reach end
+
+WARNING: Seq_16416 does not have 2 HSPs
+
+WARNING: Seq_16431 does not have 2 HSPs
+
+WARNING: Seq_16432 does not have 2 HSPs
+
+WARNING: Seq_16447 does not have 2 HSPs
+
+WARNING: Seq_16451 does not have 2 HSPs
+
+WARNING: Seq_16500 does not have 2 HSPs
+
+WARNING: Seq_16501 HSP2 does not reach end
+
+WARNING: Seq_16593 does not have 2 HSPs
+
+WARNING: Seq_16607 does not have 2 HSPs
+
+WARNING: Seq_16610 does not have 2 HSPs
+
+WARNING: Seq_16643 does not have 2 HSPs
+
+WARNING: Seq_16685 does not have 2 HSPs
+
+WARNING: Seq_16688 does not have 2 HSPs
+
+WARNING: Seq_16710 does not have 2 HSPs
+
+WARNING: Seq_16771 does not have 2 HSPs
+
+WARNING: Seq_16780 does not have 2 HSPs
+
+WARNING: Seq_16785 does not have 2 HSPs
+
+WARNING: Seq_16837 does not have 2 HSPs
+
+WARNING: Seq_16848 does not have 2 HSPs
+
+WARNING: Seq_16863 HSP2 does not reach end
+
+WARNING: Seq_16869 HSP2 does not reach end
+
+WARNING: Seq_16890 does not have 2 HSPs
+
+WARNING: Seq_16902 does not have 2 HSPs
+
+WARNING: Seq_16947 does not have 2 HSPs
+
+WARNING: Seq_16991 does not have 2 HSPs
+
+WARNING: Seq_17020 does not have 2 HSPs
+
+WARNING: Seq_17078 does not have 2 HSPs
+
+WARNING: Seq_17130 does not have 2 HSPs
+
+WARNING: Seq_17240 does not have 2 HSPs
+
+WARNING: Seq_17324 does not have 2 HSPs
+
+WARNING: Seq_17332 does not have 2 HSPs
+
+WARNING: Seq_17359 does not have 2 HSPs
+
+WARNING: Seq_17378 does not have 2 HSPs
+
+WARNING: Seq_17408 HSP2 does not reach end
+
+WARNING: Seq_17414 does not have 2 HSPs
+
+WARNING: Seq_17420 does not have 2 HSPs
+
+WARNING: Seq_17442 does not have 2 HSPs
+
+WARNING: Seq_17454 does not have 2 HSPs
+
+WARNING: Seq_17498 does not have 2 HSPs
+
+WARNING: not hit for Seq_17509
+
+WARNING: Seq_17592 does not have 2 HSPs
+
+WARNING: Seq_17651 does not have 2 HSPs
+
+WARNING: Seq_17656 does not have 2 HSPs
+
+WARNING: Seq_17687 does not have 2 HSPs
+
+WARNING: Seq_17694 does not have 2 HSPs
+
+WARNING: Seq_17703 does not have 2 HSPs
+
+WARNING: Seq_17714 does not have 2 HSPs
+
+WARNING: Seq_17724 HSP2 does not reach end
+
+WARNING: Seq_17769 does not have 2 HSPs
+
+WARNING: Seq_17770 does not have 2 HSPs
+
+WARNING: Seq_17778 does not have 2 HSPs
+
+WARNING: Seq_17796 does not have 2 HSPs
+
+WARNING: Seq_17801 does not have 2 HSPs
+
+WARNING: Seq_17833 does not have 2 HSPs
+
+WARNING: Seq_17901 does not have 2 HSPs
+
+WARNING: Seq_17967 does not have 2 HSPs
+
+WARNING: Seq_18007 does not have 2 HSPs
+
+WARNING: Seq_18020 does not have 2 HSPs
+
+WARNING: Seq_18028 does not have 2 HSPs
+
+WARNING: Seq_18084 does not have 2 HSPs
+
+WARNING: Seq_18132 HSP2 does not reach end
+
+WARNING: Seq_18141 does not have 2 HSPs
+
+WARNING: Seq_18142 does not have 2 HSPs
+
+WARNING: Seq_18195 does not have 2 HSPs
+
+WARNING: Seq_18206 does not have 2 HSPs
+
+WARNING: Seq_18269 does not have 2 HSPs
+
+WARNING: Seq_18278 does not have 2 HSPs
+
+WARNING: Seq_18283 does not have 2 HSPs
+
+WARNING: Seq_18298 does not have 2 HSPs
+
+WARNING: Seq_18334 does not have 2 HSPs
+
+WARNING: Seq_18335 does not have 2 HSPs
+
+WARNING: Seq_18386 does not have 2 HSPs
+
+WARNING: Seq_18404 does not have 2 HSPs
+
+WARNING: Seq_18434 does not have 2 HSPs
+
+WARNING: Seq_18555 does not have 2 HSPs
+
+WARNING: Seq_18558 does not have 2 HSPs
+
+WARNING: Seq_18602 does not have 2 HSPs
+
+WARNING: Seq_18620 does not have 2 HSPs
+
+WARNING: Seq_18671 does not have 2 HSPs
+
+WARNING: Seq_18694 HSP2 does not reach end
+
+WARNING: Seq_18695 does not have 2 HSPs
+
+WARNING: Seq_18699 does not have 2 HSPs
+
+WARNING: Seq_18702 does not have 2 HSPs
+
+WARNING: Seq_18737 does not have 2 HSPs
+
+WARNING: Seq_18788 does not have 2 HSPs
+
+WARNING: Seq_18828 does not have 2 HSPs
+
+WARNING: Seq_18832 does not have 2 HSPs
+
+WARNING: Seq_18836 does not have 2 HSPs
+
+WARNING: Seq_18839 does not have 2 HSPs
+
+WARNING: Seq_18840 does not have 2 HSPs
+
+WARNING: Seq_18901 does not have 2 HSPs
+
+WARNING: Seq_18929 does not have 2 HSPs
+
+WARNING: Seq_18976 does not have 2 HSPs
+
+WARNING: Seq_18986 HSP1 does not start at 1
+
+WARNING: Seq_18998 does not have 2 HSPs
+
+WARNING: Seq_19114 does not have 2 HSPs
+
+WARNING: Seq_19121 does not have 2 HSPs
+
+WARNING: Seq_19156 does not have 2 HSPs
+
+WARNING: Seq_19194 does not have 2 HSPs
+
+WARNING: Seq_19369 does not have 2 HSPs
+
+WARNING: Seq_19383 does not have 2 HSPs
+
+WARNING: Seq_19398 does not have 2 HSPs
+
+WARNING: Seq_19417 does not have 2 HSPs
+
+WARNING: Seq_19457 does not have 2 HSPs
+
+WARNING: Seq_19464 does not have 2 HSPs
+
+WARNING: Seq_19481 does not have 2 HSPs
+
+WARNING: Seq_19491 does not have 2 HSPs
+
+WARNING: Seq_19508 does not have 2 HSPs
+
+WARNING: Seq_19510 does not have 2 HSPs
+
+WARNING: Seq_19522 does not have 2 HSPs
+
+WARNING: Seq_19533 does not have 2 HSPs
+
+WARNING: Seq_19563 does not have 2 HSPs
+
+WARNING: Seq_19571 does not have 2 HSPs
+
+WARNING: Seq_19581 does not have 2 HSPs
+
+WARNING: Seq_19590 does not have 2 HSPs
+
+WARNING: Seq_19787 does not have 2 HSPs
+
+WARNING: Seq_19834 does not have 2 HSPs
+
+WARNING: Seq_19872 does not have 2 HSPs
+
+WARNING: Seq_19944 does not have 2 HSPs
+
+WARNING: Seq_20019 does not have 2 HSPs
+
+WARNING: Seq_20116 does not have 2 HSPs
+
+WARNING: Seq_20117 does not have 2 HSPs
+
+WARNING: Seq_20138 does not have 2 HSPs
+
+WARNING: Seq_20146 does not have 2 HSPs
+
+WARNING: Seq_20153 HSP1 does not start at 1
+
+WARNING: Seq_20171 HSP1 does not start at 1
+
+WARNING: Seq_20175 does not have 2 HSPs
+
+WARNING: Seq_20179 does not have 2 HSPs
+
+WARNING: Seq_20203 does not have 2 HSPs
+
+WARNING: Seq_20259 does not have 2 HSPs
+
+WARNING: Seq_20287 does not have 2 HSPs
+
+WARNING: Seq_20324 does not have 2 HSPs
+
+WARNING: Seq_20422 HSP2 does not reach end
+
+WARNING: Seq_20435 does not have 2 HSPs
+
+WARNING: Seq_20463 does not have 2 HSPs
+
+WARNING: Seq_20486 does not have 2 HSPs
+
+WARNING: Seq_20510 does not have 2 HSPs
+
+WARNING: Seq_20570 does not have 2 HSPs
+
+WARNING: Seq_20582 does not have 2 HSPs
+
+WARNING: Seq_20648 does not have 2 HSPs
+
+WARNING: Seq_20669 does not have 2 HSPs
+
+WARNING: Seq_20686 does not have 2 HSPs
+
+WARNING: Seq_20690 does not have 2 HSPs
+
+WARNING: Seq_20839 does not have 2 HSPs
+
+WARNING: Seq_20855 does not have 2 HSPs
+
+WARNING: Seq_20875 does not have 2 HSPs
+
+WARNING: Seq_20914 does not have 2 HSPs
+
+WARNING: Seq_20944 does not have 2 HSPs
+
+WARNING: Seq_20976 does not have 2 HSPs
+
+WARNING: Seq_20978 does not have 2 HSPs
+
+WARNING: Seq_20982 does not have 2 HSPs
+
+WARNING: Seq_21021 does not have 2 HSPs
+
+WARNING: Seq_21030 does not have 2 HSPs
+
+WARNING: Seq_21041 does not have 2 HSPs
+
+WARNING: Seq_21055 does not have 2 HSPs
+
+WARNING: Seq_21058 does not have 2 HSPs
+
+WARNING: Seq_21097 does not have 2 HSPs
+
+WARNING: Seq_21121 does not have 2 HSPs
+
+WARNING: Seq_21146 does not have 2 HSPs
+
+WARNING: Seq_21185 does not have 2 HSPs
+
+WARNING: Seq_21202 does not have 2 HSPs
+
+WARNING: Seq_21276 does not have 2 HSPs
+
+WARNING: Seq_21293 does not have 2 HSPs
+
+WARNING: Seq_21346 does not have 2 HSPs
+
+WARNING: Seq_21401 does not have 2 HSPs
+
+WARNING: Seq_21465 does not have 2 HSPs
+
+WARNING: Seq_21472 does not have 2 HSPs
+
+WARNING: Seq_21475 does not have 2 HSPs
+
+WARNING: Seq_21524 does not have 2 HSPs
+
+WARNING: Seq_21584 does not have 2 HSPs
+
+WARNING: Seq_21591 does not have 2 HSPs
+
+WARNING: Seq_21594 does not have 2 HSPs
+
+WARNING: Seq_21664 does not have 2 HSPs
+
+WARNING: Seq_21691 does not have 2 HSPs
+
+WARNING: Seq_21783 does not have 2 HSPs
+
+WARNING: Seq_21784 does not have 2 HSPs
+
+WARNING: Seq_21811 does not have 2 HSPs
+
+WARNING: Seq_21832 does not have 2 HSPs
+
+WARNING: Seq_21849 does not have 2 HSPs
+
+WARNING: Seq_21876 does not have 2 HSPs
+
+WARNING: Seq_21891 does not have 2 HSPs
+
+WARNING: Seq_21903 does not have 2 HSPs
+
+WARNING: Seq_21957 does not have 2 HSPs
+
+WARNING: Seq_21989 does not have 2 HSPs
+
+WARNING: Seq_22040 does not have 2 HSPs
+
+WARNING: Seq_22060 does not have 2 HSPs
+
+WARNING: Seq_22117 does not have 2 HSPs
+
+WARNING: Seq_22128 does not have 2 HSPs
+
+WARNING: Seq_22141 does not have 2 HSPs
+
+WARNING: Seq_22152 does not have 2 HSPs
+
+WARNING: Seq_22179 does not have 2 HSPs
+
+WARNING: Seq_22181 does not have 2 HSPs
+
+WARNING: Seq_22199 does not have 2 HSPs
+
+WARNING: Seq_22286 does not have 2 HSPs
+
+WARNING: Seq_22352 does not have 2 HSPs
+
+WARNING: Seq_22394 does not have 2 HSPs
+
+WARNING: Seq_22395 does not have 2 HSPs
+
+WARNING: Seq_22430 does not have 2 HSPs
+
+WARNING: Seq_22434 does not have 2 HSPs
+
+WARNING: Seq_22454 does not have 2 HSPs
+
+WARNING: Seq_22460 does not have 2 HSPs
+
+WARNING: Seq_22507 does not have 2 HSPs
+
+WARNING: Seq_22538 does not have 2 HSPs
+
+WARNING: Seq_22572 does not have 2 HSPs
+
+WARNING: Seq_22601 does not have 2 HSPs
+
+WARNING: Seq_22605 does not have 2 HSPs
+
+WARNING: Seq_22629 does not have 2 HSPs
+
+WARNING: Seq_22646 does not have 2 HSPs
+
+WARNING: Seq_22706 does not have 2 HSPs
+
+WARNING: Seq_22778 does not have 2 HSPs
+
+WARNING: Seq_22850 does not have 2 HSPs
+
+WARNING: Seq_22892 does not have 2 HSPs
+
+WARNING: Seq_22899 does not have 2 HSPs
+
+WARNING: Seq_22907 does not have 2 HSPs
+
+WARNING: Seq_22936 does not have 2 HSPs
+
+WARNING: Seq_22951 does not have 2 HSPs
+
+WARNING: Seq_22994 does not have 2 HSPs
+
+WARNING: Seq_23012 does not have 2 HSPs
+
+WARNING: not hit for Seq_23020
+
+WARNING: not hit for Seq_23024
+
+WARNING: Seq_23028 does not have 2 HSPs
+
+WARNING: Seq_23030 does not have 2 HSPs
+
+WARNING: Seq_23137 does not have 2 HSPs
+
+WARNING: Seq_23176 does not have 2 HSPs
+
+WARNING: Seq_23204 HSP2 does not reach end
+
+WARNING: Seq_23264 does not have 2 HSPs
+
+WARNING: Seq_23266 does not have 2 HSPs
+
+WARNING: Seq_23298 does not have 2 HSPs
+
+WARNING: Seq_23303 does not have 2 HSPs
+
+WARNING: Seq_23346 does not have 2 HSPs
+
+WARNING: Seq_23410 does not have 2 HSPs
+
+WARNING: Seq_23440 HSP2 does not reach end
+
+WARNING: Seq_23480 does not have 2 HSPs
+
+WARNING: Seq_23487 does not have 2 HSPs
+
+WARNING: Seq_23528 does not have 2 HSPs
+
+WARNING: Seq_23535 does not have 2 HSPs
+
+WARNING: Seq_23561 does not have 2 HSPs
+
+WARNING: Seq_23572 does not have 2 HSPs
+
+WARNING: Seq_23576 does not have 2 HSPs
+
+WARNING: Seq_23611 does not have 2 HSPs
+
+WARNING: Seq_23625 HSP2 does not reach end
+
+WARNING: Seq_23646 does not have 2 HSPs
+
+WARNING: Seq_23689 does not have 2 HSPs
+
+WARNING: Seq_23726 does not have 2 HSPs
+
+WARNING: Seq_23732 does not have 2 HSPs
+
+WARNING: Seq_23790 does not have 2 HSPs
+
+WARNING: Seq_23810 does not have 2 HSPs
+
+WARNING: Seq_23871 does not have 2 HSPs
+
+WARNING: Seq_23889 does not have 2 HSPs
+
+WARNING: not hit for Seq_23896
+
+WARNING: Seq_23902 does not have 2 HSPs
+
+WARNING: Seq_23961 does not have 2 HSPs
+
+WARNING: Seq_23966 does not have 2 HSPs
+
+WARNING: Seq_23994 does not have 2 HSPs
+
+WARNING: Seq_23999 does not have 2 HSPs
+
+WARNING: Seq_24002 does not have 2 HSPs
+
+WARNING: Seq_24025 does not have 2 HSPs
+
+WARNING: Seq_24130 does not have 2 HSPs
+
+WARNING: Seq_24134 does not have 2 HSPs
+
+WARNING: Seq_24179 does not have 2 HSPs
+
+WARNING: Seq_24240 does not have 2 HSPs
+
+WARNING: Seq_24296 does not have 2 HSPs
+
+WARNING: Seq_24311 does not have 2 HSPs
+
+WARNING: Seq_24328 does not have 2 HSPs
+
+WARNING: Seq_24334 does not have 2 HSPs
+
+WARNING: Seq_24358 does not have 2 HSPs
+
+WARNING: Seq_24396 does not have 2 HSPs
+
+WARNING: Seq_24412 does not have 2 HSPs
+
+WARNING: Seq_24432 does not have 2 HSPs
+
+WARNING: Seq_24483 does not have 2 HSPs
+
+WARNING: Seq_24514 HSP2 does not reach end
+
+WARNING: Seq_24590 does not have 2 HSPs
+
+WARNING: Seq_24599 does not have 2 HSPs
+
+WARNING: Seq_24671 does not have 2 HSPs
+
+WARNING: Seq_24711 does not have 2 HSPs
+
+WARNING: Seq_24739 does not have 2 HSPs
+
+WARNING: Seq_24772 does not have 2 HSPs
+
+WARNING: Seq_24779 does not have 2 HSPs
+
+WARNING: Seq_24810 does not have 2 HSPs
+
+WARNING: Seq_24869 does not have 2 HSPs
+
+WARNING: Seq_24885 does not have 2 HSPs
+
+WARNING: Seq_24903 does not have 2 HSPs
+
+WARNING: Seq_24955 does not have 2 HSPs
+
+WARNING: Seq_24999 does not have 2 HSPs
+
+WARNING: Seq_25006 does not have 2 HSPs
+
+WARNING: Seq_25017 does not have 2 HSPs
+
+WARNING: Seq_25046 does not have 2 HSPs
+
+WARNING: Seq_25084 does not have 2 HSPs
+
+WARNING: Seq_25119 does not have 2 HSPs
+
+WARNING: Seq_25122 does not have 2 HSPs
+
+WARNING: Seq_25136 does not have 2 HSPs
+
+WARNING: Seq_25157 does not have 2 HSPs
+
+WARNING: Seq_25183 does not have 2 HSPs
+
+WARNING: Seq_25238 does not have 2 HSPs
+
+WARNING: Seq_25274 does not have 2 HSPs
+
+WARNING: Seq_25304 does not have 2 HSPs
+
+WARNING: Seq_25338 does not have 2 HSPs
+
+WARNING: Seq_25340 does not have 2 HSPs
+
+WARNING: Seq_25374 does not have 2 HSPs
+
+WARNING: Seq_25401 does not have 2 HSPs
+
+WARNING: Seq_25402 does not have 2 HSPs
+
+WARNING: Seq_25457 does not have 2 HSPs
+
+WARNING: Seq_25463 does not have 2 HSPs
+
+WARNING: Seq_25479 does not have 2 HSPs
+
+WARNING: Seq_25536 does not have 2 HSPs
+
+WARNING: Seq_25543 HSP2 does not reach end
+
+WARNING: Seq_25548 does not have 2 HSPs
+
+WARNING: Seq_25563 does not have 2 HSPs
+
+WARNING: Seq_25577 does not have 2 HSPs
+
+WARNING: Seq_25586 does not have 2 HSPs
+
+WARNING: Seq_25616 does not have 2 HSPs
+
+WARNING: Seq_25635 does not have 2 HSPs
+
+WARNING: Seq_25660 does not have 2 HSPs
+
+WARNING: Seq_25677 does not have 2 HSPs
+
+WARNING: Seq_25753 does not have 2 HSPs
+
+WARNING: Seq_25782 does not have 2 HSPs
+
+WARNING: Seq_25799 does not have 2 HSPs
+
+WARNING: Seq_25800 does not have 2 HSPs
+
+WARNING: Seq_25820 does not have 2 HSPs
+
+WARNING: Seq_25840 HSP2 does not reach end
+
+WARNING: Seq_25914 does not have 2 HSPs
+
+WARNING: Seq_25924 does not have 2 HSPs
+
+WARNING: Seq_25948 does not have 2 HSPs
+
+WARNING: Seq_25999 does not have 2 HSPs
+
+WARNING: Seq_26016 does not have 2 HSPs
+
+WARNING: Seq_26024 HSP2 does not reach end
+
+WARNING: Seq_26065 does not have 2 HSPs
+
+WARNING: Seq_26067 does not have 2 HSPs
+
+WARNING: Seq_26072 does not have 2 HSPs
+
+WARNING: Seq_26190 does not have 2 HSPs
+
+WARNING: Seq_26213 does not have 2 HSPs
+
+WARNING: Seq_26218 does not have 2 HSPs
+
+WARNING: Seq_26222 does not have 2 HSPs
+
+WARNING: Seq_26263 does not have 2 HSPs
+
+WARNING: Seq_26284 does not have 2 HSPs
+
+WARNING: Seq_26292 does not have 2 HSPs
+
+WARNING: Seq_26293 does not have 2 HSPs
+
+WARNING: Seq_26439 does not have 2 HSPs
+
+WARNING: Seq_26457 does not have 2 HSPs
+
+WARNING: Seq_26503 does not have 2 HSPs
+
+WARNING: Seq_26534 does not have 2 HSPs
+
+WARNING: Seq_26610 does not have 2 HSPs
+
+WARNING: Seq_26619 does not have 2 HSPs
+
+WARNING: Seq_26639 does not have 2 HSPs
+
+WARNING: Seq_26668 does not have 2 HSPs
+
+WARNING: Seq_26741 does not have 2 HSPs
+
+WARNING: Seq_26755 does not have 2 HSPs
+
+WARNING: Seq_26919 does not have 2 HSPs
+
+WARNING: Seq_26932 HSP2 does not reach end
+
+WARNING: Seq_26937 does not have 2 HSPs
+
+WARNING: Seq_26969 does not have 2 HSPs
+
+WARNING: Seq_26976 does not have 2 HSPs
+
+WARNING: Seq_26984 does not have 2 HSPs
+
+WARNING: Seq_26996 does not have 2 HSPs
+
+WARNING: Seq_27015 does not have 2 HSPs
+
+WARNING: Seq_27052 does not have 2 HSPs
+
+WARNING: Seq_27078 does not have 2 HSPs
+
+WARNING: Seq_27116 does not have 2 HSPs
+
+WARNING: Seq_27118 does not have 2 HSPs
+
+WARNING: Seq_27146 does not have 2 HSPs
+
+WARNING: Seq_27189 does not have 2 HSPs
+
+WARNING: Seq_27263 does not have 2 HSPs
+
+WARNING: Seq_27267 does not have 2 HSPs
+
+WARNING: Seq_27323 does not have 2 HSPs
+
+WARNING: Seq_27382 does not have 2 HSPs
+
+WARNING: Seq_27396 does not have 2 HSPs
+
+WARNING: Seq_27399 does not have 2 HSPs
+
+WARNING: Seq_27417 does not have 2 HSPs
+
+WARNING: Seq_27418 does not have 2 HSPs
+
+WARNING: Seq_27429 does not have 2 HSPs
+
+WARNING: Seq_27450 does not have 2 HSPs
+
+WARNING: Seq_27461 does not have 2 HSPs
+
+WARNING: Seq_27547 does not have 2 HSPs
+
+WARNING: Seq_27552 does not have 2 HSPs
+
+WARNING: Seq_27618 HSP2 does not reach end
+
+WARNING: Seq_27630 does not have 2 HSPs
+
+WARNING: Seq_27643 does not have 2 HSPs
+
+WARNING: Seq_27657 does not have 2 HSPs
+
+WARNING: Seq_27659 does not have 2 HSPs
+
+WARNING: Seq_27678 does not have 2 HSPs
+
+WARNING: Seq_27731 does not have 2 HSPs
+
+WARNING: Seq_27812 does not have 2 HSPs
+
+WARNING: Seq_27974 does not have 2 HSPs
+
+WARNING: Seq_27996 does not have 2 HSPs
+
+WARNING: Seq_28133 does not have 2 HSPs
+
+WARNING: Seq_28148 does not have 2 HSPs
+
+WARNING: Seq_28217 does not have 2 HSPs
+
+WARNING: Seq_28227 does not have 2 HSPs
+
+WARNING: Seq_28229 does not have 2 HSPs
+
+WARNING: Seq_28252 does not have 2 HSPs
+
+WARNING: Seq_28360 does not have 2 HSPs
+
+WARNING: Seq_28399 does not have 2 HSPs
+
+WARNING: not hit for Seq_28400
+
+WARNING: Seq_28425 does not have 2 HSPs
+
+WARNING: Seq_28453 does not have 2 HSPs
+
+WARNING: Seq_28528 does not have 2 HSPs
+
+WARNING: Seq_28535 does not have 2 HSPs
+
+WARNING: Seq_28540 HSP2 does not reach end
+
+WARNING: Seq_28553 does not have 2 HSPs
+
+WARNING: Seq_28597 does not have 2 HSPs
+
+WARNING: Seq_28610 does not have 2 HSPs
+
+WARNING: Seq_28611 does not have 2 HSPs
+
+WARNING: Seq_28614 does not have 2 HSPs
+
+WARNING: Seq_28650 does not have 2 HSPs
+
+WARNING: Seq_28668 does not have 2 HSPs
+
+WARNING: Seq_28695 does not have 2 HSPs
+
+WARNING: Seq_28748 does not have 2 HSPs
+
+WARNING: Seq_28752 does not have 2 HSPs
+
+WARNING: Seq_28782 does not have 2 HSPs
+
+WARNING: Seq_28800 does not have 2 HSPs
+
+WARNING: Seq_28832 does not have 2 HSPs
+
+WARNING: Seq_28851 does not have 2 HSPs
+
+WARNING: Seq_28852 does not have 2 HSPs
+
+WARNING: Seq_28896 does not have 2 HSPs
+
+WARNING: Seq_28949 does not have 2 HSPs
+
+WARNING: Seq_28957 does not have 2 HSPs
+
+WARNING: Seq_28979 does not have 2 HSPs
+
+WARNING: Seq_29041 does not have 2 HSPs
+
+WARNING: Seq_29043 does not have 2 HSPs
+
+WARNING: Seq_29048 does not have 2 HSPs
+
+WARNING: Seq_29066 HSP2 does not reach end
+
+WARNING: Seq_29085 HSP2 does not reach end
+
+WARNING: Seq_29126 does not have 2 HSPs
+
+WARNING: Seq_29246 does not have 2 HSPs
+
+WARNING: Seq_29263 does not have 2 HSPs
+
+WARNING: Seq_29317 does not have 2 HSPs
+
+WARNING: Seq_29327 does not have 2 HSPs
+
+WARNING: Seq_29346 does not have 2 HSPs
+
+WARNING: Seq_29359 does not have 2 HSPs
+
+WARNING: Seq_29470 does not have 2 HSPs
+
+WARNING: Seq_29473 does not have 2 HSPs
+
+WARNING: Seq_29495 does not have 2 HSPs
+
+WARNING: Seq_29515 does not have 2 HSPs
+
+WARNING: Seq_29524 does not have 2 HSPs
+
+WARNING: Seq_29609 does not have 2 HSPs
+
+WARNING: Seq_29618 does not have 2 HSPs
+
+WARNING: Seq_29625 does not have 2 HSPs
+
+WARNING: Seq_29642 does not have 2 HSPs
+
+WARNING: Seq_29667 does not have 2 HSPs
+
+WARNING: Seq_29699 does not have 2 HSPs
+
+WARNING: Seq_29706 does not have 2 HSPs
+
+WARNING: Seq_29721 does not have 2 HSPs
+
+WARNING: Seq_29730 does not have 2 HSPs
+
+WARNING: Seq_29740 does not have 2 HSPs
+
+WARNING: Seq_29781 does not have 2 HSPs
+
+WARNING: Seq_29827 does not have 2 HSPs
+
+WARNING: Seq_29832 does not have 2 HSPs
+
+WARNING: Seq_29833 HSP2 does not reach end
+
+WARNING: Seq_29910 HSP1 does not start at 1
+
+WARNING: Seq_29911 does not have 2 HSPs
+
+WARNING: Seq_29999 does not have 2 HSPs
+
+WARNING: Seq_30073 does not have 2 HSPs
+
+WARNING: Seq_30112 does not have 2 HSPs
+
+WARNING: Seq_30151 does not have 2 HSPs
+
+WARNING: Seq_30193 does not have 2 HSPs
+
+WARNING: Seq_30204 does not have 2 HSPs
+
+WARNING: Seq_30229 does not have 2 HSPs
+
+WARNING: Seq_30243 does not have 2 HSPs
+
+WARNING: Seq_30294 does not have 2 HSPs
+
+WARNING: Seq_30313 HSP2 does not reach end
+
+WARNING: Seq_30330 does not have 2 HSPs
+
+WARNING: Seq_30346 does not have 2 HSPs
+
+WARNING: Seq_30364 does not have 2 HSPs
+
+WARNING: Seq_30394 HSP1 does not start at 1
+
+WARNING: Seq_30435 does not have 2 HSPs
+
+WARNING: Seq_30514 does not have 2 HSPs
+
+WARNING: Seq_30532 does not have 2 HSPs
+
+WARNING: Seq_30564 does not have 2 HSPs
+
+WARNING: Seq_30606 does not have 2 HSPs
+
+WARNING: Seq_30619 does not have 2 HSPs
+
+WARNING: Seq_30638 HSP1 does not start at 1
+
+WARNING: Seq_30729 does not have 2 HSPs
+
+WARNING: Seq_30739 does not have 2 HSPs
+
+WARNING: Seq_30771 HSP2 does not reach end
+
+WARNING: Seq_30814 HSP2 does not reach end
+
+WARNING: Seq_30840 does not have 2 HSPs
+
+WARNING: Seq_30853 does not have 2 HSPs
+
+WARNING: Seq_30971 does not have 2 HSPs
+
+WARNING: Seq_31037 does not have 2 HSPs
+
+WARNING: Seq_31080 does not have 2 HSPs
+
+WARNING: Seq_31169 does not have 2 HSPs
+
+WARNING: Seq_31171 does not have 2 HSPs
+
+WARNING: Seq_31220 does not have 2 HSPs
+
+WARNING: Seq_31256 does not have 2 HSPs
+
+WARNING: Seq_31258 does not have 2 HSPs
+
+WARNING: Seq_31324 does not have 2 HSPs
+
+WARNING: Seq_31333 does not have 2 HSPs
+
+WARNING: Seq_31347 does not have 2 HSPs
+
+WARNING: Seq_31356 does not have 2 HSPs
+
+WARNING: Seq_31406 does not have 2 HSPs
+
+WARNING: Seq_31438 does not have 2 HSPs
+
+WARNING: Seq_31507 does not have 2 HSPs
+
+WARNING: Seq_31512 does not have 2 HSPs
+
+WARNING: Seq_31525 does not have 2 HSPs
+
+WARNING: Seq_31549 does not have 2 HSPs
+
+WARNING: Seq_31576 HSP2 does not reach end
+
+WARNING: Seq_31593 does not have 2 HSPs
+
+WARNING: Seq_31608 does not have 2 HSPs
+
+WARNING: Seq_31613 does not have 2 HSPs
+
+WARNING: Seq_31711 does not have 2 HSPs
+
+WARNING: Seq_31758 does not have 2 HSPs
+
+WARNING: Seq_31806 does not have 2 HSPs
+
+WARNING: Seq_31812 does not have 2 HSPs
+
+WARNING: Seq_31856 does not have 2 HSPs
+
+WARNING: Seq_31865 does not have 2 HSPs
+
+WARNING: Seq_31885 does not have 2 HSPs
+
+WARNING: Seq_31891 does not have 2 HSPs
+
+WARNING: Seq_31922 does not have 2 HSPs
+
+WARNING: Seq_32064 does not have 2 HSPs
+
+WARNING: Seq_32074 does not have 2 HSPs
+
+WARNING: Seq_32079 does not have 2 HSPs
+
+WARNING: Seq_32081 does not have 2 HSPs
+
+WARNING: Seq_32085 does not have 2 HSPs
+
+WARNING: Seq_32172 does not have 2 HSPs
+
+WARNING: Seq_32179 does not have 2 HSPs
+
+WARNING: Seq_32198 does not have 2 HSPs
+
+WARNING: Seq_32235 does not have 2 HSPs
+
+WARNING: Seq_32239 does not have 2 HSPs
+
+WARNING: Seq_32261 does not have 2 HSPs
+
+WARNING: Seq_32272 does not have 2 HSPs
+
+WARNING: Seq_32338 does not have 2 HSPs
+
+WARNING: Seq_32387 does not have 2 HSPs
+
+WARNING: Seq_32443 does not have 2 HSPs
+
+WARNING: Seq_32475 does not have 2 HSPs
+
+WARNING: Seq_32496 does not have 2 HSPs
+
+WARNING: Seq_32531 HSP2 does not reach end
+
+WARNING: Seq_32565 HSP2 does not reach end
+
+WARNING: Seq_32591 does not have 2 HSPs
+
+WARNING: Seq_32607 does not have 2 HSPs
+
+WARNING: Seq_32647 does not have 2 HSPs
+
+WARNING: Seq_32704 does not have 2 HSPs
+
+WARNING: Seq_32717 does not have 2 HSPs
+
+WARNING: Seq_32760 does not have 2 HSPs
+
+WARNING: Seq_32865 does not have 2 HSPs
+
+WARNING: Seq_32972 does not have 2 HSPs
+
+WARNING: Seq_33076 does not have 2 HSPs
+
+WARNING: Seq_33102 does not have 2 HSPs
+
+WARNING: Seq_33138 does not have 2 HSPs
+
+WARNING: Seq_33195 does not have 2 HSPs
+
+WARNING: Seq_33235 does not have 2 HSPs
+
+WARNING: Seq_33260 does not have 2 HSPs
+
+WARNING: Seq_33279 does not have 2 HSPs
+
+WARNING: Seq_33333 HSP2 does not reach end
+
+WARNING: Seq_33379 does not have 2 HSPs
+
+WARNING: Seq_33431 does not have 2 HSPs
+
+WARNING: Seq_33447 does not have 2 HSPs
+
+WARNING: Seq_33499 does not have 2 HSPs
+
+WARNING: Seq_33538 does not have 2 HSPs
+
+WARNING: Seq_33551 does not have 2 HSPs
+
+WARNING: Seq_33556 does not have 2 HSPs
+
+WARNING: Seq_33666 does not have 2 HSPs
+
+WARNING: Seq_33668 does not have 2 HSPs
+
+WARNING: Seq_33675 does not have 2 HSPs
+
+WARNING: Seq_33709 does not have 2 HSPs
+
+WARNING: Seq_33749 does not have 2 HSPs
+
+WARNING: Seq_33805 does not have 2 HSPs
+
+WARNING: Seq_33985 does not have 2 HSPs
+
+WARNING: Seq_34048 does not have 2 HSPs
+
+WARNING: Seq_34083 does not have 2 HSPs
+
+WARNING: Seq_34098 does not have 2 HSPs
+
+WARNING: Seq_34103 does not have 2 HSPs
+
+WARNING: Seq_34114 does not have 2 HSPs
+
+WARNING: Seq_34121 HSP2 does not reach end
+
+WARNING: Seq_34154 does not have 2 HSPs
+
+WARNING: Seq_34239 does not have 2 HSPs
+
+WARNING: Seq_34275 does not have 2 HSPs
+
+WARNING: Seq_34304 does not have 2 HSPs
+
+WARNING: Seq_34334 does not have 2 HSPs
+
+WARNING: Seq_34353 does not have 2 HSPs
+
+WARNING: Seq_34425 does not have 2 HSPs
+
+WARNING: Seq_34458 does not have 2 HSPs
+
+WARNING: Seq_34511 does not have 2 HSPs
+
+WARNING: Seq_34530 does not have 2 HSPs
+
+WARNING: Seq_34555 does not have 2 HSPs
+
+WARNING: Seq_34612 does not have 2 HSPs
+
+WARNING: Seq_34634 does not have 2 HSPs
+
+WARNING: Seq_34648 does not have 2 HSPs
+
+WARNING: Seq_34651 does not have 2 HSPs
+
+WARNING: Seq_34721 does not have 2 HSPs
+
+WARNING: Seq_34740 does not have 2 HSPs
+
+WARNING: Seq_34804 does not have 2 HSPs
+
+WARNING: Seq_34813 HSP2 does not reach end
+
+WARNING: Seq_34840 does not have 2 HSPs
+
+WARNING: Seq_34856 does not have 2 HSPs
+
+WARNING: Seq_34908 does not have 2 HSPs
+
+WARNING: Seq_34909 does not have 2 HSPs
+
+WARNING: Seq_35049 HSP2 does not reach end
+
+WARNING: Seq_35051 does not have 2 HSPs
+
+WARNING: Seq_35090 does not have 2 HSPs
+
+WARNING: Seq_35104 does not have 2 HSPs
+
+WARNING: Seq_35148 does not have 2 HSPs
+
+WARNING: Seq_35159 HSP2 does not reach end
+
+WARNING: Seq_35178 does not have 2 HSPs
+
+WARNING: Seq_35281 does not have 2 HSPs
+
+WARNING: Seq_35301 does not have 2 HSPs
+
+WARNING: Seq_35303 does not have 2 HSPs
+
+WARNING: Seq_35334 does not have 2 HSPs
+
+WARNING: Seq_35352 does not have 2 HSPs
+
+WARNING: Seq_35395 does not have 2 HSPs
+
+WARNING: Seq_35425 does not have 2 HSPs
+
+WARNING: Seq_35448 does not have 2 HSPs
+
+WARNING: Seq_35455 does not have 2 HSPs
+
+WARNING: Seq_35478 does not have 2 HSPs
+
+WARNING: Seq_35587 does not have 2 HSPs
+
+WARNING: Seq_35604 does not have 2 HSPs
+
+WARNING: Seq_35635 does not have 2 HSPs
+
+WARNING: Seq_35638 does not have 2 HSPs
+
+WARNING: Seq_35657 does not have 2 HSPs
+
+WARNING: Seq_35681 does not have 2 HSPs
+
+WARNING: Seq_35727 does not have 2 HSPs
+
+WARNING: Seq_35825 HSP2 does not reach end
+
+WARNING: Seq_35850 does not have 2 HSPs
+
+WARNING: Seq_35857 does not have 2 HSPs
+
+WARNING: Seq_35860 does not have 2 HSPs
+
+WARNING: Seq_35866 does not have 2 HSPs
+
+WARNING: Seq_35942 does not have 2 HSPs
+
+WARNING: Seq_35956 does not have 2 HSPs
+
+WARNING: Seq_36026 does not have 2 HSPs
+
+WARNING: Seq_36080 does not have 2 HSPs
+
+WARNING: Seq_36183 does not have 2 HSPs
+
+WARNING: Seq_36202 does not have 2 HSPs
+
+WARNING: Seq_36254 does not have 2 HSPs
+
+WARNING: Seq_36311 does not have 2 HSPs
+
+WARNING: Seq_36321 does not have 2 HSPs
+
+WARNING: Seq_36426 does not have 2 HSPs
+
+WARNING: Seq_36460 does not have 2 HSPs
+
+WARNING: Seq_36472 does not have 2 HSPs
+
+WARNING: Seq_36501 does not have 2 HSPs
+
+WARNING: Seq_36558 does not have 2 HSPs
+
+WARNING: Seq_36567 does not have 2 HSPs
+
+WARNING: Seq_36628 does not have 2 HSPs
+
+WARNING: Seq_36685 does not have 2 HSPs
+
+WARNING: Seq_36688 does not have 2 HSPs
+
+WARNING: Seq_36704 does not have 2 HSPs
+
+WARNING: Seq_36790 does not have 2 HSPs
+
+WARNING: Seq_36800 HSP1 does not start at 1
+
+WARNING: Seq_36833 HSP2 does not reach end
+
+WARNING: Seq_36853 does not have 2 HSPs
+
+WARNING: Seq_36907 does not have 2 HSPs
+
+WARNING: Seq_36918 does not have 2 HSPs
+
+WARNING: Seq_36925 does not have 2 HSPs
+
+WARNING: Seq_36944 does not have 2 HSPs
+
+WARNING: Seq_36955 does not have 2 HSPs
+
+WARNING: Seq_36972 does not have 2 HSPs
+
+WARNING: Seq_36991 does not have 2 HSPs
+
+WARNING: Seq_37043 does not have 2 HSPs
+
+WARNING: Seq_37092 does not have 2 HSPs
+
+WARNING: Seq_37097 does not have 2 HSPs
+
+WARNING: Seq_37121 does not have 2 HSPs
+
+WARNING: Seq_37151 does not have 2 HSPs
+
+WARNING: Seq_37164 does not have 2 HSPs
+
+WARNING: Seq_37201 HSP1 does not start at 1
+
+WARNING: Seq_37209 does not have 2 HSPs
+
+WARNING: Seq_37224 does not have 2 HSPs
+
+WARNING: Seq_37292 does not have 2 HSPs
+
+WARNING: Seq_37299 does not have 2 HSPs
+
+WARNING: Seq_37366 does not have 2 HSPs
+
+WARNING: Seq_37405 does not have 2 HSPs
+
+WARNING: Seq_37445 does not have 2 HSPs
+
+WARNING: Seq_37529 HSP2 does not reach end
+
+WARNING: Seq_37530 does not have 2 HSPs
+
+WARNING: Seq_37542 does not have 2 HSPs
+
+WARNING: Seq_37544 HSP2 does not reach end
+
+WARNING: Seq_37609 does not have 2 HSPs
+
+WARNING: Seq_37625 does not have 2 HSPs
+
+WARNING: Seq_37628 HSP2 does not reach end
+
+WARNING: Seq_37639 does not have 2 HSPs
+
+WARNING: Seq_37675 does not have 2 HSPs
+
+WARNING: Seq_37735 does not have 2 HSPs
+
+WARNING: Seq_37737 does not have 2 HSPs
+
+WARNING: Seq_37779 does not have 2 HSPs
+
+WARNING: Seq_37844 does not have 2 HSPs
+
+WARNING: Seq_37856 does not have 2 HSPs
+
+WARNING: Seq_37869 does not have 2 HSPs
+
+WARNING: Seq_37887 does not have 2 HSPs
+
+WARNING: Seq_37922 does not have 2 HSPs
+
+WARNING: Seq_37965 does not have 2 HSPs
+
+WARNING: Seq_37975 does not have 2 HSPs
+
+WARNING: Seq_38027 does not have 2 HSPs
+
+WARNING: Seq_38037 does not have 2 HSPs
+
+WARNING: Seq_38038 does not have 2 HSPs
+
+WARNING: Seq_38045 does not have 2 HSPs
+
+WARNING: Seq_38080 does not have 2 HSPs
+
+WARNING: Seq_38096 does not have 2 HSPs
+
+WARNING: Seq_38110 does not have 2 HSPs
+
+WARNING: Seq_38111 does not have 2 HSPs
+
+WARNING: Seq_38130 does not have 2 HSPs
+
+WARNING: Seq_38167 does not have 2 HSPs
+
+WARNING: Seq_38209 does not have 2 HSPs
+
+WARNING: Seq_38225 does not have 2 HSPs
+
+WARNING: Seq_38237 does not have 2 HSPs
+
+WARNING: Seq_38241 does not have 2 HSPs
+
+WARNING: Seq_38242 does not have 2 HSPs
+
+WARNING: Seq_38299 does not have 2 HSPs
+
+WARNING: Seq_38359 HSP2 does not reach end
+
+WARNING: Seq_38378 does not have 2 HSPs
+
+WARNING: Seq_38402 does not have 2 HSPs
+
+WARNING: Seq_38419 does not have 2 HSPs
+
+WARNING: Seq_38446 does not have 2 HSPs
+
+WARNING: Seq_38488 does not have 2 HSPs
+
+WARNING: Seq_38503 does not have 2 HSPs
+
+WARNING: Seq_38523 does not have 2 HSPs
+
+WARNING: Seq_38524 does not have 2 HSPs
+
+WARNING: Seq_38549 does not have 2 HSPs
+
+WARNING: Seq_38556 does not have 2 HSPs
+
+WARNING: Seq_38590 does not have 2 HSPs
+
+WARNING: Seq_38618 does not have 2 HSPs
+
+WARNING: Seq_38679 does not have 2 HSPs
+
+WARNING: Seq_38831 does not have 2 HSPs
+
+WARNING: Seq_38949 does not have 2 HSPs
+
+WARNING: Seq_38953 does not have 2 HSPs
+
+WARNING: Seq_38983 does not have 2 HSPs
+
+WARNING: Seq_39001 does not have 2 HSPs
+
+WARNING: Seq_39035 does not have 2 HSPs
+
+WARNING: Seq_39094 HSP2 does not reach end
+
+WARNING: Seq_39202 does not have 2 HSPs
+
+WARNING: Seq_39209 does not have 2 HSPs
+
+WARNING: Seq_39295 does not have 2 HSPs
+
+WARNING: Seq_39343 does not have 2 HSPs
+
+WARNING: Seq_39432 does not have 2 HSPs
+
+WARNING: Seq_39500 does not have 2 HSPs
+
+WARNING: Seq_39506 does not have 2 HSPs
+
+WARNING: Seq_39525 does not have 2 HSPs
+
+WARNING: Seq_39540 does not have 2 HSPs
+
+WARNING: Seq_39543 does not have 2 HSPs
+
+WARNING: Seq_39550 does not have 2 HSPs
+
+WARNING: Seq_39682 does not have 2 HSPs
+
+WARNING: Seq_39697 does not have 2 HSPs
+
+WARNING: Seq_39711 does not have 2 HSPs
+
+WARNING: Seq_39713 does not have 2 HSPs
+
+WARNING: Seq_39715 does not have 2 HSPs
+
+WARNING: Seq_39719 does not have 2 HSPs
+
+WARNING: Seq_39722 does not have 2 HSPs
+
+WARNING: Seq_39731 does not have 2 HSPs
+
+WARNING: Seq_39749 does not have 2 HSPs
+
+WARNING: Seq_39794 does not have 2 HSPs
+
+WARNING: Seq_39799 does not have 2 HSPs
+
+WARNING: Seq_39811 does not have 2 HSPs
+
+WARNING: Seq_39821 does not have 2 HSPs
+
+WARNING: Seq_39826 does not have 2 HSPs
+
+WARNING: Seq_39827 does not have 2 HSPs
+
+WARNING: Seq_39849 does not have 2 HSPs
+
+WARNING: Seq_39851 does not have 2 HSPs
+
+WARNING: Seq_39860 does not have 2 HSPs
+
+WARNING: Seq_39950 does not have 2 HSPs
+
+WARNING: Seq_39966 HSP2 does not reach end
+
+WARNING: Seq_40028 does not have 2 HSPs
+
+WARNING: Seq_40037 does not have 2 HSPs
+
+WARNING: Seq_40087 does not have 2 HSPs
+
+WARNING: Seq_40158 does not have 2 HSPs
+
+WARNING: Seq_40198 does not have 2 HSPs
+
+WARNING: Seq_40200 HSP2 does not reach end
+
+WARNING: Seq_40237 HSP2 does not reach end
+
+WARNING: Seq_40258 does not have 2 HSPs
+
+WARNING: Seq_40261 does not have 2 HSPs
+
+WARNING: Seq_40282 does not have 2 HSPs
+
+WARNING: Seq_40296 does not have 2 HSPs
+
+WARNING: Seq_40333 does not have 2 HSPs
+
+WARNING: Seq_40437 does not have 2 HSPs
+
+WARNING: Seq_40496 does not have 2 HSPs
+
+WARNING: Seq_40518 does not have 2 HSPs
+
+WARNING: Seq_40679 does not have 2 HSPs
+
+WARNING: Seq_40704 does not have 2 HSPs
+
+WARNING: Seq_40712 does not have 2 HSPs
+
+WARNING: Seq_40768 does not have 2 HSPs
+
+WARNING: Seq_40769 does not have 2 HSPs
+
+WARNING: Seq_40812 does not have 2 HSPs
+
+WARNING: Seq_40817 does not have 2 HSPs
+
+WARNING: Seq_40823 does not have 2 HSPs
+
+WARNING: Seq_40920 does not have 2 HSPs
+
+WARNING: Seq_40955 does not have 2 HSPs
+
+WARNING: Seq_41014 does not have 2 HSPs
+
+WARNING: Seq_41102 does not have 2 HSPs
+
+WARNING: Seq_41138 does not have 2 HSPs
+
+WARNING: Seq_41144 does not have 2 HSPs
+
+WARNING: Seq_41191 does not have 2 HSPs
+
+WARNING: Seq_41264 does not have 2 HSPs
+
+WARNING: Seq_41270 does not have 2 HSPs
+
+WARNING: Seq_41314 does not have 2 HSPs
+
+WARNING: Seq_41332 does not have 2 HSPs
+
+WARNING: Seq_41352 does not have 2 HSPs
+
+WARNING: Seq_41356 does not have 2 HSPs
+
+WARNING: Seq_41358 HSP2 does not reach end
+
+WARNING: Seq_41362 does not have 2 HSPs
+
+WARNING: Seq_41367 does not have 2 HSPs
+
+WARNING: Seq_41443 HSP2 does not reach end
+
+WARNING: Seq_41459 HSP2 does not reach end
+
+WARNING: Seq_41481 does not have 2 HSPs
+
+WARNING: Seq_41496 does not have 2 HSPs
+
+WARNING: Seq_41566 does not have 2 HSPs
+
+WARNING: Seq_41575 does not have 2 HSPs
+
+WARNING: Seq_41583 does not have 2 HSPs
+
+WARNING: not hit for Seq_41622
+
+WARNING: Seq_41631 does not have 2 HSPs
+
+WARNING: Seq_41645 does not have 2 HSPs
+
+WARNING: Seq_41691 does not have 2 HSPs
+
+WARNING: Seq_41699 does not have 2 HSPs
+
+WARNING: Seq_41712 does not have 2 HSPs
+
+WARNING: Seq_41731 does not have 2 HSPs
+
+WARNING: Seq_41777 does not have 2 HSPs
+
+WARNING: Seq_41800 does not have 2 HSPs
+
+WARNING: Seq_41805 does not have 2 HSPs
+
+WARNING: Seq_41823 does not have 2 HSPs
+
+WARNING: Seq_41927 does not have 2 HSPs
+
+WARNING: Seq_41939 does not have 2 HSPs
+
+WARNING: Seq_41941 does not have 2 HSPs
+
+WARNING: Seq_41959 does not have 2 HSPs
+
+WARNING: Seq_42014 does not have 2 HSPs
+
+WARNING: Seq_42020 does not have 2 HSPs
+
+WARNING: Seq_42047 does not have 2 HSPs
+
+WARNING: Seq_42050 does not have 2 HSPs
+
+WARNING: Seq_42101 does not have 2 HSPs
+
+WARNING: Seq_42145 does not have 2 HSPs
+
+WARNING: Seq_42187 does not have 2 HSPs
+
+WARNING: Seq_42200 does not have 2 HSPs
+
+WARNING: Seq_42219 does not have 2 HSPs
+
+WARNING: Seq_42235 does not have 2 HSPs
+
+WARNING: Seq_42257 does not have 2 HSPs
+
+WARNING: Seq_42268 does not have 2 HSPs
+
+WARNING: Seq_42284 does not have 2 HSPs
+
+WARNING: Seq_42294 does not have 2 HSPs
+
+WARNING: Seq_42312 does not have 2 HSPs
+
+WARNING: Seq_42324 does not have 2 HSPs
+
+WARNING: Seq_42354 does not have 2 HSPs
+
+WARNING: Seq_42368 does not have 2 HSPs
+
+WARNING: Seq_42390 does not have 2 HSPs
+
+WARNING: Seq_42422 HSP2 does not reach end
+
+WARNING: Seq_42499 does not have 2 HSPs
+
+WARNING: Seq_42536 does not have 2 HSPs
+
+WARNING: Seq_42582 does not have 2 HSPs
+
+WARNING: Seq_42588 does not have 2 HSPs
+
+WARNING: Seq_42618 does not have 2 HSPs
+
+WARNING: Seq_42641 does not have 2 HSPs
+
+WARNING: Seq_42649 does not have 2 HSPs
+
+WARNING: Seq_42657 does not have 2 HSPs
+
+WARNING: Seq_42700 does not have 2 HSPs
+
+WARNING: Seq_42727 does not have 2 HSPs
+
+WARNING: Seq_42888 does not have 2 HSPs
+
+WARNING: Seq_42911 does not have 2 HSPs
+
+WARNING: Seq_42922 HSP2 does not reach end
+
+WARNING: Seq_42947 does not have 2 HSPs
+
+WARNING: Seq_42951 does not have 2 HSPs
+
+WARNING: Seq_43032 does not have 2 HSPs
+
+WARNING: Seq_43051 does not have 2 HSPs
+
+WARNING: Seq_43113 does not have 2 HSPs
+
+WARNING: Seq_43146 does not have 2 HSPs
+
+WARNING: Seq_43155 does not have 2 HSPs
+
+WARNING: Seq_43175 does not have 2 HSPs
+
+WARNING: Seq_43191 does not have 2 HSPs
+
+WARNING: Seq_43265 does not have 2 HSPs
+
+WARNING: Seq_43271 does not have 2 HSPs
+
+WARNING: Seq_43288 does not have 2 HSPs
+
+WARNING: Seq_43372 does not have 2 HSPs
+
+WARNING: Seq_43383 HSP2 does not reach end
+
+WARNING: Seq_43426 HSP1 does not start at 1
+
+WARNING: Seq_43449 does not have 2 HSPs
+
+WARNING: Seq_43482 does not have 2 HSPs
+
+WARNING: Seq_43499 does not have 2 HSPs
+
+WARNING: Seq_43506 does not have 2 HSPs
+
+WARNING: Seq_43520 does not have 2 HSPs
+
+WARNING: Seq_43551 does not have 2 HSPs
+
+WARNING: Seq_43573 does not have 2 HSPs
+
+WARNING: Seq_43602 does not have 2 HSPs
+
+WARNING: Seq_43622 does not have 2 HSPs
+
+WARNING: Seq_43644 HSP2 does not reach end
+
+WARNING: Seq_43674 does not have 2 HSPs
+
+WARNING: Seq_43680 does not have 2 HSPs
+
+WARNING: Seq_43694 does not have 2 HSPs
+
+WARNING: Seq_43754 HSP2 does not reach end
+
+WARNING: Seq_43827 does not have 2 HSPs
+
+WARNING: Seq_43853 does not have 2 HSPs
+
+WARNING: Seq_43912 does not have 2 HSPs
+
+WARNING: Seq_43921 does not have 2 HSPs
+
+WARNING: Seq_43992 does not have 2 HSPs
+
+WARNING: Seq_44066 does not have 2 HSPs
+
+WARNING: Seq_44090 does not have 2 HSPs
+
+WARNING: Seq_44149 does not have 2 HSPs
+
+WARNING: Seq_44150 does not have 2 HSPs
+
+WARNING: Seq_44181 does not have 2 HSPs
+
+WARNING: Seq_44318 does not have 2 HSPs
+
+WARNING: Seq_44332 does not have 2 HSPs
+
+WARNING: Seq_44338 does not have 2 HSPs
+
+WARNING: Seq_44361 does not have 2 HSPs
+
+WARNING: Seq_44364 does not have 2 HSPs
+
+WARNING: Seq_44366 does not have 2 HSPs
+
+WARNING: Seq_44377 does not have 2 HSPs
+
+WARNING: Seq_44396 does not have 2 HSPs
+
+WARNING: Seq_44444 does not have 2 HSPs
+
+WARNING: Seq_44484 does not have 2 HSPs
+
+WARNING: Seq_44507 does not have 2 HSPs
+
+WARNING: Seq_44630 does not have 2 HSPs
+
+WARNING: Seq_44632 does not have 2 HSPs
+
+WARNING: Seq_44686 does not have 2 HSPs
+
+WARNING: Seq_44743 does not have 2 HSPs
+
+WARNING: Seq_44747 does not have 2 HSPs
+
+WARNING: Seq_44753 does not have 2 HSPs
+
+WARNING: Seq_44776 does not have 2 HSPs
+
+WARNING: Seq_44817 does not have 2 HSPs
+
+WARNING: Seq_44818 does not have 2 HSPs
+
+WARNING: Seq_44821 does not have 2 HSPs
+
+WARNING: Seq_44825 does not have 2 HSPs
+
+WARNING: Seq_44861 does not have 2 HSPs
+
+WARNING: Seq_44864 does not have 2 HSPs
+
+WARNING: Seq_44875 does not have 2 HSPs
+
+WARNING: Seq_44909 does not have 2 HSPs
+
+WARNING: Seq_44921 does not have 2 HSPs
+
+WARNING: Seq_44964 does not have 2 HSPs
+
+WARNING: Seq_45009 does not have 2 HSPs
+
+WARNING: Seq_45093 does not have 2 HSPs
+
+WARNING: Seq_45157 does not have 2 HSPs
+
+WARNING: Seq_45175 does not have 2 HSPs
+
+WARNING: Seq_45233 does not have 2 HSPs
+
+WARNING: Seq_45234 does not have 2 HSPs
+
+WARNING: Seq_45268 HSP2 does not reach end
+
+WARNING: Seq_45272 does not have 2 HSPs
+
+WARNING: Seq_45280 does not have 2 HSPs
+
+WARNING: Seq_45296 does not have 2 HSPs
+
+WARNING: Seq_45303 does not have 2 HSPs
+
+WARNING: Seq_45320 does not have 2 HSPs
+
+WARNING: Seq_45322 does not have 2 HSPs
+
+WARNING: Seq_45380 HSP2 does not reach end
+
+WARNING: Seq_45441 does not have 2 HSPs
+
+WARNING: Seq_45446 does not have 2 HSPs
+
+WARNING: Seq_45510 does not have 2 HSPs
+
+WARNING: Seq_45536 does not have 2 HSPs
+
+WARNING: Seq_45544 does not have 2 HSPs
+
+WARNING: Seq_45547 does not have 2 HSPs
+
+WARNING: Seq_45549 does not have 2 HSPs
+
+WARNING: Seq_45565 does not have 2 HSPs
+
+WARNING: Seq_45566 does not have 2 HSPs
+
+WARNING: Seq_45631 does not have 2 HSPs
+
+WARNING: Seq_45734 does not have 2 HSPs
+
+WARNING: Seq_45757 does not have 2 HSPs
+
+WARNING: Seq_45805 does not have 2 HSPs
+
+WARNING: Seq_45903 does not have 2 HSPs
+
+WARNING: Seq_45930 does not have 2 HSPs
+
+WARNING: Seq_45937 does not have 2 HSPs
+
+WARNING: Seq_45943 does not have 2 HSPs
+
+WARNING: Seq_45989 does not have 2 HSPs
+
+WARNING: Seq_46014 does not have 2 HSPs
+
+WARNING: Seq_46026 does not have 2 HSPs
+
+WARNING: Seq_46029 does not have 2 HSPs
+
+WARNING: Seq_46033 does not have 2 HSPs
+
+WARNING: Seq_46035 does not have 2 HSPs
+
+WARNING: Seq_46086 does not have 2 HSPs
+
+WARNING: Seq_46128 does not have 2 HSPs
+
+WARNING: Seq_46130 does not have 2 HSPs
+
+WARNING: Seq_46154 does not have 2 HSPs
+
+WARNING: Seq_46193 does not have 2 HSPs
+
+WARNING: Seq_46272 does not have 2 HSPs
+
+WARNING: Seq_46279 does not have 2 HSPs
+
+WARNING: Seq_46382 does not have 2 HSPs
+
+WARNING: Seq_46425 does not have 2 HSPs
+
+WARNING: Seq_46473 does not have 2 HSPs
+
+WARNING: Seq_46492 does not have 2 HSPs
+
+WARNING: Seq_46500 does not have 2 HSPs
+
+WARNING: Seq_46504 does not have 2 HSPs
+
+WARNING: Seq_46568 does not have 2 HSPs
+
+WARNING: Seq_46573 does not have 2 HSPs
+
+WARNING: Seq_46631 does not have 2 HSPs
+
+WARNING: Seq_46701 does not have 2 HSPs
+
+WARNING: Seq_46740 does not have 2 HSPs
+
+WARNING: Seq_46744 does not have 2 HSPs
+
+WARNING: Seq_46751 does not have 2 HSPs
+
+WARNING: Seq_46755 does not have 2 HSPs
+
+WARNING: Seq_46763 does not have 2 HSPs
+
+WARNING: Seq_46848 does not have 2 HSPs
+
+WARNING: Seq_46855 does not have 2 HSPs
+
+WARNING: Seq_46885 does not have 2 HSPs
+
+WARNING: Seq_46927 does not have 2 HSPs
+
+WARNING: Seq_46939 does not have 2 HSPs
+
+WARNING: Seq_46952 does not have 2 HSPs
+
+WARNING: Seq_47005 does not have 2 HSPs
+
+WARNING: Seq_47038 does not have 2 HSPs
+
+WARNING: Seq_47058 does not have 2 HSPs
+
+WARNING: Seq_47084 does not have 2 HSPs
+
+WARNING: Seq_47141 does not have 2 HSPs
+
+WARNING: Seq_47244 does not have 2 HSPs
+
+WARNING: Seq_47287 does not have 2 HSPs
+
+WARNING: Seq_47289 does not have 2 HSPs
+
+WARNING: Seq_47301 does not have 2 HSPs
+
+WARNING: Seq_47338 does not have 2 HSPs
+
+WARNING: Seq_47380 does not have 2 HSPs
+
+WARNING: Seq_47404 does not have 2 HSPs
+
+WARNING: Seq_47436 HSP1 does not start at 1
+
+WARNING: Seq_47449 does not have 2 HSPs
+
+WARNING: Seq_47456 does not have 2 HSPs
+
+WARNING: Seq_47507 does not have 2 HSPs
+
+WARNING: Seq_47586 does not have 2 HSPs
+
+WARNING: Seq_47653 does not have 2 HSPs
+
+WARNING: Seq_47777 does not have 2 HSPs
+
+WARNING: Seq_47814 does not have 2 HSPs
+
+WARNING: Seq_47846 does not have 2 HSPs
+
+WARNING: Seq_47857 does not have 2 HSPs
+
+WARNING: Seq_47962 does not have 2 HSPs
+
+WARNING: Seq_47978 does not have 2 HSPs
+
+WARNING: Seq_48068 does not have 2 HSPs
+
+WARNING: Seq_48114 does not have 2 HSPs
+
+WARNING: Seq_48131 does not have 2 HSPs
+
+WARNING: Seq_48226 does not have 2 HSPs
+
+WARNING: Seq_48241 does not have 2 HSPs
+
+WARNING: Seq_48256 does not have 2 HSPs
+
+WARNING: Seq_48262 does not have 2 HSPs
+
+WARNING: Seq_48354 does not have 2 HSPs
+
+WARNING: Seq_48405 does not have 2 HSPs
+
+WARNING: Seq_48428 does not have 2 HSPs
+
+WARNING: Seq_48444 does not have 2 HSPs
+
+WARNING: Seq_48452 does not have 2 HSPs
+
+WARNING: Seq_48468 does not have 2 HSPs
+
+WARNING: Seq_48476 does not have 2 HSPs
+
+WARNING: Seq_48500 does not have 2 HSPs
+
+WARNING: Seq_48505 does not have 2 HSPs
+
+WARNING: Seq_48515 does not have 2 HSPs
+
+WARNING: Seq_48521 does not have 2 HSPs
+
+WARNING: Seq_48552 does not have 2 HSPs
+
+WARNING: Seq_48647 does not have 2 HSPs
+
+WARNING: Seq_48732 does not have 2 HSPs
+
+WARNING: Seq_48755 does not have 2 HSPs
+
+WARNING: Seq_48775 does not have 2 HSPs
+
+WARNING: Seq_48792 does not have 2 HSPs
+
+WARNING: Seq_48795 does not have 2 HSPs
+
+WARNING: Seq_48802 does not have 2 HSPs
+
+WARNING: Seq_48805 does not have 2 HSPs
+
+WARNING: Seq_48841 HSP2 does not reach end
+
+WARNING: Seq_48891 does not have 2 HSPs
+
+WARNING: Seq_48939 does not have 2 HSPs
+
+WARNING: Seq_48943 HSP2 does not reach end
+
+WARNING: Seq_48963 does not have 2 HSPs
+
+WARNING: Seq_48979 does not have 2 HSPs
+
+WARNING: Seq_48989 does not have 2 HSPs
+
+WARNING: Seq_48995 does not have 2 HSPs
+
+WARNING: Seq_49007 HSP2 does not reach end
+
+WARNING: Seq_49024 does not have 2 HSPs
+
+WARNING: Seq_49052 does not have 2 HSPs
+
+WARNING: Seq_49071 does not have 2 HSPs
+
+WARNING: Seq_49072 does not have 2 HSPs
+
+WARNING: Seq_49098 HSP2 does not reach end
+
+WARNING: Seq_49122 does not have 2 HSPs
+
+WARNING: Seq_49194 HSP1 does not start at 1
+
+WARNING: Seq_49238 does not have 2 HSPs
+
+WARNING: Seq_49246 does not have 2 HSPs
+
+WARNING: Seq_49270 does not have 2 HSPs
+
+WARNING: Seq_49296 does not have 2 HSPs
+
+WARNING: Seq_49415 does not have 2 HSPs
+
+WARNING: Seq_49444 does not have 2 HSPs
+
+WARNING: Seq_49492 does not have 2 HSPs
+
+WARNING: Seq_49493 HSP1 does not start at 1
+
+WARNING: Seq_49500 does not have 2 HSPs
+
+WARNING: Seq_49524 does not have 2 HSPs
+
+WARNING: Seq_49604 does not have 2 HSPs
+
+WARNING: Seq_49635 does not have 2 HSPs
+
+WARNING: Seq_49666 does not have 2 HSPs
+
+WARNING: Seq_49678 does not have 2 HSPs
+
+WARNING: Seq_49680 does not have 2 HSPs
+
+WARNING: Seq_49755 does not have 2 HSPs
+
+WARNING: Seq_49774 does not have 2 HSPs
+
+WARNING: Seq_49783 does not have 2 HSPs
+
+WARNING: Seq_49790 does not have 2 HSPs
+
+WARNING: Seq_49827 HSP2 does not reach end
+
+WARNING: Seq_49882 does not have 2 HSPs
+
+WARNING: Seq_49909 does not have 2 HSPs
+
+WARNING: Seq_49936 does not have 2 HSPs
+
+WARNING: Seq_49972 does not have 2 HSPs
+
+WARNING: Seq_49976 does not have 2 HSPs
+
+WARNING: Seq_49993 does not have 2 HSPs
+
+WARNING: Seq_50004 does not have 2 HSPs
+
+WARNING: Seq_50007 does not have 2 HSPs
+
+WARNING: Seq_50009 does not have 2 HSPs
+
+WARNING: Seq_50021 does not have 2 HSPs
+
+WARNING: Seq_50032 HSP2 does not reach end
+
+WARNING: Seq_50063 HSP2 does not reach end
+
+WARNING: Seq_50084 does not have 2 HSPs
+
+WARNING: Seq_50150 does not have 2 HSPs
+
+WARNING: Seq_50194 does not have 2 HSPs
+
+WARNING: Seq_50203 does not have 2 HSPs
+
+WARNING: Seq_50210 does not have 2 HSPs
+
+WARNING: Seq_50222 does not have 2 HSPs
+
+WARNING: Seq_50239 does not have 2 HSPs
+
+WARNING: Seq_50244 does not have 2 HSPs
+
+WARNING: Seq_50277 does not have 2 HSPs
+
+WARNING: Seq_50304 does not have 2 HSPs
+
+WARNING: Seq_50307 does not have 2 HSPs
+
+WARNING: Seq_50330 does not have 2 HSPs
+
+WARNING: Seq_50332 does not have 2 HSPs
+
+WARNING: Seq_50366 does not have 2 HSPs
+
+WARNING: Seq_50367 does not have 2 HSPs
+
+WARNING: Seq_50386 does not have 2 HSPs
+
+WARNING: Seq_50398 does not have 2 HSPs
+
+WARNING: Seq_50417 does not have 2 HSPs
+
+WARNING: Seq_50423 does not have 2 HSPs
+
+WARNING: Seq_50450 does not have 2 HSPs
+
+WARNING: Seq_50480 does not have 2 HSPs
+
+WARNING: Seq_50487 does not have 2 HSPs
+
+WARNING: Seq_50545 does not have 2 HSPs
+
+WARNING: Seq_50589 does not have 2 HSPs
+
+WARNING: Seq_50615 does not have 2 HSPs
+
+WARNING: Seq_50626 does not have 2 HSPs
+
+WARNING: Seq_50634 does not have 2 HSPs
+
+WARNING: Seq_50654 does not have 2 HSPs
+
+WARNING: Seq_50660 does not have 2 HSPs
+
+WARNING: Seq_50703 does not have 2 HSPs
+
+WARNING: Seq_50704 does not have 2 HSPs
+
+WARNING: Seq_50732 does not have 2 HSPs
+
+WARNING: Seq_50771 does not have 2 HSPs
+
+WARNING: Seq_50794 does not have 2 HSPs
+
+WARNING: Seq_50797 does not have 2 HSPs
+
+WARNING: Seq_50817 HSP2 does not reach end
+
+WARNING: Seq_50897 does not have 2 HSPs
+
+WARNING: Seq_50914 does not have 2 HSPs
+
+WARNING: Seq_50994 does not have 2 HSPs
+
+WARNING: Seq_51053 does not have 2 HSPs
+
+WARNING: Seq_51078 does not have 2 HSPs
+
+WARNING: Seq_51088 does not have 2 HSPs
+
+WARNING: Seq_51107 does not have 2 HSPs
+
+WARNING: Seq_51224 does not have 2 HSPs
+
+WARNING: Seq_51226 does not have 2 HSPs
+
+WARNING: Seq_51282 does not have 2 HSPs
+
+WARNING: Seq_51320 does not have 2 HSPs
+
+WARNING: Seq_51357 does not have 2 HSPs
+
+WARNING: Seq_51369 does not have 2 HSPs
+
+WARNING: Seq_51387 does not have 2 HSPs
+
+WARNING: Seq_51409 does not have 2 HSPs
+
+WARNING: Seq_51477 does not have 2 HSPs
+
+WARNING: Seq_51484 does not have 2 HSPs
+
+WARNING: Seq_51506 does not have 2 HSPs
+
+WARNING: Seq_51549 does not have 2 HSPs
+
+WARNING: Seq_51585 does not have 2 HSPs
+
+WARNING: Seq_51586 does not have 2 HSPs
+
+WARNING: Seq_51600 does not have 2 HSPs
+
+WARNING: Seq_51607 does not have 2 HSPs
+
+WARNING: Seq_51614 does not have 2 HSPs
+
+WARNING: Seq_51636 does not have 2 HSPs
+
+WARNING: Seq_51687 does not have 2 HSPs
+
+WARNING: Seq_51689 does not have 2 HSPs
+
+WARNING: Seq_51695 does not have 2 HSPs
+
+WARNING: Seq_51700 does not have 2 HSPs
+
+WARNING: Seq_51747 does not have 2 HSPs
+
+WARNING: Seq_51796 does not have 2 HSPs
+
+WARNING: Seq_51933 does not have 2 HSPs
+
+WARNING: Seq_51955 does not have 2 HSPs
+
+WARNING: Seq_52114 does not have 2 HSPs
+
+WARNING: Seq_52134 does not have 2 HSPs
+
+WARNING: Seq_52314 does not have 2 HSPs
+
+WARNING: Seq_52362 does not have 2 HSPs
+
+WARNING: Seq_52377 does not have 2 HSPs
+
+WARNING: Seq_52382 does not have 2 HSPs
+
+WARNING: Seq_52384 does not have 2 HSPs
+
+WARNING: Seq_52418 does not have 2 HSPs
+
+WARNING: Seq_52579 HSP2 does not reach end
+
+WARNING: Seq_52583 does not have 2 HSPs
+
+WARNING: Seq_52622 does not have 2 HSPs
+
+WARNING: Seq_52628 HSP2 does not reach end
+
+WARNING: Seq_52694 does not have 2 HSPs
+
+WARNING: Seq_52696 does not have 2 HSPs
+
+WARNING: Seq_52701 does not have 2 HSPs
+
+WARNING: Seq_52728 does not have 2 HSPs
+
+WARNING: Seq_52729 does not have 2 HSPs
+
+WARNING: Seq_52730 does not have 2 HSPs
+
+WARNING: Seq_52748 does not have 2 HSPs
+
+WARNING: Seq_52754 does not have 2 HSPs
+
+WARNING: Seq_52762 does not have 2 HSPs
+
+WARNING: Seq_52791 does not have 2 HSPs
+
+WARNING: Seq_52801 does not have 2 HSPs
+
+WARNING: Seq_52818 does not have 2 HSPs
+
+WARNING: Seq_52856 does not have 2 HSPs
+
+WARNING: Seq_52888 does not have 2 HSPs
+
+WARNING: Seq_52937 does not have 2 HSPs
+
+WARNING: Seq_52939 does not have 2 HSPs
+
+WARNING: Seq_52992 HSP2 does not reach end
+
+WARNING: Seq_53009 does not have 2 HSPs
+
+WARNING: Seq_53010 does not have 2 HSPs
+
+WARNING: Seq_53133 does not have 2 HSPs
+
+WARNING: Seq_53176 does not have 2 HSPs
+
+WARNING: Seq_53196 does not have 2 HSPs
+
+WARNING: Seq_53291 does not have 2 HSPs
+
+WARNING: Seq_53340 does not have 2 HSPs
+
+WARNING: Seq_53342 does not have 2 HSPs
+
+WARNING: Seq_53343 does not have 2 HSPs
+
+WARNING: Seq_53376 does not have 2 HSPs
+
+WARNING: Seq_53390 does not have 2 HSPs
+
+WARNING: Seq_53413 does not have 2 HSPs
+
+WARNING: Seq_53593 does not have 2 HSPs
+
+WARNING: Seq_53628 does not have 2 HSPs
+
+WARNING: Seq_53665 does not have 2 HSPs
+
+WARNING: Seq_53673 does not have 2 HSPs
+
+WARNING: Seq_53699 does not have 2 HSPs
+
+WARNING: Seq_53708 does not have 2 HSPs
+
+WARNING: Seq_53715 does not have 2 HSPs
+
+WARNING: Seq_53734 does not have 2 HSPs
+
+WARNING: Seq_53777 does not have 2 HSPs
+
+WARNING: Seq_53780 does not have 2 HSPs
+
+WARNING: Seq_53785 does not have 2 HSPs
+
+WARNING: Seq_53850 does not have 2 HSPs
+
+WARNING: Seq_53892 HSP1 does not start at 1
+
+WARNING: Seq_53914 HSP2 does not reach end
+
+WARNING: Seq_53948 does not have 2 HSPs
+
+WARNING: Seq_54025 does not have 2 HSPs
+
+WARNING: Seq_54093 does not have 2 HSPs
+
+WARNING: Seq_54130 does not have 2 HSPs
+
+WARNING: Seq_54146 does not have 2 HSPs
+
+WARNING: Seq_54166 does not have 2 HSPs
+
+WARNING: Seq_54173 HSP2 does not reach end
+
+WARNING: Seq_54194 does not have 2 HSPs
+
+WARNING: Seq_54219 does not have 2 HSPs
+
+WARNING: Seq_54239 does not have 2 HSPs
+
+WARNING: Seq_54248 does not have 2 HSPs
+
+WARNING: Seq_54256 does not have 2 HSPs
+
+WARNING: Seq_54295 does not have 2 HSPs
+
+WARNING: Seq_54322 does not have 2 HSPs
+
+WARNING: Seq_54333 does not have 2 HSPs
+
+WARNING: Seq_54359 does not have 2 HSPs
+
+WARNING: Seq_54360 does not have 2 HSPs
+
+WARNING: Seq_54374 does not have 2 HSPs
+
+WARNING: Seq_54379 does not have 2 HSPs
+
+WARNING: Seq_54420 does not have 2 HSPs
+
+WARNING: Seq_54434 does not have 2 HSPs
+
+WARNING: Seq_54464 does not have 2 HSPs
+
+WARNING: Seq_54481 does not have 2 HSPs
+
+WARNING: Seq_54510 does not have 2 HSPs
+
+WARNING: Seq_54515 does not have 2 HSPs
+
+WARNING: Seq_54562 does not have 2 HSPs
+
+WARNING: Seq_54583 does not have 2 HSPs
+
+WARNING: Seq_54584 does not have 2 HSPs
+
+WARNING: Seq_54613 does not have 2 HSPs
+
+WARNING: Seq_54636 does not have 2 HSPs
+
+WARNING: Seq_54722 does not have 2 HSPs
+
+WARNING: Seq_54723 does not have 2 HSPs
+
+WARNING: Seq_54728 does not have 2 HSPs
+
+WARNING: Seq_54750 does not have 2 HSPs
+
+WARNING: Seq_54758 does not have 2 HSPs
+
+WARNING: Seq_54777 does not have 2 HSPs
+
+WARNING: Seq_54792 does not have 2 HSPs
+
+WARNING: Seq_54799 does not have 2 HSPs
+
+WARNING: Seq_54800 does not have 2 HSPs
+
+WARNING: Seq_54808 does not have 2 HSPs
+
+WARNING: Seq_54821 does not have 2 HSPs
+
+WARNING: Seq_54834 does not have 2 HSPs
+
+WARNING: Seq_54844 HSP2 does not reach end
+
+WARNING: Seq_54910 does not have 2 HSPs
+
+WARNING: Seq_54934 does not have 2 HSPs
+
+WARNING: Seq_54981 does not have 2 HSPs
+
+WARNING: Seq_55019 does not have 2 HSPs
+
+WARNING: Seq_55033 does not have 2 HSPs
+
+WARNING: Seq_55059 does not have 2 HSPs
+
+WARNING: Seq_55063 does not have 2 HSPs
+
+WARNING: Seq_55065 HSP2 does not reach end
+
+WARNING: Seq_55072 does not have 2 HSPs
+
+WARNING: Seq_55103 does not have 2 HSPs
+
+WARNING: Seq_55110 does not have 2 HSPs
+
+WARNING: Seq_55117 HSP2 does not reach end
+
+WARNING: Seq_55133 does not have 2 HSPs
+
+WARNING: Seq_55159 does not have 2 HSPs
+
+WARNING: Seq_55165 does not have 2 HSPs
+
+WARNING: Seq_55173 does not have 2 HSPs
+
+WARNING: Seq_55182 does not have 2 HSPs
+
+WARNING: Seq_55212 does not have 2 HSPs
+
+WARNING: Seq_55248 does not have 2 HSPs
+
+WARNING: Seq_55291 does not have 2 HSPs
+
+WARNING: Seq_55300 does not have 2 HSPs
+
+WARNING: Seq_55314 does not have 2 HSPs
+
+WARNING: Seq_55335 does not have 2 HSPs
+
+WARNING: Seq_55412 does not have 2 HSPs
+
+WARNING: Seq_55445 does not have 2 HSPs
+
+WARNING: Seq_55473 does not have 2 HSPs
+
+WARNING: Seq_55512 does not have 2 HSPs
+
+WARNING: Seq_55529 does not have 2 HSPs
+
+WARNING: Seq_55669 does not have 2 HSPs
+
+WARNING: Seq_55685 does not have 2 HSPs
+
+WARNING: Seq_55711 does not have 2 HSPs
+
+WARNING: Seq_55714 does not have 2 HSPs
+
+WARNING: Seq_55725 does not have 2 HSPs
+
+WARNING: Seq_55754 does not have 2 HSPs
+
+WARNING: Seq_55778 does not have 2 HSPs
+
+WARNING: Seq_55790 does not have 2 HSPs
+
+WARNING: Seq_55824 HSP2 does not reach end
+
+WARNING: Seq_55832 does not have 2 HSPs
+
+WARNING: Seq_55838 does not have 2 HSPs
+
+WARNING: Seq_55852 does not have 2 HSPs
+
+WARNING: Seq_55878 does not have 2 HSPs
+
+WARNING: Seq_55966 does not have 2 HSPs
+
+WARNING: Seq_56008 does not have 2 HSPs
+
+WARNING: Seq_56106 does not have 2 HSPs
+
+WARNING: Seq_56254 does not have 2 HSPs
+
+WARNING: Seq_56314 does not have 2 HSPs
+
+WARNING: Seq_56330 does not have 2 HSPs
+
+WARNING: Seq_56362 does not have 2 HSPs
+
+WARNING: Seq_56460 does not have 2 HSPs
+
+WARNING: Seq_56468 does not have 2 HSPs
+
+WARNING: Seq_56486 does not have 2 HSPs
+
+WARNING: Seq_56510 does not have 2 HSPs
+
+WARNING: Seq_56544 does not have 2 HSPs
+
+WARNING: Seq_56566 does not have 2 HSPs
+
+WARNING: Seq_56594 does not have 2 HSPs
+
+WARNING: Seq_56603 does not have 2 HSPs
+
+WARNING: Seq_56622 does not have 2 HSPs
+
+WARNING: Seq_56653 does not have 2 HSPs
+
+WARNING: Seq_56681 does not have 2 HSPs
+
+WARNING: Seq_56684 does not have 2 HSPs
+
+WARNING: Seq_56736 does not have 2 HSPs
+
+WARNING: Seq_56764 does not have 2 HSPs
+
+WARNING: Seq_56775 does not have 2 HSPs
+
+WARNING: Seq_56795 does not have 2 HSPs
+
+WARNING: Seq_56815 does not have 2 HSPs
+
+WARNING: Seq_56839 does not have 2 HSPs
+
+WARNING: Seq_56846 does not have 2 HSPs
+
+WARNING: Seq_56953 does not have 2 HSPs
+
+WARNING: Seq_56962 does not have 2 HSPs
+
+WARNING: Seq_56999 does not have 2 HSPs
+
+WARNING: Seq_57000 does not have 2 HSPs
+
+WARNING: Seq_57012 does not have 2 HSPs
+
+WARNING: Seq_57084 does not have 2 HSPs
+
+WARNING: Seq_57094 does not have 2 HSPs
+
+WARNING: Seq_57133 HSP2 does not reach end
+
+WARNING: Seq_57134 HSP2 does not reach end
+
+WARNING: Seq_57162 does not have 2 HSPs
+
+WARNING: Seq_57216 does not have 2 HSPs
+
+WARNING: Seq_57223 does not have 2 HSPs
+
+WARNING: Seq_57265 does not have 2 HSPs
+
+WARNING: Seq_57268 does not have 2 HSPs
+
+WARNING: Seq_57320 does not have 2 HSPs
+
+WARNING: Seq_57329 does not have 2 HSPs
+
+WARNING: Seq_57339 does not have 2 HSPs
+
+WARNING: Seq_57376 does not have 2 HSPs
+
+WARNING: Seq_57404 HSP2 does not reach end
+
+WARNING: Seq_57408 does not have 2 HSPs
+
+WARNING: Seq_57425 does not have 2 HSPs
+
+WARNING: Seq_57498 does not have 2 HSPs
+
+WARNING: Seq_57533 does not have 2 HSPs
+
+WARNING: Seq_57596 does not have 2 HSPs
+
+WARNING: Seq_57597 does not have 2 HSPs
+
+WARNING: Seq_57634 does not have 2 HSPs
+
+WARNING: Seq_57681 does not have 2 HSPs
+
+WARNING: Seq_57711 does not have 2 HSPs
+
+WARNING: Seq_57795 does not have 2 HSPs
+
+WARNING: Seq_57832 does not have 2 HSPs
+
+WARNING: Seq_57860 does not have 2 HSPs
+
+WARNING: Seq_57929 does not have 2 HSPs
+
+WARNING: Seq_57952 does not have 2 HSPs
+
+WARNING: Seq_57977 does not have 2 HSPs
+
+WARNING: Seq_58000 does not have 2 HSPs
+
+WARNING: Seq_58038 does not have 2 HSPs
+
+WARNING: Seq_58097 does not have 2 HSPs
+
+WARNING: Seq_58131 does not have 2 HSPs
+
+WARNING: Seq_58136 does not have 2 HSPs
+
+WARNING: Seq_58144 does not have 2 HSPs
+
+WARNING: Seq_58146 does not have 2 HSPs
+
+WARNING: Seq_58203 does not have 2 HSPs
+
+WARNING: Seq_58267 does not have 2 HSPs
+
+WARNING: Seq_58298 does not have 2 HSPs
+
+WARNING: Seq_58315 does not have 2 HSPs
+
+WARNING: Seq_58332 does not have 2 HSPs
+
+WARNING: Seq_58347 does not have 2 HSPs
+
+WARNING: Seq_58360 does not have 2 HSPs
+
+WARNING: Seq_58398 does not have 2 HSPs
+
+WARNING: Seq_58425 does not have 2 HSPs
+
+WARNING: Seq_58451 does not have 2 HSPs
+
+WARNING: Seq_58463 does not have 2 HSPs
+
+WARNING: Seq_58556 does not have 2 HSPs
+
+WARNING: Seq_58559 does not have 2 HSPs
+
+WARNING: Seq_58639 does not have 2 HSPs
+
+WARNING: Seq_58677 does not have 2 HSPs
+
+WARNING: Seq_58702 does not have 2 HSPs
+
+WARNING: Seq_58724 does not have 2 HSPs
+
+WARNING: Seq_58772 HSP2 does not reach end
+
+WARNING: Seq_58773 does not have 2 HSPs
+
+WARNING: Seq_58820 HSP2 does not reach end
+
+WARNING: Seq_58831 does not have 2 HSPs
+
+WARNING: Seq_58833 does not have 2 HSPs
+
+WARNING: Seq_58843 does not have 2 HSPs
+
+WARNING: Seq_58846 does not have 2 HSPs
+
+WARNING: Seq_58867 does not have 2 HSPs
+
+WARNING: Seq_58900 HSP2 does not reach end
+
+WARNING: Seq_58971 does not have 2 HSPs
+
+WARNING: Seq_59001 does not have 2 HSPs
+
+WARNING: Seq_59061 does not have 2 HSPs
+
+WARNING: Seq_59116 does not have 2 HSPs
+
+WARNING: Seq_59171 does not have 2 HSPs
+
+WARNING: Seq_59209 HSP1 does not start at 1
+
+WARNING: Seq_59228 does not have 2 HSPs
+
+WARNING: Seq_59231 does not have 2 HSPs
+
+WARNING: Seq_59265 does not have 2 HSPs
+
+WARNING: Seq_59268 does not have 2 HSPs
+
+WARNING: Seq_59334 does not have 2 HSPs
+
+WARNING: Seq_59362 does not have 2 HSPs
+
+WARNING: Seq_59367 does not have 2 HSPs
+
+WARNING: Seq_59385 does not have 2 HSPs
+
+WARNING: Seq_59386 does not have 2 HSPs
+
+WARNING: Seq_59487 does not have 2 HSPs
+
+WARNING: Seq_59499 does not have 2 HSPs
+
+WARNING: Seq_59553 does not have 2 HSPs
+
+WARNING: Seq_59564 does not have 2 HSPs
+
+WARNING: Seq_59597 HSP2 does not reach end
+
+WARNING: Seq_59637 does not have 2 HSPs
+
+WARNING: Seq_59643 does not have 2 HSPs
+
+WARNING: Seq_59681 does not have 2 HSPs
+
+WARNING: Seq_59705 does not have 2 HSPs
+
+WARNING: Seq_59776 does not have 2 HSPs
+
+WARNING: Seq_59796 does not have 2 HSPs
+
+WARNING: Seq_59827 does not have 2 HSPs
+
+WARNING: Seq_59850 does not have 2 HSPs
+
+WARNING: Seq_59862 does not have 2 HSPs
+
+WARNING: Seq_59875 does not have 2 HSPs
+
+WARNING: Seq_59904 does not have 2 HSPs
+
+WARNING: Seq_59918 does not have 2 HSPs
+
+WARNING: Seq_59921 does not have 2 HSPs
+
+WARNING: Seq_59932 does not have 2 HSPs
+
+WARNING: Seq_59976 does not have 2 HSPs
+
+WARNING: Seq_60005 does not have 2 HSPs
+
+WARNING: Seq_60006 does not have 2 HSPs
+
+WARNING: Seq_60011 HSP1 does not start at 1
+
+WARNING: Seq_60021 does not have 2 HSPs
+
+WARNING: Seq_60027 does not have 2 HSPs
+
+WARNING: Seq_60035 does not have 2 HSPs
+
+WARNING: Seq_60096 does not have 2 HSPs
+
+WARNING: Seq_60100 does not have 2 HSPs
+
+WARNING: Seq_60137 does not have 2 HSPs
+
+WARNING: Seq_60253 does not have 2 HSPs
+
+WARNING: Seq_60276 does not have 2 HSPs
+
+WARNING: Seq_60313 does not have 2 HSPs
+
+WARNING: Seq_60349 does not have 2 HSPs
+
+WARNING: Seq_60382 does not have 2 HSPs
+
+WARNING: Seq_60384 does not have 2 HSPs
+
+WARNING: Seq_60405 does not have 2 HSPs
+
+WARNING: Seq_60461 does not have 2 HSPs
+
+WARNING: Seq_60477 does not have 2 HSPs
+
+WARNING: Seq_60504 HSP2 does not reach end
+
+WARNING: Seq_60516 does not have 2 HSPs
+
+WARNING: Seq_60533 does not have 2 HSPs
+
+WARNING: Seq_60551 does not have 2 HSPs
+
+WARNING: Seq_60562 does not have 2 HSPs
+
+WARNING: Seq_60593 does not have 2 HSPs
+
+WARNING: Seq_60655 HSP2 does not reach end
+
+WARNING: Seq_60694 does not have 2 HSPs
+
+WARNING: Seq_60737 does not have 2 HSPs
+
+WARNING: Seq_60787 does not have 2 HSPs
+
+WARNING: Seq_60802 does not have 2 HSPs
+
+WARNING: Seq_60819 does not have 2 HSPs
+
+WARNING: Seq_60847 does not have 2 HSPs
+
+WARNING: Seq_60951 does not have 2 HSPs
+
+WARNING: Seq_60956 does not have 2 HSPs
+
+WARNING: Seq_60992 does not have 2 HSPs
+
+WARNING: Seq_61048 does not have 2 HSPs
+
+WARNING: Seq_61050 does not have 2 HSPs
+
+WARNING: Seq_61052 does not have 2 HSPs
+
+WARNING: Seq_61054 does not have 2 HSPs
+
+WARNING: Seq_61056 does not have 2 HSPs
+
+WARNING: Seq_61061 does not have 2 HSPs
+
+WARNING: Seq_61066 does not have 2 HSPs
+
+WARNING: Seq_61074 does not have 2 HSPs
+
+WARNING: Seq_61146 does not have 2 HSPs
+
+WARNING: Seq_61161 does not have 2 HSPs
+
+WARNING: Seq_61227 does not have 2 HSPs
+
+WARNING: Seq_61231 does not have 2 HSPs
+
+WARNING: Seq_61266 does not have 2 HSPs
+
+WARNING: Seq_61299 does not have 2 HSPs
+
+WARNING: Seq_61352 does not have 2 HSPs
+
+WARNING: Seq_61376 does not have 2 HSPs
+
+WARNING: Seq_61454 does not have 2 HSPs
+
+WARNING: Seq_61461 does not have 2 HSPs
+
+WARNING: Seq_61469 does not have 2 HSPs
+
+WARNING: Seq_61492 does not have 2 HSPs
+
+WARNING: Seq_61514 does not have 2 HSPs
+
+WARNING: Seq_61533 does not have 2 HSPs
+
+WARNING: Seq_61556 does not have 2 HSPs
+
+WARNING: Seq_61616 does not have 2 HSPs
+
+WARNING: Seq_61646 HSP2 does not reach end
+
+WARNING: Seq_61659 does not have 2 HSPs
+
+WARNING: Seq_61684 does not have 2 HSPs
+
+WARNING: Seq_61701 does not have 2 HSPs
+
+WARNING: Seq_61751 does not have 2 HSPs
+
+WARNING: Seq_61787 does not have 2 HSPs
+
+WARNING: Seq_61871 does not have 2 HSPs
+
+WARNING: Seq_61982 does not have 2 HSPs
+
+WARNING: Seq_61992 does not have 2 HSPs
+
+WARNING: Seq_62050 does not have 2 HSPs
+
+WARNING: Seq_62060 does not have 2 HSPs
+
+WARNING: Seq_62071 does not have 2 HSPs
+
+WARNING: Seq_62080 does not have 2 HSPs
+
+WARNING: Seq_62090 does not have 2 HSPs
+
+WARNING: Seq_62098 does not have 2 HSPs
+
+WARNING: Seq_62107 does not have 2 HSPs
+
+WARNING: Seq_62109 does not have 2 HSPs
+
+WARNING: Seq_62121 does not have 2 HSPs
+
+WARNING: Seq_62122 does not have 2 HSPs
+
+WARNING: Seq_62142 HSP1 does not start at 1
+
+WARNING: Seq_62200 does not have 2 HSPs
+
+WARNING: Seq_62201 does not have 2 HSPs
+
+WARNING: Seq_62231 does not have 2 HSPs
+
+WARNING: Seq_62280 does not have 2 HSPs
+
+WARNING: Seq_62291 does not have 2 HSPs
+
+WARNING: Seq_62312 does not have 2 HSPs
+
+WARNING: Seq_62324 does not have 2 HSPs
+
+WARNING: Seq_62385 does not have 2 HSPs
+
+WARNING: Seq_62403 does not have 2 HSPs
+
+WARNING: Seq_62415 does not have 2 HSPs
+
+WARNING: Seq_62481 does not have 2 HSPs
+
+WARNING: Seq_62555 does not have 2 HSPs
+
+WARNING: Seq_62564 does not have 2 HSPs
+
+WARNING: Seq_62601 does not have 2 HSPs
+
+WARNING: Seq_62633 does not have 2 HSPs
+
+WARNING: Seq_62659 does not have 2 HSPs
+
+WARNING: Seq_62670 does not have 2 HSPs
+
+WARNING: Seq_62698 does not have 2 HSPs
+
+WARNING: Seq_62724 does not have 2 HSPs
+
+WARNING: Seq_62761 does not have 2 HSPs
+
+WARNING: Seq_62775 does not have 2 HSPs
+
+WARNING: Seq_62818 does not have 2 HSPs
+
+WARNING: Seq_62824 does not have 2 HSPs
+
+WARNING: Seq_62842 does not have 2 HSPs
+
+WARNING: Seq_62886 does not have 2 HSPs
+
+WARNING: Seq_62900 does not have 2 HSPs
+
+WARNING: Seq_62921 does not have 2 HSPs
+
+WARNING: Seq_62923 HSP2 does not reach end
+
+WARNING: Seq_63010 does not have 2 HSPs
+
+WARNING: Seq_63040 does not have 2 HSPs
+
+WARNING: Seq_63043 does not have 2 HSPs
+
+WARNING: Seq_63158 does not have 2 HSPs
+
+WARNING: Seq_63202 does not have 2 HSPs
+
+WARNING: Seq_63237 does not have 2 HSPs
+
+WARNING: Seq_63246 does not have 2 HSPs
+
+WARNING: Seq_63340 does not have 2 HSPs
+
+WARNING: Seq_63537 does not have 2 HSPs
+
+WARNING: Seq_63545 does not have 2 HSPs
+
+WARNING: Seq_63548 HSP2 does not reach end
+
+WARNING: Seq_63552 does not have 2 HSPs
+
+WARNING: Seq_63559 HSP2 does not reach end
+
+WARNING: Seq_63562 does not have 2 HSPs
+
+WARNING: Seq_63580 HSP2 does not reach end
+
+WARNING: Seq_63616 does not have 2 HSPs
+
+WARNING: Seq_63687 does not have 2 HSPs
+
+WARNING: Seq_63780 does not have 2 HSPs
+
+WARNING: Seq_63815 does not have 2 HSPs
+
+WARNING: Seq_63823 does not have 2 HSPs
+
+WARNING: Seq_63860 does not have 2 HSPs
+
+WARNING: Seq_63924 does not have 2 HSPs
+
+WARNING: Seq_63934 does not have 2 HSPs
+
+WARNING: Seq_63944 HSP2 does not reach end
+
+WARNING: Seq_63958 does not have 2 HSPs
+
+WARNING: not hit for Seq_63984
+
+WARNING: Seq_63990 HSP2 does not reach end
+
+WARNING: Seq_64003 does not have 2 HSPs
+
+WARNING: Seq_64041 does not have 2 HSPs
+
+WARNING: Seq_64065 does not have 2 HSPs
+
+WARNING: Seq_64074 HSP2 does not reach end
+
+WARNING: Seq_64081 does not have 2 HSPs
+
+WARNING: Seq_64083 does not have 2 HSPs
+
+WARNING: Seq_64090 does not have 2 HSPs
+
+WARNING: Seq_64094 HSP2 does not reach end
+
+WARNING: Seq_64134 does not have 2 HSPs
+
+WARNING: Seq_64209 does not have 2 HSPs
+
+WARNING: Seq_64225 does not have 2 HSPs
+
+WARNING: Seq_64276 does not have 2 HSPs
+
+WARNING: Seq_64301 does not have 2 HSPs
+
+WARNING: Seq_64369 does not have 2 HSPs
+
+WARNING: Seq_64427 does not have 2 HSPs
+
+WARNING: Seq_64455 does not have 2 HSPs
+
+WARNING: Seq_64486 does not have 2 HSPs
+
+WARNING: Seq_64514 does not have 2 HSPs
+
+WARNING: Seq_64620 does not have 2 HSPs
+
+WARNING: Seq_64647 does not have 2 HSPs
+
+WARNING: Seq_64653 does not have 2 HSPs
+
+WARNING: Seq_64657 does not have 2 HSPs
+
+WARNING: Seq_64666 does not have 2 HSPs
+
+WARNING: Seq_64693 HSP2 does not reach end
+
+WARNING: Seq_64695 does not have 2 HSPs
+
+WARNING: Seq_64718 does not have 2 HSPs
+
+WARNING: Seq_64723 does not have 2 HSPs
+
+WARNING: Seq_64732 does not have 2 HSPs
+
+WARNING: Seq_64824 does not have 2 HSPs
+
+WARNING: Seq_64855 does not have 2 HSPs
+
+WARNING: Seq_64918 does not have 2 HSPs
+
+WARNING: Seq_64921 does not have 2 HSPs
+
+WARNING: Seq_64933 does not have 2 HSPs
+
+WARNING: Seq_64934 does not have 2 HSPs
+
+WARNING: Seq_64955 does not have 2 HSPs
+
+WARNING: Seq_64968 does not have 2 HSPs
+
+WARNING: Seq_64971 does not have 2 HSPs
+
+WARNING: Seq_64990 HSP1 does not start at 1
+
+WARNING: Seq_64997 does not have 2 HSPs
+
+WARNING: Seq_65097 does not have 2 HSPs
+
+WARNING: Seq_65100 does not have 2 HSPs
+
+WARNING: Seq_65161 does not have 2 HSPs
+
+WARNING: Seq_65220 does not have 2 HSPs
+
+WARNING: Seq_65221 does not have 2 HSPs
+
+WARNING: Seq_65300 does not have 2 HSPs
+
+WARNING: Seq_65349 does not have 2 HSPs
+
+WARNING: Seq_65396 does not have 2 HSPs
+
+WARNING: Seq_65404 does not have 2 HSPs
+
+WARNING: Seq_65443 does not have 2 HSPs
+
+WARNING: Seq_65479 does not have 2 HSPs
+
+WARNING: Seq_65487 does not have 2 HSPs
+
+WARNING: Seq_65516 does not have 2 HSPs
+
+WARNING: Seq_65547 does not have 2 HSPs
+
+WARNING: Seq_65559 does not have 2 HSPs
+
+WARNING: Seq_65605 does not have 2 HSPs
+
+WARNING: Seq_65629 does not have 2 HSPs
+
+WARNING: Seq_65716 does not have 2 HSPs
+
+WARNING: Seq_65717 does not have 2 HSPs
+
+WARNING: Seq_65741 does not have 2 HSPs
+
+WARNING: Seq_65754 does not have 2 HSPs
+
+WARNING: Seq_65763 does not have 2 HSPs
+
+WARNING: Seq_65772 does not have 2 HSPs
+
+WARNING: Seq_65791 HSP2 does not reach end
+
+WARNING: Seq_65861 does not have 2 HSPs
+
+WARNING: Seq_65902 does not have 2 HSPs
+
+WARNING: Seq_65910 HSP2 does not reach end
+
+WARNING: Seq_65934 does not have 2 HSPs
+
+WARNING: Seq_66011 does not have 2 HSPs
+
+WARNING: Seq_66013 does not have 2 HSPs
+
+WARNING: Seq_66070 does not have 2 HSPs
+
+WARNING: Seq_66117 does not have 2 HSPs
+
+WARNING: Seq_66188 does not have 2 HSPs
+
+WARNING: Seq_66232 does not have 2 HSPs
+
+WARNING: Seq_66255 does not have 2 HSPs
+
+WARNING: Seq_66271 does not have 2 HSPs
+
+WARNING: Seq_66348 does not have 2 HSPs
+
+WARNING: Seq_66370 does not have 2 HSPs
+
+WARNING: Seq_66372 does not have 2 HSPs
+
+WARNING: Seq_66384 does not have 2 HSPs
+
+WARNING: Seq_66426 does not have 2 HSPs
+
+WARNING: Seq_66462 does not have 2 HSPs
+
+WARNING: Seq_66500 HSP1 does not start at 1
+
+WARNING: Seq_66513 does not have 2 HSPs
+
+WARNING: Seq_66524 does not have 2 HSPs
+
+WARNING: Seq_66541 does not have 2 HSPs
+
+WARNING: Seq_66554 HSP2 does not reach end
+
+WARNING: Seq_66679 does not have 2 HSPs
+
+WARNING: Seq_66722 does not have 2 HSPs
+
+WARNING: Seq_66735 does not have 2 HSPs
+
+WARNING: Seq_66764 does not have 2 HSPs
+
+WARNING: Seq_66869 does not have 2 HSPs
+
+WARNING: Seq_66897 does not have 2 HSPs
+
+WARNING: Seq_66954 does not have 2 HSPs
+
+WARNING: Seq_67078 does not have 2 HSPs
+
+WARNING: Seq_67092 does not have 2 HSPs
+
+WARNING: Seq_67132 does not have 2 HSPs
+
+WARNING: Seq_67143 does not have 2 HSPs
+
+WARNING: Seq_67198 does not have 2 HSPs
+
+WARNING: Seq_67203 does not have 2 HSPs
+
+WARNING: Seq_67287 HSP2 does not reach end
+
+WARNING: Seq_67376 does not have 2 HSPs
+
+WARNING: Seq_67388 does not have 2 HSPs
+
+WARNING: Seq_67395 does not have 2 HSPs
+
+WARNING: Seq_67400 does not have 2 HSPs
+
+WARNING: Seq_67408 does not have 2 HSPs
+
+WARNING: Seq_67420 does not have 2 HSPs
+
+WARNING: Seq_67441 does not have 2 HSPs
+
+WARNING: Seq_67461 HSP2 does not reach end
+
+WARNING: Seq_67513 does not have 2 HSPs
+
+WARNING: Seq_67561 HSP2 does not reach end
+
+WARNING: Seq_67611 does not have 2 HSPs
+
+WARNING: Seq_67614 HSP2 does not reach end
+
+WARNING: Seq_67623 does not have 2 HSPs
+
+WARNING: Seq_67692 does not have 2 HSPs
+
+WARNING: Seq_67725 does not have 2 HSPs
+
+WARNING: Seq_67760 does not have 2 HSPs
+
+WARNING: Seq_67769 does not have 2 HSPs
+
+WARNING: Seq_67800 does not have 2 HSPs
+
+WARNING: Seq_67862 does not have 2 HSPs
+
+WARNING: Seq_67876 does not have 2 HSPs
+
+WARNING: Seq_67884 does not have 2 HSPs
+
+WARNING: Seq_67894 does not have 2 HSPs
+
+WARNING: Seq_67958 does not have 2 HSPs
+
+WARNING: Seq_67970 does not have 2 HSPs
+
+WARNING: Seq_67981 does not have 2 HSPs
+
+WARNING: Seq_67990 does not have 2 HSPs
+
+WARNING: Seq_68007 does not have 2 HSPs
+
+WARNING: Seq_68053 does not have 2 HSPs
+
+WARNING: Seq_68087 does not have 2 HSPs
+
+WARNING: Seq_68143 does not have 2 HSPs
+
+WARNING: Seq_68161 does not have 2 HSPs
+
+WARNING: Seq_68173 does not have 2 HSPs
+
+WARNING: Seq_68203 does not have 2 HSPs
+
+WARNING: Seq_68226 does not have 2 HSPs
+
+WARNING: Seq_68262 does not have 2 HSPs
+
+WARNING: Seq_68297 does not have 2 HSPs
+
+WARNING: Seq_68399 does not have 2 HSPs
+
+WARNING: Seq_68415 does not have 2 HSPs
+
+WARNING: Seq_68422 does not have 2 HSPs
+
+WARNING: Seq_68432 HSP2 does not reach end
+
+WARNING: Seq_68460 does not have 2 HSPs
+
+WARNING: Seq_68472 does not have 2 HSPs
+
+WARNING: Seq_68499 does not have 2 HSPs
+
+WARNING: Seq_68524 does not have 2 HSPs
+
+WARNING: Seq_68532 does not have 2 HSPs
+
+WARNING: Seq_68552 does not have 2 HSPs
+
+WARNING: Seq_68568 does not have 2 HSPs
+
+WARNING: Seq_68599 does not have 2 HSPs
+
+WARNING: Seq_68607 does not have 2 HSPs
+
+WARNING: Seq_68671 does not have 2 HSPs
+
+WARNING: Seq_68685 does not have 2 HSPs
+
+WARNING: Seq_68716 HSP2 does not reach end
+
+WARNING: Seq_68759 does not have 2 HSPs
+
+WARNING: Seq_68771 does not have 2 HSPs
+
+WARNING: Seq_68776 HSP2 does not reach end
+
+WARNING: Seq_68782 HSP2 does not reach end
+
+WARNING: Seq_68807 does not have 2 HSPs
+
+WARNING: Seq_68826 does not have 2 HSPs
+
+WARNING: Seq_68888 does not have 2 HSPs
+
+WARNING: Seq_68944 does not have 2 HSPs
+
+WARNING: Seq_68952 HSP2 does not reach end
+
+WARNING: Seq_68959 does not have 2 HSPs
+
+WARNING: Seq_68962 HSP1 does not start at 1
+
+WARNING: Seq_69001 does not have 2 HSPs
+
+WARNING: Seq_69054 HSP2 does not reach end
+
+WARNING: Seq_69069 does not have 2 HSPs
+
+WARNING: Seq_69093 does not have 2 HSPs
+
+WARNING: Seq_69107 does not have 2 HSPs
+
+WARNING: Seq_69120 does not have 2 HSPs
+
+WARNING: Seq_69229 does not have 2 HSPs
+
+WARNING: Seq_69235 does not have 2 HSPs
+
+WARNING: Seq_69239 does not have 2 HSPs
+
+WARNING: Seq_69243 does not have 2 HSPs
+
+WARNING: Seq_69257 does not have 2 HSPs
+
+WARNING: Seq_69261 does not have 2 HSPs
+
+WARNING: Seq_69272 does not have 2 HSPs
+
+WARNING: Seq_69283 does not have 2 HSPs
+
+WARNING: Seq_69403 does not have 2 HSPs
+
+WARNING: Seq_69425 does not have 2 HSPs
+
+WARNING: Seq_69430 does not have 2 HSPs
+
+WARNING: Seq_69439 does not have 2 HSPs
+
+WARNING: Seq_69445 does not have 2 HSPs
+
+WARNING: Seq_69483 does not have 2 HSPs
+
+WARNING: Seq_69497 does not have 2 HSPs
+
+WARNING: Seq_69507 does not have 2 HSPs
+
+WARNING: Seq_69521 does not have 2 HSPs
+
+WARNING: Seq_69538 does not have 2 HSPs
+
+WARNING: Seq_69569 does not have 2 HSPs
+
+WARNING: Seq_69616 does not have 2 HSPs
+
+WARNING: Seq_69682 does not have 2 HSPs
+
+WARNING: Seq_69693 does not have 2 HSPs
+
+WARNING: Seq_69716 does not have 2 HSPs
+
+WARNING: Seq_69719 HSP2 does not reach end
+
+WARNING: Seq_69747 does not have 2 HSPs
+
+WARNING: Seq_69762 does not have 2 HSPs
+
+WARNING: Seq_69766 does not have 2 HSPs
+
+WARNING: Seq_69780 does not have 2 HSPs
+
+WARNING: Seq_69805 does not have 2 HSPs
+
+WARNING: Seq_69810 does not have 2 HSPs
+
+WARNING: Seq_69813 does not have 2 HSPs
+
+WARNING: Seq_69833 does not have 2 HSPs
+
+WARNING: Seq_69845 does not have 2 HSPs
+
+WARNING: Seq_69857 does not have 2 HSPs
+
+WARNING: Seq_69867 does not have 2 HSPs
+
+WARNING: Seq_69908 does not have 2 HSPs
+
+WARNING: Seq_69920 does not have 2 HSPs
+
+WARNING: Seq_69929 does not have 2 HSPs
+
+WARNING: Seq_69960 does not have 2 HSPs
+
+WARNING: Seq_69977 does not have 2 HSPs
+
+WARNING: Seq_70039 HSP2 does not reach end
+
+WARNING: Seq_70103 does not have 2 HSPs
+
+WARNING: Seq_70221 does not have 2 HSPs
+
+WARNING: Seq_70252 does not have 2 HSPs
+
+WARNING: Seq_70277 does not have 2 HSPs
+
+WARNING: Seq_70279 does not have 2 HSPs
+
+WARNING: Seq_70287 does not have 2 HSPs
+
+WARNING: Seq_70321 does not have 2 HSPs
+
+WARNING: Seq_70342 does not have 2 HSPs
+
+WARNING: Seq_70383 does not have 2 HSPs
+
+WARNING: Seq_70464 does not have 2 HSPs
+
+WARNING: Seq_70637 does not have 2 HSPs
+
+WARNING: Seq_70655 does not have 2 HSPs
+
+WARNING: Seq_70682 does not have 2 HSPs
+
+WARNING: Seq_70727 does not have 2 HSPs
+
+WARNING: Seq_70741 does not have 2 HSPs
+
+WARNING: Seq_70764 does not have 2 HSPs
+
+WARNING: Seq_70808 does not have 2 HSPs
+
+WARNING: Seq_70835 does not have 2 HSPs
+
+WARNING: Seq_70838 does not have 2 HSPs
+
+WARNING: Seq_70891 does not have 2 HSPs
+
+WARNING: Seq_70916 does not have 2 HSPs
+
+WARNING: Seq_71034 does not have 2 HSPs
+
+WARNING: Seq_71049 does not have 2 HSPs
+
+WARNING: Seq_71120 does not have 2 HSPs
+
+WARNING: Seq_71147 does not have 2 HSPs
+
+WARNING: Seq_71168 does not have 2 HSPs
+
+WARNING: Seq_71185 does not have 2 HSPs
+
+WARNING: Seq_71258 does not have 2 HSPs
+
+WARNING: Seq_71260 does not have 2 HSPs
+
+WARNING: Seq_71289 does not have 2 HSPs
+
+WARNING: Seq_71328 does not have 2 HSPs
+
+WARNING: Seq_71335 does not have 2 HSPs
+
+WARNING: Seq_71339 does not have 2 HSPs
+
+WARNING: Seq_71343 does not have 2 HSPs
+
+WARNING: Seq_71381 does not have 2 HSPs
+
+WARNING: Seq_71392 does not have 2 HSPs
+
+WARNING: Seq_71408 does not have 2 HSPs
+
+WARNING: Seq_71476 does not have 2 HSPs
+
+WARNING: Seq_71479 does not have 2 HSPs
+
+WARNING: Seq_71489 does not have 2 HSPs
+
+WARNING: Seq_71542 does not have 2 HSPs
+
+WARNING: Seq_71596 HSP2 does not reach end
+
+WARNING: Seq_71633 does not have 2 HSPs
+
+WARNING: Seq_71699 does not have 2 HSPs
+
+WARNING: Seq_71719 does not have 2 HSPs
+
+WARNING: Seq_71721 HSP2 does not reach end
+
+WARNING: Seq_71723 does not have 2 HSPs
+
+WARNING: Seq_71737 HSP2 does not reach end
+
+WARNING: Seq_71814 does not have 2 HSPs
+
+WARNING: Seq_71833 HSP2 does not reach end
+
+WARNING: Seq_71847 does not have 2 HSPs
+
+WARNING: Seq_71952 does not have 2 HSPs
+
+WARNING: Seq_71970 does not have 2 HSPs
+
+WARNING: Seq_71978 does not have 2 HSPs
+
+WARNING: Seq_71985 does not have 2 HSPs
+
+WARNING: Seq_72174 does not have 2 HSPs
+
+WARNING: Seq_72218 does not have 2 HSPs
+
+WARNING: Seq_72220 does not have 2 HSPs
+
+WARNING: Seq_72221 does not have 2 HSPs
+
+WARNING: Seq_72226 does not have 2 HSPs
+
+WARNING: Seq_72232 does not have 2 HSPs
+
+WARNING: Seq_72241 does not have 2 HSPs
+
+WARNING: Seq_72315 does not have 2 HSPs
+
+WARNING: Seq_72402 does not have 2 HSPs
+
+WARNING: Seq_72405 does not have 2 HSPs
+
+WARNING: Seq_72442 does not have 2 HSPs
+
+WARNING: Seq_72534 HSP2 does not reach end
+
+WARNING: Seq_72536 does not have 2 HSPs
+
+WARNING: Seq_72551 does not have 2 HSPs
+
+WARNING: Seq_72563 HSP2 does not reach end
+
+WARNING: Seq_72594 does not have 2 HSPs
+
+WARNING: Seq_72607 does not have 2 HSPs
+
+WARNING: Seq_72682 does not have 2 HSPs
+
+WARNING: Seq_72697 does not have 2 HSPs
+
+WARNING: Seq_72732 does not have 2 HSPs
+
+WARNING: Seq_72739 HSP2 does not reach end
+
+WARNING: Seq_72815 does not have 2 HSPs
+
+WARNING: Seq_72834 does not have 2 HSPs
+
+WARNING: Seq_72854 does not have 2 HSPs
+
+WARNING: Seq_72858 does not have 2 HSPs
+
+WARNING: Seq_72908 does not have 2 HSPs
+
+WARNING: Seq_73005 HSP2 does not reach end
+
+WARNING: Seq_73083 does not have 2 HSPs
+
+WARNING: Seq_73146 does not have 2 HSPs
+
+WARNING: Seq_73233 does not have 2 HSPs
+
+WARNING: Seq_73261 does not have 2 HSPs
+
+WARNING: Seq_73265 does not have 2 HSPs
+
+WARNING: Seq_73322 does not have 2 HSPs
+
+WARNING: Seq_73342 does not have 2 HSPs
+
+WARNING: Seq_73394 does not have 2 HSPs
+
+WARNING: Seq_73410 does not have 2 HSPs
+
+WARNING: Seq_73436 does not have 2 HSPs
+
+WARNING: Seq_73440 does not have 2 HSPs
+
+WARNING: Seq_73535 does not have 2 HSPs
+
+WARNING: Seq_73707 does not have 2 HSPs
+
+WARNING: Seq_73750 does not have 2 HSPs
+
+WARNING: Seq_73886 does not have 2 HSPs
+
+WARNING: Seq_73887 does not have 2 HSPs
+
+WARNING: Seq_74002 does not have 2 HSPs
+
+WARNING: Seq_74027 does not have 2 HSPs
+
+WARNING: Seq_74175 does not have 2 HSPs
+
+WARNING: Seq_74287 does not have 2 HSPs
+
+WARNING: Seq_74337 does not have 2 HSPs
+
+WARNING: Seq_74338 does not have 2 HSPs
+
+WARNING: Seq_74343 does not have 2 HSPs
+
+WARNING: Seq_74380 does not have 2 HSPs
+
+WARNING: Seq_74424 HSP2 does not reach end
+
+WARNING: Seq_74427 does not have 2 HSPs
+
+WARNING: Seq_74431 does not have 2 HSPs
+
+WARNING: Seq_74452 does not have 2 HSPs
+
+WARNING: Seq_74581 does not have 2 HSPs
+
+WARNING: Seq_74632 does not have 2 HSPs
+
+WARNING: Seq_74667 does not have 2 HSPs
+
+WARNING: Seq_74672 does not have 2 HSPs
+
+WARNING: Seq_74696 does not have 2 HSPs
+
+WARNING: Seq_74722 does not have 2 HSPs
+
+WARNING: Seq_74723 does not have 2 HSPs
+
+WARNING: Seq_74760 does not have 2 HSPs
+
+WARNING: Seq_74761 does not have 2 HSPs
+
+WARNING: Seq_74908 HSP2 does not reach end
+
+WARNING: Seq_74910 does not have 2 HSPs
+
+WARNING: Seq_74915 does not have 2 HSPs
+
+WARNING: Seq_74932 does not have 2 HSPs
+
+WARNING: Seq_74957 does not have 2 HSPs
+
+WARNING: Seq_74960 does not have 2 HSPs
+
+WARNING: Seq_75131 does not have 2 HSPs
+
+WARNING: Seq_75140 does not have 2 HSPs
+
+WARNING: Seq_75318 HSP2 does not reach end
+
+WARNING: Seq_75333 does not have 2 HSPs
+
+WARNING: Seq_75354 does not have 2 HSPs
+
+WARNING: Seq_75396 does not have 2 HSPs
+
+WARNING: Seq_75401 does not have 2 HSPs
+
+WARNING: Seq_75423 does not have 2 HSPs
+
+WARNING: Seq_75482 does not have 2 HSPs
+
+WARNING: Seq_75499 does not have 2 HSPs
+
+WARNING: Seq_75513 HSP2 does not reach end
+
+WARNING: Seq_75521 does not have 2 HSPs
+
+WARNING: Seq_75542 does not have 2 HSPs
+
+WARNING: Seq_75549 does not have 2 HSPs
+
+WARNING: Seq_75551 does not have 2 HSPs
+
+WARNING: Seq_75563 does not have 2 HSPs
+
+WARNING: Seq_75593 does not have 2 HSPs
+
+WARNING: Seq_75595 does not have 2 HSPs
+
+WARNING: Seq_75596 does not have 2 HSPs
+
+WARNING: Seq_75627 does not have 2 HSPs
+
+WARNING: Seq_75640 HSP1 does not start at 1
+
+WARNING: Seq_75685 does not have 2 HSPs
+
+WARNING: Seq_75727 does not have 2 HSPs
+
+WARNING: Seq_75784 does not have 2 HSPs
+
+WARNING: Seq_75802 does not have 2 HSPs
+
+WARNING: Seq_75831 does not have 2 HSPs
+
+WARNING: Seq_75858 does not have 2 HSPs
+
+WARNING: Seq_75879 does not have 2 HSPs
+
+WARNING: Seq_75911 does not have 2 HSPs
+
+WARNING: Seq_75996 does not have 2 HSPs
+
+WARNING: Seq_75999 does not have 2 HSPs
+
+WARNING: Seq_76008 does not have 2 HSPs
+
+WARNING: Seq_76027 HSP2 does not reach end
+
+WARNING: Seq_76075 does not have 2 HSPs
+
+WARNING: Seq_76094 does not have 2 HSPs
+
+WARNING: Seq_76099 does not have 2 HSPs
+
+WARNING: Seq_76100 does not have 2 HSPs
+
+WARNING: Seq_76110 does not have 2 HSPs
+
+WARNING: Seq_76132 does not have 2 HSPs
+
+WARNING: Seq_76199 does not have 2 HSPs
+
+WARNING: Seq_76243 HSP1 does not start at 1
+
+WARNING: Seq_76382 does not have 2 HSPs
+
+WARNING: Seq_76391 does not have 2 HSPs
+
+WARNING: Seq_76420 does not have 2 HSPs
+
+WARNING: Seq_76424 does not have 2 HSPs
+
+WARNING: Seq_76505 does not have 2 HSPs
+
+WARNING: Seq_76558 does not have 2 HSPs
+
+WARNING: Seq_76611 does not have 2 HSPs
+
+WARNING: Seq_76635 does not have 2 HSPs
+
+WARNING: Seq_76677 does not have 2 HSPs
+
+WARNING: Seq_76695 does not have 2 HSPs
+
+WARNING: Seq_76751 does not have 2 HSPs
+
+WARNING: Seq_76814 does not have 2 HSPs
+
+WARNING: Seq_76818 does not have 2 HSPs
+
+WARNING: Seq_76821 does not have 2 HSPs
+
+WARNING: Seq_76830 does not have 2 HSPs
+
+WARNING: Seq_77010 does not have 2 HSPs
+
+WARNING: Seq_77012 does not have 2 HSPs
+
+WARNING: Seq_77056 does not have 2 HSPs
+
+WARNING: Seq_77079 does not have 2 HSPs
+
+WARNING: Seq_77110 HSP2 does not reach end
+
+WARNING: Seq_77196 does not have 2 HSPs
+
+WARNING: Seq_77221 does not have 2 HSPs
+
+WARNING: Seq_77224 does not have 2 HSPs
+
+WARNING: Seq_77252 does not have 2 HSPs
+
+WARNING: Seq_77275 does not have 2 HSPs
+
+WARNING: Seq_77360 does not have 2 HSPs
+
+WARNING: Seq_77413 does not have 2 HSPs
+
+WARNING: Seq_77441 HSP2 does not reach end
+
+WARNING: Seq_77514 does not have 2 HSPs
+
+WARNING: Seq_77515 does not have 2 HSPs
+
+WARNING: Seq_77557 does not have 2 HSPs
+
+WARNING: Seq_77570 does not have 2 HSPs
+
+WARNING: Seq_77615 does not have 2 HSPs
+
+WARNING: Seq_77620 does not have 2 HSPs
+
+WARNING: Seq_77635 does not have 2 HSPs
+
+WARNING: Seq_77649 does not have 2 HSPs
+
+WARNING: Seq_77656 does not have 2 HSPs
+
+WARNING: Seq_77658 HSP2 does not reach end
+
+WARNING: Seq_77722 does not have 2 HSPs
+
+WARNING: Seq_77747 does not have 2 HSPs
+
+WARNING: Seq_77755 does not have 2 HSPs
+
+WARNING: Seq_77813 does not have 2 HSPs
+
+WARNING: Seq_77829 does not have 2 HSPs
+
+WARNING: Seq_77839 does not have 2 HSPs
+
+WARNING: Seq_77849 HSP2 does not reach end
+
+WARNING: Seq_77906 does not have 2 HSPs
+
+WARNING: Seq_77927 does not have 2 HSPs
+
+WARNING: Seq_77933 does not have 2 HSPs
+
+WARNING: Seq_77960 does not have 2 HSPs
+
+WARNING: Seq_77995 does not have 2 HSPs
+
+WARNING: Seq_78048 does not have 2 HSPs
+
+WARNING: Seq_78118 does not have 2 HSPs
+
+WARNING: Seq_78127 does not have 2 HSPs
+
+WARNING: Seq_78128 does not have 2 HSPs
+
+WARNING: Seq_78149 does not have 2 HSPs
+
+WARNING: Seq_78158 does not have 2 HSPs
+
+WARNING: Seq_78194 does not have 2 HSPs
+
+WARNING: Seq_78212 does not have 2 HSPs
+
+WARNING: Seq_78224 does not have 2 HSPs
+
+WARNING: Seq_78227 does not have 2 HSPs
+
+WARNING: Seq_78239 does not have 2 HSPs
+
+WARNING: Seq_78257 does not have 2 HSPs
+
+WARNING: Seq_78289 does not have 2 HSPs
+
+WARNING: Seq_78414 does not have 2 HSPs
+
+WARNING: Seq_78422 does not have 2 HSPs
+
+WARNING: Seq_78438 does not have 2 HSPs
+
+WARNING: Seq_78469 does not have 2 HSPs
+
+WARNING: Seq_78488 does not have 2 HSPs
+
+WARNING: Seq_78512 does not have 2 HSPs
+
+WARNING: Seq_78543 HSP2 does not reach end
+
+WARNING: Seq_78725 does not have 2 HSPs
+
+WARNING: Seq_78775 does not have 2 HSPs
+
+WARNING: Seq_78779 does not have 2 HSPs
+
+WARNING: Seq_78815 does not have 2 HSPs
+
+WARNING: Seq_78840 does not have 2 HSPs
+
+WARNING: Seq_78895 does not have 2 HSPs
+
+WARNING: Seq_78919 does not have 2 HSPs
+
+WARNING: Seq_78965 does not have 2 HSPs
+
+WARNING: Seq_79002 does not have 2 HSPs
+
+WARNING: Seq_79056 does not have 2 HSPs
+
+WARNING: Seq_79088 does not have 2 HSPs
+
+WARNING: Seq_79124 does not have 2 HSPs
+
+WARNING: Seq_79164 does not have 2 HSPs
+
+WARNING: Seq_79208 does not have 2 HSPs
+
+WARNING: Seq_79242 does not have 2 HSPs
+
+WARNING: Seq_79252 does not have 2 HSPs
+
+WARNING: Seq_79261 does not have 2 HSPs
+
+WARNING: Seq_79271 does not have 2 HSPs
+
+WARNING: Seq_79294 does not have 2 HSPs
+
+WARNING: Seq_79373 does not have 2 HSPs
+
+WARNING: Seq_79425 does not have 2 HSPs
+
+WARNING: Seq_79458 does not have 2 HSPs
+
+WARNING: Seq_79544 does not have 2 HSPs
+
+WARNING: Seq_79565 does not have 2 HSPs
+
+WARNING: Seq_79684 does not have 2 HSPs
+
+WARNING: Seq_79688 does not have 2 HSPs
+
+WARNING: Seq_79694 does not have 2 HSPs
+
+WARNING: Seq_79695 does not have 2 HSPs
+
+WARNING: Seq_79721 HSP2 does not reach end
+
+WARNING: Seq_79744 does not have 2 HSPs
+
+WARNING: Seq_79834 does not have 2 HSPs
+
+WARNING: Seq_79874 does not have 2 HSPs
+
+WARNING: Seq_79905 does not have 2 HSPs
+
+WARNING: Seq_79945 HSP1 does not start at 1
+
+WARNING: Seq_79953 does not have 2 HSPs
+
+WARNING: Seq_79968 does not have 2 HSPs
+
+WARNING: Seq_80004 does not have 2 HSPs
+
+WARNING: Seq_80128 does not have 2 HSPs
+
+WARNING: Seq_80164 does not have 2 HSPs
+
+WARNING: Seq_80208 does not have 2 HSPs
+
+WARNING: Seq_80225 does not have 2 HSPs
+
+WARNING: Seq_80234 does not have 2 HSPs
+
+WARNING: Seq_80252 does not have 2 HSPs
+
+WARNING: Seq_80263 HSP1 does not start at 1
+
+WARNING: Seq_80279 does not have 2 HSPs
+
+WARNING: Seq_80313 does not have 2 HSPs
+
+WARNING: Seq_80334 does not have 2 HSPs
+
+WARNING: Seq_80345 does not have 2 HSPs
+
+WARNING: Seq_80357 does not have 2 HSPs
+
+WARNING: Seq_80426 does not have 2 HSPs
+
+WARNING: Seq_80437 does not have 2 HSPs
+
+WARNING: Seq_80464 does not have 2 HSPs
+
+WARNING: Seq_80580 does not have 2 HSPs
+
+WARNING: Seq_80611 does not have 2 HSPs
+
+WARNING: Seq_80639 does not have 2 HSPs
+
+WARNING: Seq_80717 does not have 2 HSPs
+
+WARNING: Seq_80720 HSP2 does not reach end
+
+WARNING: Seq_80731 does not have 2 HSPs
+
+WARNING: Seq_80765 does not have 2 HSPs
+
+WARNING: Seq_80795 does not have 2 HSPs
+
+WARNING: Seq_80799 does not have 2 HSPs
+
+WARNING: Seq_80830 does not have 2 HSPs
+
+WARNING: Seq_80878 does not have 2 HSPs
+
+WARNING: Seq_80879 does not have 2 HSPs
+
+WARNING: Seq_80941 does not have 2 HSPs
+
+WARNING: Seq_80991 does not have 2 HSPs
+
+WARNING: Seq_80995 does not have 2 HSPs
+
+WARNING: Seq_81052 does not have 2 HSPs
+
+WARNING: Seq_81079 does not have 2 HSPs
+
+WARNING: Seq_81118 does not have 2 HSPs
+
+WARNING: Seq_81174 does not have 2 HSPs
+
+WARNING: Seq_81213 does not have 2 HSPs
+
+WARNING: Seq_81223 does not have 2 HSPs
+
+WARNING: Seq_81238 does not have 2 HSPs
+
+WARNING: Seq_81255 does not have 2 HSPs
+
+WARNING: Seq_81269 does not have 2 HSPs
+
+WARNING: Seq_81282 does not have 2 HSPs
+
+WARNING: Seq_81296 does not have 2 HSPs
+
+WARNING: Seq_81308 does not have 2 HSPs
+
+WARNING: Seq_81318 does not have 2 HSPs
+
+WARNING: Seq_81339 does not have 2 HSPs
+
+WARNING: Seq_81379 does not have 2 HSPs
+
+WARNING: Seq_81383 does not have 2 HSPs
+
+WARNING: Seq_81428 does not have 2 HSPs
+
+WARNING: Seq_81437 does not have 2 HSPs
+
+WARNING: Seq_81439 does not have 2 HSPs
+
+WARNING: Seq_81448 does not have 2 HSPs
+
+WARNING: Seq_81456 does not have 2 HSPs
+
+WARNING: Seq_81464 does not have 2 HSPs
+
+WARNING: Seq_81484 does not have 2 HSPs
+
+WARNING: Seq_81502 HSP2 does not reach end
+
+WARNING: Seq_81516 does not have 2 HSPs
+
+WARNING: Seq_81606 does not have 2 HSPs
+
+WARNING: Seq_81630 does not have 2 HSPs
+
+WARNING: Seq_81728 does not have 2 HSPs
+
+WARNING: Seq_81746 does not have 2 HSPs
+
+WARNING: Seq_81747 does not have 2 HSPs
+
+WARNING: Seq_81776 does not have 2 HSPs
+
+WARNING: Seq_81815 does not have 2 HSPs
+
+WARNING: Seq_81834 does not have 2 HSPs
+
+WARNING: Seq_81873 does not have 2 HSPs
+
+WARNING: Seq_81898 does not have 2 HSPs
+
+WARNING: Seq_81919 does not have 2 HSPs
+
+WARNING: Seq_82013 does not have 2 HSPs
+
+WARNING: Seq_82017 does not have 2 HSPs
+
+WARNING: Seq_82029 does not have 2 HSPs
+
+WARNING: Seq_82175 does not have 2 HSPs
+
+WARNING: Seq_82180 does not have 2 HSPs
+
+WARNING: Seq_82204 does not have 2 HSPs
+
+WARNING: Seq_82228 HSP2 does not reach end
+
+WARNING: Seq_82344 does not have 2 HSPs
+
+WARNING: Seq_82354 does not have 2 HSPs
+
+WARNING: Seq_82388 does not have 2 HSPs
+
+WARNING: Seq_82427 HSP2 does not reach end
+
+WARNING: Seq_82459 does not have 2 HSPs
+
+WARNING: Seq_82515 does not have 2 HSPs
+
+WARNING: Seq_82529 does not have 2 HSPs
+
+WARNING: Seq_82582 does not have 2 HSPs
+
+WARNING: Seq_82617 does not have 2 HSPs
+
+WARNING: Seq_82631 does not have 2 HSPs
+
+WARNING: Seq_82634 does not have 2 HSPs
+
+WARNING: Seq_82654 does not have 2 HSPs
+
+WARNING: Seq_82659 does not have 2 HSPs
+
+WARNING: Seq_82681 does not have 2 HSPs
+
+WARNING: Seq_82687 does not have 2 HSPs
+
+WARNING: Seq_82707 does not have 2 HSPs
+
+WARNING: Seq_82726 does not have 2 HSPs
+
+WARNING: Seq_82736 does not have 2 HSPs
+
+WARNING: Seq_82746 does not have 2 HSPs
+
+WARNING: Seq_82811 does not have 2 HSPs
+
+WARNING: Seq_82824 does not have 2 HSPs
+
+WARNING: Seq_82828 does not have 2 HSPs
+
+WARNING: Seq_82831 does not have 2 HSPs
+
+WARNING: Seq_82901 does not have 2 HSPs
+
+WARNING: Seq_82904 does not have 2 HSPs
+
+WARNING: Seq_82929 does not have 2 HSPs
+
+WARNING: Seq_82936 does not have 2 HSPs
+
+WARNING: Seq_82991 does not have 2 HSPs
+
+WARNING: Seq_83002 does not have 2 HSPs
+
+WARNING: Seq_83014 does not have 2 HSPs
+
+WARNING: Seq_83067 does not have 2 HSPs
+
+WARNING: Seq_83071 does not have 2 HSPs
+
+WARNING: Seq_83089 does not have 2 HSPs
+
+WARNING: Seq_83112 does not have 2 HSPs
+
+WARNING: Seq_83153 does not have 2 HSPs
+
+WARNING: Seq_83253 HSP2 does not reach end
+
+WARNING: Seq_83355 does not have 2 HSPs
+
+WARNING: Seq_83407 does not have 2 HSPs
+
+WARNING: Seq_83409 does not have 2 HSPs
+
+WARNING: Seq_83430 does not have 2 HSPs
+
+WARNING: Seq_83437 does not have 2 HSPs
+
+WARNING: Seq_83438 does not have 2 HSPs
+
+WARNING: Seq_83439 does not have 2 HSPs
+
+WARNING: Seq_83443 does not have 2 HSPs
+
+WARNING: Seq_83471 does not have 2 HSPs
+
+WARNING: Seq_83478 does not have 2 HSPs
+
+WARNING: Seq_83523 does not have 2 HSPs
+
+WARNING: Seq_83566 does not have 2 HSPs
+
+WARNING: Seq_83571 does not have 2 HSPs
+
+WARNING: Seq_83639 does not have 2 HSPs
+
+WARNING: Seq_83665 does not have 2 HSPs
+
+WARNING: Seq_83701 does not have 2 HSPs
+
+WARNING: Seq_83707 does not have 2 HSPs
+
+WARNING: Seq_83708 does not have 2 HSPs
+
+WARNING: Seq_83737 does not have 2 HSPs
+
+WARNING: Seq_83757 does not have 2 HSPs
+
+WARNING: Seq_83805 does not have 2 HSPs
+
+WARNING: Seq_83811 does not have 2 HSPs
+
+WARNING: Seq_83825 does not have 2 HSPs
+
+WARNING: Seq_83904 does not have 2 HSPs
+
+WARNING: Seq_83933 does not have 2 HSPs
+
+WARNING: Seq_83940 does not have 2 HSPs
+
+WARNING: Seq_83957 does not have 2 HSPs
+
+WARNING: Seq_84023 does not have 2 HSPs
+
+WARNING: Seq_84039 does not have 2 HSPs
+
+WARNING: Seq_84060 does not have 2 HSPs
+
+WARNING: Seq_84098 does not have 2 HSPs
+
+WARNING: Seq_84117 does not have 2 HSPs
+
+WARNING: Seq_84159 does not have 2 HSPs
+
+WARNING: Seq_84271 does not have 2 HSPs
+
+WARNING: Seq_84302 does not have 2 HSPs
+
+WARNING: Seq_84308 HSP2 does not reach end
+
+WARNING: Seq_84323 does not have 2 HSPs
+
+WARNING: Seq_84354 does not have 2 HSPs
+
+WARNING: Seq_84415 does not have 2 HSPs
+
+WARNING: Seq_84428 HSP1 does not start at 1
+
+WARNING: Seq_84458 does not have 2 HSPs
+
+WARNING: Seq_84467 does not have 2 HSPs
+
+WARNING: Seq_84487 does not have 2 HSPs
+
+WARNING: Seq_84488 does not have 2 HSPs
+
+WARNING: Seq_84492 does not have 2 HSPs
+
+WARNING: Seq_84502 does not have 2 HSPs
+
+WARNING: Seq_84503 does not have 2 HSPs
+
+WARNING: Seq_84521 does not have 2 HSPs
+
+WARNING: Seq_84540 does not have 2 HSPs
+
+WARNING: Seq_84552 does not have 2 HSPs
+
+WARNING: Seq_84578 does not have 2 HSPs
+
+WARNING: Seq_84682 does not have 2 HSPs
+
+WARNING: Seq_84710 does not have 2 HSPs
+
+WARNING: Seq_84730 HSP2 does not reach end
+
+WARNING: Seq_84745 does not have 2 HSPs
+
+WARNING: Seq_84752 does not have 2 HSPs
+
+WARNING: Seq_84794 does not have 2 HSPs
+
+WARNING: Seq_84811 does not have 2 HSPs
+
+WARNING: Seq_84876 does not have 2 HSPs
+
+WARNING: Seq_84880 does not have 2 HSPs
+
+WARNING: Seq_84919 does not have 2 HSPs
+
+WARNING: Seq_84969 does not have 2 HSPs
+
+WARNING: Seq_84970 does not have 2 HSPs
+
+WARNING: Seq_84974 does not have 2 HSPs
+
+WARNING: Seq_85008 does not have 2 HSPs
+
+WARNING: Seq_85011 does not have 2 HSPs
+
+WARNING: Seq_85031 does not have 2 HSPs
+
+WARNING: Seq_85042 does not have 2 HSPs
+
+WARNING: Seq_85075 does not have 2 HSPs
+
+WARNING: Seq_85086 does not have 2 HSPs
+
+WARNING: Seq_85128 does not have 2 HSPs
+
+WARNING: Seq_85134 does not have 2 HSPs
+
+WARNING: Seq_85202 does not have 2 HSPs
+
+WARNING: Seq_85229 HSP2 does not reach end
+
+WARNING: Seq_85230 does not have 2 HSPs
+
+WARNING: Seq_85275 does not have 2 HSPs
+
+WARNING: Seq_85324 does not have 2 HSPs
+
+WARNING: Seq_85343 does not have 2 HSPs
+
+WARNING: Seq_85412 does not have 2 HSPs
+
+WARNING: Seq_85508 does not have 2 HSPs
+
+WARNING: Seq_85582 does not have 2 HSPs
+
+WARNING: Seq_85605 does not have 2 HSPs
+
+WARNING: Seq_85664 does not have 2 HSPs
+
+WARNING: Seq_85683 does not have 2 HSPs
+
+WARNING: Seq_85688 does not have 2 HSPs
+
+WARNING: Seq_85696 does not have 2 HSPs
+
+WARNING: Seq_85701 does not have 2 HSPs
+
+WARNING: Seq_85756 does not have 2 HSPs
+
+WARNING: Seq_85780 does not have 2 HSPs
+
+WARNING: Seq_85837 does not have 2 HSPs
+
+WARNING: Seq_85882 does not have 2 HSPs
+
+WARNING: Seq_86011 does not have 2 HSPs
+
+WARNING: Seq_86030 does not have 2 HSPs
+
+WARNING: Seq_86043 does not have 2 HSPs
+
+WARNING: Seq_86066 does not have 2 HSPs
+
+WARNING: Seq_86084 does not have 2 HSPs
+
+WARNING: Seq_86094 does not have 2 HSPs
+
+WARNING: Seq_86194 does not have 2 HSPs
+
+WARNING: Seq_86233 does not have 2 HSPs
+
+WARNING: Seq_86249 does not have 2 HSPs
+
+WARNING: Seq_86265 does not have 2 HSPs
+
+WARNING: Seq_86267 does not have 2 HSPs
+
+WARNING: Seq_86275 does not have 2 HSPs
+
+WARNING: Seq_86305 does not have 2 HSPs
+
+WARNING: Seq_86329 does not have 2 HSPs
+
+WARNING: Seq_86354 does not have 2 HSPs
+
+WARNING: Seq_86367 does not have 2 HSPs
+
+WARNING: Seq_86431 does not have 2 HSPs
+
+WARNING: Seq_86432 does not have 2 HSPs
+
+WARNING: Seq_86479 does not have 2 HSPs
+
+WARNING: Seq_86516 does not have 2 HSPs
+
+WARNING: Seq_86558 does not have 2 HSPs
+
+WARNING: Seq_86712 does not have 2 HSPs
+
+WARNING: Seq_86730 does not have 2 HSPs
+
+WARNING: Seq_86771 does not have 2 HSPs
+
+WARNING: Seq_86793 does not have 2 HSPs
+
+WARNING: Seq_86817 does not have 2 HSPs
+
+WARNING: Seq_86836 does not have 2 HSPs
+
+WARNING: Seq_86856 does not have 2 HSPs
+
+WARNING: Seq_86888 does not have 2 HSPs
+
+WARNING: Seq_86889 does not have 2 HSPs
+
+WARNING: Seq_86891 does not have 2 HSPs
+
+WARNING: Seq_86910 does not have 2 HSPs
+
+WARNING: Seq_86998 does not have 2 HSPs
+
+WARNING: Seq_87003 does not have 2 HSPs
+
+WARNING: Seq_87018 does not have 2 HSPs
+
+WARNING: Seq_87112 does not have 2 HSPs
+
+WARNING: Seq_87128 does not have 2 HSPs
+
+WARNING: Seq_87144 does not have 2 HSPs
+
+WARNING: Seq_87146 HSP2 does not reach end
+
+WARNING: Seq_87204 does not have 2 HSPs
+
+WARNING: Seq_87220 does not have 2 HSPs
+
+WARNING: Seq_87266 does not have 2 HSPs
+
+WARNING: Seq_87299 does not have 2 HSPs
+
+WARNING: Seq_87333 does not have 2 HSPs
+
+WARNING: Seq_87344 does not have 2 HSPs
+
+WARNING: Seq_87367 does not have 2 HSPs
+
+WARNING: Seq_87416 does not have 2 HSPs
+
+WARNING: Seq_87417 does not have 2 HSPs
+
+WARNING: Seq_87579 does not have 2 HSPs
+
+WARNING: Seq_87626 does not have 2 HSPs
+
+WARNING: Seq_87630 does not have 2 HSPs
+
+WARNING: Seq_87741 does not have 2 HSPs
+
+WARNING: Seq_87775 does not have 2 HSPs
+
+WARNING: Seq_87814 HSP2 does not reach end
+
+WARNING: Seq_87836 does not have 2 HSPs
+
+WARNING: Seq_87845 does not have 2 HSPs
+
+WARNING: Seq_87848 does not have 2 HSPs
+
+WARNING: Seq_87906 does not have 2 HSPs
+
+WARNING: Seq_87913 does not have 2 HSPs
+
+WARNING: Seq_87939 does not have 2 HSPs
+
+WARNING: Seq_88099 does not have 2 HSPs
+
+WARNING: Seq_88116 does not have 2 HSPs
+
+WARNING: Seq_88132 does not have 2 HSPs
+
+WARNING: Seq_88147 does not have 2 HSPs
+
+WARNING: Seq_88155 does not have 2 HSPs
+
+WARNING: Seq_88164 does not have 2 HSPs
+
+WARNING: Seq_88187 does not have 2 HSPs
+
+WARNING: Seq_88194 does not have 2 HSPs
+
+WARNING: Seq_88216 does not have 2 HSPs
+
+WARNING: Seq_88242 does not have 2 HSPs
+
+WARNING: Seq_88343 does not have 2 HSPs
+
+WARNING: Seq_88360 does not have 2 HSPs
+
+WARNING: Seq_88410 does not have 2 HSPs
+
+WARNING: Seq_88446 does not have 2 HSPs
+
+WARNING: Seq_88463 does not have 2 HSPs
+
+WARNING: Seq_88481 does not have 2 HSPs
+
+WARNING: Seq_88484 does not have 2 HSPs
+
+WARNING: Seq_88507 does not have 2 HSPs
+
+WARNING: Seq_88539 does not have 2 HSPs
+
+WARNING: Seq_88631 does not have 2 HSPs
+
+WARNING: Seq_88639 does not have 2 HSPs
+
+WARNING: Seq_88654 does not have 2 HSPs
+
+WARNING: Seq_88682 does not have 2 HSPs
+
+WARNING: Seq_88690 does not have 2 HSPs
+
+WARNING: Seq_88746 does not have 2 HSPs
+
+WARNING: Seq_88821 does not have 2 HSPs
+
+WARNING: Seq_88937 does not have 2 HSPs
+
+WARNING: Seq_88987 does not have 2 HSPs
+
+WARNING: Seq_89002 does not have 2 HSPs
+
+WARNING: Seq_89005 does not have 2 HSPs
+
+WARNING: Seq_89076 HSP2 does not reach end
+
+WARNING: Seq_89086 does not have 2 HSPs
+
+WARNING: Seq_89105 does not have 2 HSPs
+
+WARNING: Seq_89127 does not have 2 HSPs
+
+WARNING: Seq_89141 does not have 2 HSPs
+
+WARNING: Seq_89148 does not have 2 HSPs
+
+WARNING: Seq_89162 does not have 2 HSPs
+
+WARNING: Seq_89169 does not have 2 HSPs
+
+WARNING: Seq_89215 does not have 2 HSPs
+
+WARNING: Seq_89221 does not have 2 HSPs
+
+WARNING: Seq_89231 does not have 2 HSPs
+
+WARNING: Seq_89243 does not have 2 HSPs
+
+WARNING: Seq_89244 does not have 2 HSPs
+
+WARNING: Seq_89256 HSP2 does not reach end
+
+WARNING: Seq_89279 does not have 2 HSPs
+
+WARNING: Seq_89429 HSP2 does not reach end
+
+WARNING: Seq_89435 does not have 2 HSPs
+
+WARNING: Seq_89466 does not have 2 HSPs
+
+WARNING: Seq_89495 does not have 2 HSPs
+
+WARNING: Seq_89564 does not have 2 HSPs
+
+WARNING: Seq_89576 HSP2 does not reach end
+
+WARNING: Seq_89588 does not have 2 HSPs
+
+WARNING: Seq_89614 does not have 2 HSPs
+
+WARNING: Seq_89652 HSP2 does not reach end
+
+WARNING: Seq_89668 does not have 2 HSPs
+
+WARNING: Seq_89686 does not have 2 HSPs
+
+WARNING: Seq_89833 does not have 2 HSPs
+
+WARNING: Seq_89930 does not have 2 HSPs
+
+WARNING: Seq_89932 does not have 2 HSPs
+
+WARNING: Seq_90023 does not have 2 HSPs
+
+WARNING: Seq_90037 does not have 2 HSPs
+
+WARNING: Seq_90049 HSP2 does not reach end
+
+WARNING: Seq_90050 does not have 2 HSPs
+
+WARNING: Seq_90112 does not have 2 HSPs
+
+WARNING: Seq_90121 does not have 2 HSPs
+
+WARNING: Seq_90127 HSP2 does not reach end
+
+WARNING: Seq_90130 does not have 2 HSPs
+
+WARNING: Seq_90157 does not have 2 HSPs
+
+WARNING: Seq_90176 does not have 2 HSPs
+
+WARNING: Seq_90192 does not have 2 HSPs
+
+WARNING: Seq_90234 does not have 2 HSPs
+
+WARNING: Seq_90238 does not have 2 HSPs
+
+WARNING: Seq_90263 does not have 2 HSPs
+
+WARNING: Seq_90299 does not have 2 HSPs
+
+WARNING: Seq_90334 does not have 2 HSPs
+
+WARNING: Seq_90381 does not have 2 HSPs
+
+WARNING: Seq_90440 does not have 2 HSPs
+
+WARNING: Seq_90442 does not have 2 HSPs
+
+WARNING: Seq_90443 does not have 2 HSPs
+
+WARNING: Seq_90500 does not have 2 HSPs
+
+WARNING: Seq_90501 does not have 2 HSPs
+
+WARNING: Seq_90535 does not have 2 HSPs
+
+WARNING: Seq_90572 does not have 2 HSPs
+
+WARNING: Seq_90582 does not have 2 HSPs
+
+WARNING: Seq_90592 does not have 2 HSPs
+
+WARNING: Seq_90658 does not have 2 HSPs
+
+WARNING: Seq_90671 does not have 2 HSPs
+
+WARNING: Seq_90712 does not have 2 HSPs
+
+WARNING: Seq_90713 does not have 2 HSPs
+
+WARNING: Seq_90727 does not have 2 HSPs
+
+WARNING: Seq_90754 does not have 2 HSPs
+
+WARNING: Seq_90761 does not have 2 HSPs
+
+WARNING: Seq_90793 does not have 2 HSPs
+
+WARNING: Seq_90800 does not have 2 HSPs
+
+WARNING: Seq_90872 does not have 2 HSPs
+
+WARNING: Seq_90875 does not have 2 HSPs
+
+WARNING: Seq_90886 does not have 2 HSPs
+
+WARNING: Seq_90893 does not have 2 HSPs
+
+WARNING: Seq_90930 does not have 2 HSPs
+
+WARNING: Seq_90983 does not have 2 HSPs
+
+WARNING: Seq_90991 does not have 2 HSPs
+
+WARNING: Seq_91041 does not have 2 HSPs
+
+WARNING: Seq_91061 does not have 2 HSPs
+
+WARNING: Seq_91127 does not have 2 HSPs
+
+WARNING: Seq_91141 does not have 2 HSPs
+
+WARNING: Seq_91180 does not have 2 HSPs
+
+WARNING: Seq_91214 does not have 2 HSPs
+
+WARNING: Seq_91218 does not have 2 HSPs
+
+WARNING: Seq_91300 does not have 2 HSPs
+
+WARNING: Seq_91316 does not have 2 HSPs
+
+WARNING: Seq_91368 HSP2 does not reach end
+
+WARNING: Seq_91461 does not have 2 HSPs
+
+WARNING: Seq_91492 does not have 2 HSPs
+
+WARNING: Seq_91507 does not have 2 HSPs
+
+WARNING: Seq_91530 does not have 2 HSPs
+
+WARNING: Seq_91590 does not have 2 HSPs
+
+WARNING: Seq_91593 does not have 2 HSPs
+
+WARNING: Seq_91631 does not have 2 HSPs
+
+WARNING: Seq_91635 does not have 2 HSPs
+
+WARNING: Seq_91652 does not have 2 HSPs
+
+WARNING: Seq_91710 does not have 2 HSPs
+
+WARNING: Seq_91802 does not have 2 HSPs
+
+WARNING: Seq_91908 does not have 2 HSPs
+
+WARNING: Seq_91936 does not have 2 HSPs
+
+WARNING: Seq_91949 does not have 2 HSPs
+
+WARNING: Seq_91964 does not have 2 HSPs
+
+WARNING: Seq_91984 does not have 2 HSPs
+
+WARNING: Seq_91985 does not have 2 HSPs
+
+WARNING: Seq_92001 does not have 2 HSPs
+
+WARNING: Seq_92059 HSP2 does not reach end
+
+WARNING: Seq_92094 does not have 2 HSPs
+
+WARNING: Seq_92097 does not have 2 HSPs
+
+WARNING: Seq_92125 does not have 2 HSPs
+
+WARNING: Seq_92143 does not have 2 HSPs
+
+WARNING: Seq_92153 HSP2 does not reach end
+
+WARNING: Seq_92190 does not have 2 HSPs
+
+WARNING: Seq_92192 does not have 2 HSPs
+
+WARNING: Seq_92212 does not have 2 HSPs
+
+WARNING: Seq_92264 does not have 2 HSPs
+
+WARNING: Seq_92275 does not have 2 HSPs
+
+WARNING: Seq_92322 HSP2 does not reach end
+
+WARNING: Seq_92350 does not have 2 HSPs
+
+WARNING: Seq_92356 does not have 2 HSPs
+
+WARNING: Seq_92418 does not have 2 HSPs
+
+WARNING: Seq_92433 does not have 2 HSPs
+
+WARNING: Seq_92438 does not have 2 HSPs
+
+WARNING: Seq_92441 does not have 2 HSPs
+
+WARNING: Seq_92472 does not have 2 HSPs
+
+WARNING: Seq_92567 does not have 2 HSPs
+
+WARNING: Seq_92577 does not have 2 HSPs
+
+WARNING: Seq_92636 does not have 2 HSPs
+
+WARNING: Seq_92735 does not have 2 HSPs
+
+WARNING: Seq_92743 does not have 2 HSPs
+
+WARNING: Seq_92776 does not have 2 HSPs
+
+WARNING: Seq_92778 HSP2 does not reach end
+
+WARNING: Seq_92791 does not have 2 HSPs
+
+WARNING: Seq_92795 does not have 2 HSPs
+
+WARNING: Seq_92796 does not have 2 HSPs
+
+WARNING: Seq_92822 does not have 2 HSPs
+
+WARNING: Seq_92885 does not have 2 HSPs
+
+WARNING: Seq_92892 does not have 2 HSPs
+
+WARNING: Seq_92895 does not have 2 HSPs
+
+WARNING: Seq_92963 does not have 2 HSPs
+
+WARNING: Seq_93012 HSP1 does not start at 1
+
+WARNING: Seq_93060 does not have 2 HSPs
+
+WARNING: Seq_93103 does not have 2 HSPs
+
+WARNING: Seq_93128 does not have 2 HSPs
+
+WARNING: Seq_93136 does not have 2 HSPs
+
+WARNING: Seq_93181 does not have 2 HSPs
+
+WARNING: Seq_93196 does not have 2 HSPs
+
+WARNING: Seq_93199 HSP2 does not reach end
+
+WARNING: Seq_93202 does not have 2 HSPs
+
+WARNING: Seq_93259 does not have 2 HSPs
+
+WARNING: Seq_93350 does not have 2 HSPs
+
+WARNING: Seq_93374 does not have 2 HSPs
+
+WARNING: Seq_93387 does not have 2 HSPs
+
+WARNING: Seq_93422 does not have 2 HSPs
+
+WARNING: Seq_93448 does not have 2 HSPs
+
+WARNING: Seq_93508 does not have 2 HSPs
+
+WARNING: Seq_93511 does not have 2 HSPs
+
+WARNING: Seq_93575 does not have 2 HSPs
+
+WARNING: Seq_93582 HSP2 does not reach end
+
+WARNING: Seq_93596 does not have 2 HSPs
+
+WARNING: Seq_93608 does not have 2 HSPs
+
+WARNING: Seq_93632 does not have 2 HSPs
+
+WARNING: Seq_93698 HSP2 does not reach end
+
+WARNING: Seq_93726 does not have 2 HSPs
+
+WARNING: Seq_93727 does not have 2 HSPs
+
+WARNING: Seq_93781 does not have 2 HSPs
+
+WARNING: Seq_93838 does not have 2 HSPs
+
+WARNING: Seq_93848 does not have 2 HSPs
+
+WARNING: Seq_93868 does not have 2 HSPs
+
+WARNING: Seq_93895 HSP2 does not reach end
+
+WARNING: Seq_93906 does not have 2 HSPs
+
+WARNING: Seq_93923 HSP2 does not reach end
+
+WARNING: Seq_93925 does not have 2 HSPs
+
+WARNING: Seq_93942 HSP2 does not reach end
+
+WARNING: Seq_93957 does not have 2 HSPs
+
+WARNING: Seq_93969 does not have 2 HSPs
+
+WARNING: Seq_93999 does not have 2 HSPs
+
+WARNING: Seq_94031 does not have 2 HSPs
+
+WARNING: Seq_94078 does not have 2 HSPs
+
+WARNING: Seq_94110 does not have 2 HSPs
+
+WARNING: Seq_94238 does not have 2 HSPs
+
+WARNING: Seq_94243 does not have 2 HSPs
+
+WARNING: Seq_94294 does not have 2 HSPs
+
+WARNING: Seq_94306 does not have 2 HSPs
+
+WARNING: Seq_94351 does not have 2 HSPs
+
+WARNING: Seq_94370 does not have 2 HSPs
+
+WARNING: Seq_94383 does not have 2 HSPs
+
+WARNING: Seq_94386 does not have 2 HSPs
+
+WARNING: Seq_94402 does not have 2 HSPs
+
+WARNING: Seq_94460 does not have 2 HSPs
+
+WARNING: Seq_94465 does not have 2 HSPs
+
+WARNING: Seq_94532 does not have 2 HSPs
+
+WARNING: Seq_94535 does not have 2 HSPs
+
+WARNING: Seq_94539 does not have 2 HSPs
+
+WARNING: Seq_94622 does not have 2 HSPs
+
+WARNING: Seq_94641 does not have 2 HSPs
+
+WARNING: Seq_94660 does not have 2 HSPs
+
+WARNING: Seq_94733 does not have 2 HSPs
+
+WARNING: Seq_94824 HSP2 does not reach end
+
+WARNING: Seq_94864 does not have 2 HSPs
+
+WARNING: Seq_94872 does not have 2 HSPs
+
+WARNING: Seq_94914 does not have 2 HSPs
+
+WARNING: Seq_94993 does not have 2 HSPs
+
+WARNING: Seq_95011 does not have 2 HSPs
+
+WARNING: Seq_95031 does not have 2 HSPs
+
+WARNING: Seq_95032 does not have 2 HSPs
+
+WARNING: Seq_95068 does not have 2 HSPs
+
+WARNING: Seq_95111 does not have 2 HSPs
+
+WARNING: Seq_95171 HSP2 does not reach end
+
+WARNING: Seq_95186 does not have 2 HSPs
+
+WARNING: Seq_95211 HSP1 does not start at 1
+
+WARNING: Seq_95249 does not have 2 HSPs
+
+WARNING: Seq_95271 does not have 2 HSPs
+
+WARNING: Seq_95272 does not have 2 HSPs
+
+WARNING: Seq_95388 does not have 2 HSPs
+
+WARNING: Seq_95402 does not have 2 HSPs
+
+WARNING: Seq_95410 does not have 2 HSPs
+
+WARNING: Seq_95420 does not have 2 HSPs
+
+WARNING: Seq_95485 does not have 2 HSPs
+
+WARNING: Seq_95486 does not have 2 HSPs
+
+WARNING: Seq_95510 does not have 2 HSPs
+
+WARNING: Seq_95517 does not have 2 HSPs
+
+WARNING: Seq_95615 does not have 2 HSPs
+
+WARNING: Seq_95686 does not have 2 HSPs
+
+WARNING: Seq_95796 does not have 2 HSPs
+
+WARNING: Seq_95803 does not have 2 HSPs
+
+WARNING: Seq_95817 does not have 2 HSPs
+
+WARNING: Seq_95927 does not have 2 HSPs
+
+WARNING: Seq_95947 HSP2 does not reach end
+
+WARNING: Seq_95980 does not have 2 HSPs
+
+WARNING: Seq_96039 does not have 2 HSPs
+
+WARNING: Seq_96054 does not have 2 HSPs
+
+WARNING: Seq_96120 does not have 2 HSPs
+
+WARNING: Seq_96128 does not have 2 HSPs
+
+WARNING: Seq_96281 does not have 2 HSPs
+
+WARNING: Seq_96288 does not have 2 HSPs
+
+WARNING: Seq_96322 does not have 2 HSPs
+
+WARNING: Seq_96389 does not have 2 HSPs
+
+WARNING: Seq_96394 does not have 2 HSPs
+
+WARNING: Seq_96460 does not have 2 HSPs
+
+WARNING: Seq_96483 does not have 2 HSPs
+
+WARNING: Seq_96488 does not have 2 HSPs
+
+WARNING: Seq_96570 does not have 2 HSPs
+
+WARNING: Seq_96572 does not have 2 HSPs
+
+WARNING: Seq_96603 does not have 2 HSPs
+
+WARNING: Seq_96609 does not have 2 HSPs
+
+WARNING: Seq_96641 does not have 2 HSPs
+
+WARNING: Seq_96680 does not have 2 HSPs
+
+WARNING: Seq_96690 HSP2 does not reach end
+
+WARNING: Seq_96718 does not have 2 HSPs
+
+WARNING: Seq_96777 does not have 2 HSPs
+
+WARNING: Seq_96912 does not have 2 HSPs
+
+WARNING: Seq_96931 does not have 2 HSPs
+
+WARNING: Seq_96987 does not have 2 HSPs
+
+WARNING: Seq_97013 does not have 2 HSPs
+
+WARNING: Seq_97106 does not have 2 HSPs
+
+WARNING: Seq_97107 HSP2 does not reach end
+
+WARNING: Seq_97123 does not have 2 HSPs
+
+WARNING: Seq_97245 does not have 2 HSPs
+
+WARNING: Seq_97316 does not have 2 HSPs
+
+WARNING: Seq_97343 does not have 2 HSPs
+
+WARNING: Seq_97351 does not have 2 HSPs
+
+WARNING: Seq_97363 does not have 2 HSPs
+
+WARNING: Seq_97396 does not have 2 HSPs
+
+WARNING: Seq_97409 does not have 2 HSPs
+
+WARNING: Seq_97471 does not have 2 HSPs
+
+WARNING: Seq_97596 does not have 2 HSPs
+
+WARNING: Seq_97618 does not have 2 HSPs
+
+WARNING: Seq_97692 does not have 2 HSPs
+
+WARNING: Seq_97704 HSP2 does not reach end
+
+WARNING: Seq_97711 does not have 2 HSPs
+
+WARNING: Seq_97746 does not have 2 HSPs
+
+WARNING: Seq_97754 does not have 2 HSPs
+
+WARNING: Seq_97791 does not have 2 HSPs
+
+WARNING: Seq_97811 does not have 2 HSPs
+
+WARNING: Seq_97820 does not have 2 HSPs
+
+WARNING: Seq_97849 does not have 2 HSPs
+
+WARNING: Seq_97894 does not have 2 HSPs
+
+WARNING: Seq_97929 does not have 2 HSPs
+
+WARNING: Seq_97932 does not have 2 HSPs
+
+WARNING: Seq_97951 does not have 2 HSPs
+
+WARNING: Seq_97958 HSP2 does not reach end
+
+WARNING: Seq_97961 does not have 2 HSPs
+
+WARNING: Seq_97971 does not have 2 HSPs
+
+WARNING: Seq_98000 does not have 2 HSPs
+
+WARNING: Seq_98009 does not have 2 HSPs
+
+WARNING: Seq_98016 does not have 2 HSPs
+
+WARNING: Seq_98034 does not have 2 HSPs
+
+WARNING: Seq_98049 does not have 2 HSPs
+
+WARNING: Seq_98101 HSP2 does not reach end
+
+WARNING: Seq_98120 does not have 2 HSPs
+
+WARNING: Seq_98142 does not have 2 HSPs
+
+WARNING: Seq_98187 HSP2 does not reach end
+
+WARNING: Seq_98194 does not have 2 HSPs
+
+WARNING: Seq_98200 does not have 2 HSPs
+
+WARNING: Seq_98248 does not have 2 HSPs
+
+WARNING: Seq_98288 does not have 2 HSPs
+
+WARNING: Seq_98335 does not have 2 HSPs
+
+WARNING: Seq_98350 does not have 2 HSPs
+
+WARNING: Seq_98360 HSP1 does not start at 1
+
+WARNING: Seq_98374 does not have 2 HSPs
+
+WARNING: Seq_98394 HSP2 does not reach end
+
+WARNING: Seq_98396 does not have 2 HSPs
+
+WARNING: Seq_98413 does not have 2 HSPs
+
+WARNING: Seq_98548 does not have 2 HSPs
+
+WARNING: Seq_98566 does not have 2 HSPs
+
+WARNING: Seq_98598 HSP1 does not start at 1
+
+WARNING: Seq_98601 does not have 2 HSPs
+
+WARNING: Seq_98648 does not have 2 HSPs
+
+WARNING: Seq_98771 does not have 2 HSPs
+
+WARNING: Seq_98776 does not have 2 HSPs
+
+WARNING: Seq_98807 does not have 2 HSPs
+
+WARNING: Seq_98878 does not have 2 HSPs
+
+WARNING: Seq_98924 does not have 2 HSPs
+
+WARNING: Seq_98930 does not have 2 HSPs
+
+WARNING: Seq_98984 does not have 2 HSPs
+
+WARNING: Seq_98990 does not have 2 HSPs
+
+WARNING: Seq_98993 does not have 2 HSPs
+
+WARNING: Seq_99027 does not have 2 HSPs
+
+WARNING: Seq_99038 does not have 2 HSPs
+
+WARNING: Seq_99136 does not have 2 HSPs
+
+WARNING: Seq_99153 HSP2 does not reach end
+
+WARNING: Seq_99176 does not have 2 HSPs
+
+WARNING: Seq_99217 does not have 2 HSPs
+
+WARNING: Seq_99242 HSP2 does not reach end
+
+WARNING: Seq_99244 does not have 2 HSPs
+
+WARNING: Seq_99321 does not have 2 HSPs
+
+WARNING: Seq_99376 does not have 2 HSPs
+
+WARNING: Seq_99384 does not have 2 HSPs
+
+WARNING: Seq_99392 does not have 2 HSPs
+
+WARNING: Seq_99402 does not have 2 HSPs
+
+WARNING: Seq_99406 does not have 2 HSPs
+
+WARNING: Seq_99407 does not have 2 HSPs
+
+WARNING: Seq_99481 HSP2 does not reach end
+
+WARNING: Seq_99488 does not have 2 HSPs
+
+WARNING: Seq_99526 does not have 2 HSPs
+
+WARNING: Seq_99542 does not have 2 HSPs
+
+WARNING: Seq_99555 does not have 2 HSPs
+
+WARNING: Seq_99608 does not have 2 HSPs
+
+WARNING: Seq_99635 does not have 2 HSPs
+
+WARNING: Seq_99671 does not have 2 HSPs
+
+WARNING: Seq_99676 does not have 2 HSPs
+
+WARNING: Seq_99781 does not have 2 HSPs
+
+WARNING: Seq_99800 does not have 2 HSPs
+
+WARNING: Seq_99803 does not have 2 HSPs
+
+WARNING: Seq_99804 does not have 2 HSPs
+
+WARNING: Seq_99847 does not have 2 HSPs
+
+WARNING: Seq_99869 does not have 2 HSPs
+
+WARNING: Seq_99888 does not have 2 HSPs
+
+WARNING: Seq_99899 does not have 2 HSPs
+
+WARNING: Seq_99934 does not have 2 HSPs
+
+WARNING: Seq_99939 does not have 2 HSPs

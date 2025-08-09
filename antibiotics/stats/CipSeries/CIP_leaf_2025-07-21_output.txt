@@ -1,0 +1,175 @@
+Percent true leaves for CIP experiment
+
+In the analysis (lmer) "Exp" means experiment, and is one of 4 experiments run
+"ExpRep" is basically the plate (so a unique value for each exp - plate combo)
+These are put in the model as random effects (1|Exp) + (1|ExpRep)
+Exp 1 has only wt and AB at all conc, Exp 2 & 3 have all types at all conc, Exp 4 has all types at only 0 and .75
+
+-------------------
+library(lme4)
+library(lmerTest)
+library(pbkrtest)
+library(emmeans)
+library(multcomp)
+library(multcompView)
+Model <- lmer(aveLeaf ~ Genotype*DC + (1|Exp) + (1|ExpRep), data = CIP_alldata3)
+anova(Model)
+emmeans(Model, pairwise ~ Genotype|DC)
+
+#use emmeans with the tukey test letters
+Model <- lmer(aveLeaf ~ Genotype*DC + (1|Exp) + (1|ExpRep), data = CIP_alldata3)
+Leaf_ee <- emmeans(Model, pairwise ~ Genotype|DC, adjust = "tukey")
+Leaf_cld <- cld(Leaf_ee, alpha = 0.05, Letters = letters)
+Leaf_cld
+
+#this is the same thing but it has numbers instead of letters
+Model <- lmer(aveLeaf ~ Genotype*DC + (1|Exp) + (1|ExpRep), data = CIP_alldata3)
+Leaf_ee <- emmeans(Model, ~ Genotype|DC)
+cld_output <- cld(Leaf_ee, adjust = "tukey", alpha = 0.05)
+print(cld_output)
+
+---------------------------
+Results CIP
+---------------------------
+
+> Model <- lmer(aveLeaf ~ Genotype*DC + (1|Exp) + (1|ExpRep), data = CIP_alldata3)
+
+> anova(Model)
+Type III Analysis of Variance Table with Satterthwaite's method
+            Sum Sq Mean Sq NumDF  DenDF F value    Pr(>F)    
+Genotype      3047  1015.6     3 264.59  7.2465 0.0001088 ***
+DC           39217  9804.2     4 266.52 69.9576 < 2.2e-16 ***
+Genotype:DC   5028   419.0    12 263.77  2.9895 0.0006130 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+> emmeans(Model, pairwise ~ Genotype|DC)
+$emmeans
+DC = 0 CIP:
+ Genotype emmean   SE   df lower.CL upper.CL
+ A          95.7 5.11 5.89     83.2    108.3
+ AB         97.0 4.97 5.29     84.4    109.6
+ B          96.0 5.11 5.89     83.5    108.6
+ W          96.5 4.97 5.29     83.9    109.1
+
+DC = 0.25 CIP:
+ Genotype emmean   SE   df lower.CL upper.CL
+ A          93.4 5.71 9.14     80.5    106.3
+ AB         93.5 5.38 7.24     80.8    106.1
+ B          95.6 5.71 9.14     82.7    108.5
+ W          96.9 5.38 7.24     84.3    109.6
+
+DC = 0.5 CIP:
+ Genotype emmean   SE   df lower.CL upper.CL
+ A          87.1 5.71 9.14     74.2    100.0
+ AB         88.4 5.38 7.24     75.8    101.1
+ B          91.7 5.71 9.14     78.8    104.6
+ W          92.7 5.38 7.24     80.1    105.4
+
+DC = 0.75 CIP:
+ Genotype emmean   SE   df lower.CL upper.CL
+ A          81.5 5.04 5.57     68.9     94.1
+ AB         66.2 4.92 5.06     53.7     78.8
+ B          91.2 5.04 5.57     78.6    103.8
+ W          82.9 4.92 5.06     70.3     95.4
+
+DC = 1.0 CIP:
+ Genotype emmean   SE   df lower.CL upper.CL
+ A          58.8 5.71 9.14     45.9     71.7
+ AB         57.2 5.38 7.24     44.5     69.8
+ B          73.0 5.71 9.14     60.2     85.9
+ W          61.7 5.38 7.24     49.1     74.3
+
+Degrees-of-freedom method: kenward-roger 
+Confidence level used: 0.95 
+
+$contrasts
+DC = 0 CIP:
+ contrast estimate   SE  df t.ratio p.value
+ A - AB    -1.2681 3.82 262  -0.332  0.9874
+ A - B     -0.3086 3.95 262  -0.078  0.9998
+ A - W     -0.7792 3.82 262  -0.204  0.9970
+ AB - B     0.9594 3.82 262   0.251  0.9944
+ AB - W     0.4888 3.65 262   0.134  0.9991
+ B - W     -0.4706 3.82 262  -0.123  0.9993
+
+DC = 0.25 CIP:
+ contrast estimate   SE  df t.ratio p.value
+ A - AB    -0.0955 5.01 262  -0.019  1.0000
+ A - B     -2.2222 5.29 262  -0.420  0.9751
+ A - W     -3.5646 5.01 262  -0.711  0.8926
+ AB - B    -2.1267 5.01 262  -0.424  0.9743
+ AB - W    -3.4691 4.64 262  -0.747  0.8778
+ B - W     -1.3424 5.01 262  -0.268  0.9933
+
+DC = 0.5 CIP:
+ contrast estimate   SE  df t.ratio p.value
+ A - AB    -1.3675 5.01 262  -0.273  0.9929
+ A - B     -4.6405 5.29 262  -0.877  0.8170
+ A - W     -5.6591 5.01 262  -1.129  0.6718
+ AB - B    -3.2730 5.01 262  -0.653  0.9144
+ AB - W    -4.2916 4.64 262  -0.924  0.7919
+ B - W     -1.0186 5.01 262  -0.203  0.9970
+
+DC = 0.75 CIP:
+ contrast estimate   SE  df t.ratio p.value
+ A - AB    15.2400 3.63 262   4.194  0.0002
+ A - B     -9.6916 3.74 262  -2.589  0.0496
+ A - W     -1.3666 3.63 262  -0.376  0.9818
+ AB - B   -24.9316 3.63 262  -6.861  <.0001
+ AB - W   -16.6066 3.49 262  -4.757  <.0001
+ B - W      8.3250 3.63 262   2.291  0.1028
+
+DC = 1.0 CIP:
+ contrast estimate   SE  df t.ratio p.value
+ A - AB     1.6525 5.01 262   0.330  0.9876
+ A - B    -14.2329 5.29 262  -2.688  0.0381
+ A - W     -2.8799 5.01 262  -0.575  0.9396
+ AB - B   -15.8854 5.01 262  -3.170  0.0092
+ AB - W    -4.5324 4.64 262  -0.976  0.7632
+ B - W     11.3530 5.01 262   2.265  0.1089
+
+Degrees-of-freedom method: kenward-roger 
+P value adjustment: tukey method for comparing a family of 4 estimates 
+
+
+
+
+> Model <- lmer(aveLeaf ~ Genotype*DC + (1|Exp) + (1|ExpRep), data = CIP_alldata3)
+> Leaf_ee <- emmeans(Model, pairwise ~ Genotype|DC, adjust = "tukey")
+> Leaf_cld <- cld(Leaf_ee, alpha = 0.05, Letters = letters)
+> Leaf_cld
+DC = 0 CIP:
+ Genotype emmean   SE   df lower.CL upper.CL .group
+ A          95.7 5.11 5.89     83.2    108.3  a    
+ B          96.0 5.11 5.89     83.5    108.6  a    
+ W          96.5 4.97 5.29     83.9    109.1  a    
+ AB         97.0 4.97 5.29     84.4    109.6  a    
+
+DC = 0.25 CIP:
+ Genotype emmean   SE   df lower.CL upper.CL .group
+ A          93.4 5.71 9.14     80.5    106.3  a    
+ AB         93.5 5.38 7.24     80.8    106.1  a    
+ B          95.6 5.71 9.14     82.7    108.5  a    
+ W          96.9 5.38 7.24     84.3    109.6  a    
+
+DC = 0.5 CIP:
+ Genotype emmean   SE   df lower.CL upper.CL .group
+ A          87.1 5.71 9.14     74.2    100.0  a    
+ AB         88.4 5.38 7.24     75.8    101.1  a    
+ B          91.7 5.71 9.14     78.8    104.6  a    
+ W          92.7 5.38 7.24     80.1    105.4  a    
+
+DC = 0.75 CIP:
+ Genotype emmean   SE   df lower.CL upper.CL .group
+ AB         66.2 4.92 5.06     53.7     78.8  a    
+ A          81.5 5.04 5.57     68.9     94.1   b   
+ W          82.9 4.92 5.06     70.3     95.4   bc  
+ B          91.2 5.04 5.57     78.6    103.8    c  
+
+DC = 1.0 CIP:
+ Genotype emmean   SE   df lower.CL upper.CL .group
+ AB         57.2 5.38 7.24     44.5     69.8  a    
+ A          58.8 5.71 9.14     45.9     71.7  a    
+ W          61.7 5.38 7.24     49.1     74.3  ab   
+ B          73.0 5.71 9.14     60.2     85.9   b   

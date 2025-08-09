@@ -1,0 +1,72 @@
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+MutS2a_AT5G54090	superfamily	421774	118	348	8.05403e-06	48.449	cl29279	MutS_III superfamily	 - 	 - 
+MutS2a_AT5G54090	specific	197777	436	619	3.7366e-71	230.906	smart00534	MutS_V	 - 	cl40481
+O_sativa_LOC_Os10g36530.1	superfamily	421774	3	212	9.65086e-11	63.0866	cl29279	MutS_III superfamily	N	 - 
+O_sativa_LOC_Os10g36530.1	specific	197777	325	517	1.63176e-60	197.779	smart00534	MutS_V	 - 	cl40481
+C_braunii_GBG66194	non-specific	197777	151	312	2.18902e-34	128.058	smart00534	MutS_V	 - 	cl40481
+C_braunii_GBG83953	specific	197777	673	859	1.02781e-56	195.082	smart00534	MutS_V	 - 	cl40481
+C_braunii_GBG83953	superfamily	421774	317	537	1.82182e-12	70.7906	cl29279	MutS_III superfamily	N	 - 
+C_braunii_GBG83953	non-specific	396327	1110	1178	1.16254e-11	62.5003	pfam01713	SMR	 - 	cl02619
+C_paradoxa_Contig9550	specific	197777	18	196	1.33327e-52	167.733	smart00534	MutS_V	 - 	cl40481
+P_patens_3c5_20780V3.1.p	superfamily	421774	237	443	3.04437e-23	101.221	cl29279	MutS_III superfamily	N	 - 
+P_patens_3c5_20780V3.1.p	specific	197777	511	697	7.91997e-62	207.024	smart00534	MutS_V	 - 	cl40481
+M_polymorpha_0023s0121.1.p	superfamily	421774	186	441	8.60252e-21	93.9026	cl29279	MutS_III superfamily	N	 - 
+M_polymorpha_0023s0121.1.p	specific	197777	509	695	2.93607e-60	202.401	smart00534	MutS_V	 - 	cl40481
+M_endlicherianum_ME000591S08501	superfamily	421774	354	561	1.50476e-17	84.2726	cl29279	MutS_III superfamily	N	 - 
+M_endlicherianum_ME000591S08501	specific	197777	746	925	1.33328e-53	184.682	smart00534	MutS_V	 - 	cl40481
+S_moellendorffii_421325	superfamily	421774	176	357	3.28396e-15	76.9538	cl29279	MutS_III superfamily	N	 - 
+S_moellendorffii_421325	non-specific	197777	420	562	1.32818e-38	140.769	smart00534	MutS_V	 - 	cl40481
+C_reinhardtii_01.g040350.t1.1	specific	197777	453	636	1.11947e-51	179.674	smart00534	MutS_V	 - 	cl40481
+C_reinhardtii_01.g040350.t1.1	superfamily	421774	134	289	0.000510724	43.4414	cl29279	MutS_III superfamily	N	 - 
+O_lucimarinus_38770	specific	197777	507	694	4.05568e-63	208.179	smart00534	MutS_V	 - 	cl40481
+O_lucimarinus_38770	superfamily	421774	158	362	2.00773e-09	59.6198	cl29279	MutS_III superfamily	N	 - 
+P_pupureum_contig_2084.1	specific	197777	525	731	8.08041e-58	197.008	smart00534	MutS_V	 - 	cl40481
+P_pupureum_contig_2084.1	non-specific	396327	959	1034	2.94114e-18	79.8343	pfam01713	SMR	 - 	cl02619
+P_pupureum_contig_2084.1	superfamily	421774	290	481	6.40025e-12	67.709	cl29279	MutS_III superfamily	N	 - 
+MutS2b_AT1G6507	specific	197777	397	577	3.99495e-53	182.756	smart00534	MutS_V	 - 	cl40481
+MutS2b_AT1G6507	non-specific	214676	802	876	2.07721e-16	74.6419	smart00463	SMR	 - 	cl02619
+MutS2b_AT1G6507	superfamily	421774	112	369	3.52313e-11	65.0126	cl29279	MutS_III superfamily	N	 - 
+O_sativa_LOC_Os04g58410.1	specific	197777	439	619	1.69909e-57	195.468	smart00534	MutS_V	 - 	cl40481
+O_sativa_LOC_Os04g58410.1	non-specific	214676	847	921	1.0162e-11	61.5451	smart00463	SMR	 - 	cl02619
+O_sativa_LOC_Os04g58410.1	superfamily	421774	162	397	1.35262e-09	60.3902	cl29279	MutS_III superfamily	N	 - 
+M_polymorpha_0028s0103.1.p	specific	197777	535	714	6.65023e-60	202.786	smart00534	MutS_V	 - 	cl40481
+M_polymorpha_0028s0103.1.p	superfamily	421774	214	475	4.86437e-15	76.9538	cl29279	MutS_III superfamily	 - 	 - 
+M_polymorpha_0028s0103.1.p	non-specific	396327	955	1026	1.93589e-11	60.5743	pfam01713	SMR	 - 	cl02619
+P_patens_3c17_13780V3.1.p	specific	197777	534	714	1.04574e-57	196.623	smart00534	MutS_V	 - 	cl40481
+P_patens_3c17_13780V3.1.p	non-specific	214676	952	1026	1.26479e-13	66.9379	smart00463	SMR	 - 	cl02619
+P_patens_3c17_13780V3.1.p	superfamily	421774	192	476	1.27592e-08	57.6938	cl29279	MutS_III superfamily	 - 	 - 
+P_patens_3c17_13784V3.1.p	specific	197777	534	714	1.04574e-57	196.623	smart00534	MutS_V	 - 	cl40481
+P_patens_3c17_13784V3.1.p	non-specific	214676	952	1026	1.26479e-13	66.9379	smart00463	SMR	 - 	cl02619
+P_patens_3c17_13784V3.1.p	superfamily	421774	192	476	1.27592e-08	57.6938	cl29279	MutS_III superfamily	 - 	 - 
+S_moellendorffii_141299	specific	197777	352	532	1.74272e-58	197.394	smart00534	MutS_V	 - 	cl40481
+S_moellendorffii_141299	superfamily	421774	85	324	5.6596e-15	76.5686	cl29279	MutS_III superfamily	N	 - 
+S_moellendorffii_141299	non-specific	396327	754	818	3.75467e-12	62.5003	pfam01713	SMR	 - 	cl02619
+C_braunii_GBG73512	specific	197777	755	938	3.82482e-63	212.802	smart00534	MutS_V	 - 	cl40481
+C_braunii_GBG73512	superfamily	421774	420	609	2.07494e-13	72.7166	cl29279	MutS_III superfamily	N	 - 
+C_braunii_GBG73512	non-specific	214676	1280	1354	3.47645e-09	54.6115	smart00463	SMR	 - 	cl02619
+P_umbilicalis_0346s0006.1.p	specific	197777	711	928	4.91625e-50	175.437	smart00534	MutS_V	 - 	cl40481
+P_umbilicalis_0346s0006.1.p	non-specific	396327	1157	1230	5.67944e-09	54.026	pfam01713	SMR	 - 	cl02619
+C_reinhardtii_01.g014800.t1.1	specific	197777	473	665	7.5601e-61	205.483	smart00534	MutS_V	 - 	cl40481
+C_reinhardtii_01.g014800.t1.1	superfamily	421774	152	392	1.42965e-11	66.5534	cl29279	MutS_III superfamily	N	 - 
+O_lucimarinus_37894	specific	197777	215	399	9.51458e-48	163.111	smart00534	MutS_V	 - 	cl40481
+O_lucimarinus_37894	superfamily	421774	5	188	4.54761e-19	87.7394	cl29279	MutS_III superfamily	N	 - 
+M_endlicherianum_ME000114S10951	non-specific	197777	796	898	3.98126e-32	123.435	smart00534	MutS_V	C	cl40481
+M_endlicherianum_ME000114S10951	superfamily	421774	507	664	0.000102743	45.3674	cl29279	MutS_III superfamily	N	 - 
+Helicobacter_pylori_AAD07685.1	superfamily	421774	25	316	1.15509e-36	140.127	cl29279	MutS_III superfamily	 - 	 - 
+Helicobacter_pylori_AAD07685.1	specific	396327	688	762	3.45615e-26	102.176	pfam01713	SMR	 - 	cl02619
+Helicobacter_pylori_AAD07685.1	specific	197777	328	509	1.66809e-54	185.452	smart00534	MutS_V	 - 	cl40481
+Bacillus_subtilis_subsp_CAB14818.1	superfamily	421774	17	313	9.49264e-52	182.884	cl29279	MutS_III superfamily	 - 	 - 
+Bacillus_subtilis_subsp_CAB14818.1	specific	396327	710	785	1.53536e-29	111.806	pfam01713	SMR	 - 	cl02619
+Bacillus_subtilis_subsp_CAB14818.1	specific	197777	331	510	1.65892e-64	213.187	smart00534	MutS_V	 - 	cl40481
+Borreliella_burgdorferi_AAC66481.1	superfamily	421774	11	315	3.69113e-42	155.92	cl29279	MutS_III superfamily	 - 	 - 
+Borreliella_burgdorferi_AAC66481.1	specific	197777	329	511	5.19493e-74	238.225	smart00534	MutS_V	 - 	cl40481
+Borreliella_burgdorferi_AAC66481.1	non-specific	396327	706	780	1.96942e-17	77.1379	pfam01713	SMR	 - 	cl02619
+Synechocystis_sp.BAA17670.1	superfamily	421774	19	321	4.59702e-52	184.039	cl29279	MutS_III superfamily	 - 	 - 
+Synechocystis_sp.BAA17670.1	specific	197777	343	543	1.73263e-69	227.054	smart00534	MutS_V	 - 	cl40481
+Synechocystis_sp.BAA17670.1	non-specific	396327	749	822	1.67594e-24	97.5535	pfam01713	SMR	 - 	cl02619
+Aquifex_aeolicus_AAC07247.1	superfamily	421774	3	308	1.44602e-44	162.468	cl29279	MutS_III superfamily	 - 	 - 
+Aquifex_aeolicus_AAC07247.1	specific	197777	324	505	3.59874e-71	230.521	smart00534	MutS_V	 - 	cl40481
+Aquifex_aeolicus_AAC07247.1	non-specific	396327	682	756	3.24579e-24	96.3979	pfam01713	SMR	 - 	cl02619
+Cyanobacterium_aponinum_WP_099434570.1	superfamily	421774	66	314	7.17828e-33	129.341	cl29279	MutS_III superfamily	 - 	 - 
+Cyanobacterium_aponinum_WP_099434570.1	specific	197777	336	517	8.57504e-69	224.743	smart00534	MutS_V	 - 	cl40481
+Cyanobacterium_aponinum_WP_099434570.1	non-specific	396327	730	802	9.86565e-22	89.4643	pfam01713	SMR	 - 	cl02619

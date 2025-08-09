@@ -1,0 +1,481 @@
+﻿original_order,Genotype,F1,F2,plate,block,Drug,Conentration,DC,FvFm,root_mm
+1,A,2,9,1,1,None,0,0,0.677,4.474
+2,B,2,62,1,1,None,0,0,0.707,24.561
+3,AB,2,13,1,1,None,0,0,0.705,24.923
+4,W,2,6,1,1,None,0,0,,
+5,AC1,8,NA,1,1,None,0,0,0.693,20.325
+6,AC2,13,NA,1,1,None,0,0,0.695,24.461
+7,BC1,17,NA,1,1,None,0,0,0.711,21.26
+8,BC2,22,NA,1,1,None,0,0,0.685,5.786
+9,B,2,62,2,2,None,0,0,0.78,23.398
+10,AB,2,13,2,2,None,0,0,0.777,20.852
+11,W,2,6,2,2,None,0,0,0.783,22.535
+12,AC1,8,NA,2,2,None,0,0,0.771,20.755
+13,AC2,13,NA,2,2,None,0,0,0.767,23.755
+14,BC1,17,NA,2,2,None,0,0,0.782,21.483
+15,BC2,22,NA,2,2,None,0,0,0.763,21.397
+16,A,2,9,2,2,None,0,0,0.777,20.788
+17,AB,2,13,3,3,None,0,0,0.73,22.919
+18,W,2,6,3,3,None,0,0,0.721,27.394
+19,AC1,8,NA,3,3,None,0,0,0.726,20.928
+20,AC2,13,NA,3,3,None,0,0,0.719,26.167
+21,BC1,17,NA,3,3,None,0,0,0.723,21.845
+22,BC2,22,NA,3,3,None,0,0,0.737,13.123
+23,A,2,9,3,3,None,0,0,0.711,21.483
+24,B,2,62,3,3,None,0,0,0.707,24.198
+25,W,2,6,4,4,None,0,0,0.699,23.246
+26,AC1,8,NA,4,4,None,0,0,0.699,21.614
+27,AC2,13,NA,4,4,None,0,0,0.71,24.692
+28,BC1,17,NA,4,4,None,0,0,0.714,22.138
+29,BC2,22,NA,4,4,None,0,0,0.706,20.739
+30,A,2,9,4,4,None,0,0,0.701,20.302
+31,B,2,62,4,4,None,0,0,0.713,14.8
+32,AB,2,13,4,4,None,0,0,0.684,7.493
+33,AC1,8,NA,5,5,None,0,0,0.726,20.993
+34,AC2,13,NA,5,5,None,0,0,0.602,1.27
+35,BC1,17,NA,5,5,None,0,0,0.717,22.796
+36,BC2,22,NA,5,5,None,0,0,0.711,20.923
+37,A,2,9,5,5,None,0,0,0.701,5.801
+38,B,2,62,5,5,None,0,0,0.705,23.664
+39,AB,2,13,5,5,None,0,0,0.718,24.824
+40,W,2,6,5,5,None,0,0,0.711,20.626
+41,AC2,13,NA,6,6,None,0,0,0.711,22.893
+42,BC1,17,NA,6,6,None,0,0,0.728,24.56
+43,BC2,22,NA,6,6,None,0,0,0.718,26.549
+44,A,2,9,6,6,None,0,0,0.717,24.624
+45,B,2,62,6,6,None,0,0,0.714,23.312
+46,AB,2,13,6,6,None,0,0,0.722,18.362
+47,W,2,6,6,6,None,0,0,0.699,24.664
+48,AC1,8,NA,6,6,None,0,0,0.721,12.465
+49,BC1,17,NA,7,7,None,0,0,0.719,21.943
+50,BC2,22,NA,7,7,None,0,0,0.705,4.723
+51,A,2,9,7,7,None,0,0,0.717,22.352
+52,B,2,62,7,7,None,0,0,0.634,4.588
+53,AB,2,13,7,7,None,0,0,0.72,24.433
+54,W,2,6,7,7,None,0,0,0.713,23.421
+55,AC1,8,NA,7,7,None,0,0,0.712,22.768
+56,AC2,13,NA,7,7,None,0,0,0.704,26.044
+57,BC2,22,NA,8,8,None,0,0,0.764,21.949
+58,A,2,9,8,8,None,0,0,0.72,5.564
+59,B,2,62,8,8,None,0,0,0.752,7.326
+60,AB,2,13,8,8,None,0,0,0.659,3.594
+61,W,2,6,8,8,None,0,0,0.762,23.612
+62,AC1,8,NA,8,8,None,0,0,0.753,20.814
+63,AC2,13,NA,8,8,None,0,0,0.736,6.566
+64,BC1,17,NA,8,8,None,0,0,0.712,5.442
+65,A,2,9,9,9,None,0,0,,
+66,B,2,62,9,9,None,0,0,0.723,23.476
+67,AB,2,13,9,9,None,0,0,0.715,22.325
+68,W,2,6,9,9,None,0,0,0.71,21.053
+69,AC1,8,NA,9,9,None,0,0,0.704,18.612
+70,AC2,13,NA,9,9,None,0,0,0.704,21.149
+71,BC1,17,NA,9,9,None,0,0,0.714,19.861
+72,BC2,22,NA,9,9,None,0,0,0.71,19.618
+73,B,2,62,10,10,None,0,0,0.719,26.406
+74,AB,2,13,10,10,None,0,0,0.609,3.522
+75,W,2,6,10,10,None,0,0,0.711,25.221
+76,AC1,8,NA,10,10,None,0,0,0.714,22.824
+77,AC2,13,NA,10,10,None,0,0,0.697,26.6
+78,BC1,17,NA,10,10,None,0,0,0.704,20.994
+79,BC2,22,NA,10,10,None,0,0,0.703,25.889
+80,A,2,9,10,10,None,0,0,0.702,27.093
+81,AB,2,13,11,11,None,0,0,0.685,0
+82,W,2,6,11,11,None,0,0,0.723,21.795
+83,AC1,8,NA,11,11,None,0,0,0.722,19.013
+84,AC2,13,NA,11,11,None,0,0,0.721,23.24
+85,BC1,17,NA,11,11,None,0,0,0.718,22.758
+86,BC2,22,NA,11,11,None,0,0,0.711,23.886
+87,A,2,9,11,11,None,0,0,0.641,5.67
+88,B,2,62,11,11,None,0,0,0.711,23.005
+89,W,2,6,12,12,None,0,0,0.72,24.731
+90,AC1,8,NA,12,12,None,0,0,0.708,21.171
+91,AC2,13,NA,12,12,None,0,0,0.727,25.08
+92,BC1,17,NA,12,12,None,0,0,0.711,24.491
+93,BC2,22,NA,12,12,None,0,0,0.708,19.073
+94,A,2,9,12,12,None,0,0,0.698,3.741
+95,B,2,62,12,12,None,0,0,0.714,20.918
+96,AB,2,13,12,12,None,0,0,0.674,3.652
+97,A,2,9,13,1,Ethanol,0.0001,A,0.7,3.739
+98,B,2,62,13,1,Ethanol,0.0001,A,0.672,4.145
+99,AB,2,13,13,1,Ethanol,0.0001,A,0.724,7.829
+100,W,2,6,13,1,Ethanol,0.0001,A,0.707,7.478
+101,AC1,8,NA,13,1,Ethanol,0.0001,A,0.716,13.899
+102,AC2,13,NA,13,1,Ethanol,0.0001,A,0.713,24.225
+103,BC1,17,NA,13,1,Ethanol,0.0001,A,0.699,23.406
+104,BC2,22,NA,13,1,Ethanol,0.0001,A,0.69,25.077
+105,B,2,62,14,2,Ethanol,0.0001,A,0.71,27.867
+106,AB,2,13,14,2,Ethanol,0.0001,A,0.652,3.344
+107,W,2,6,14,2,Ethanol,0.0001,A,0.703,24.51
+108,AC1,8,NA,14,2,Ethanol,0.0001,A,0.71,23.856
+109,AC2,13,NA,14,2,Ethanol,0.0001,A,0.692,25.344
+110,BC1,17,NA,14,2,Ethanol,0.0001,A,0.723,23.633
+111,BC2,22,NA,14,2,Ethanol,0.0001,A,0.701,24.764
+112,A,2,9,14,2,Ethanol,0.0001,A,0.652,3.669
+113,AB,2,13,15,3,Ethanol,0.0001,A,0.736,17.176
+114,W,2,6,15,3,Ethanol,0.0001,A,0.609,2.298
+115,AC1,8,NA,15,3,Ethanol,0.0001,A,0.718,18.948
+116,AC2,13,NA,15,3,Ethanol,0.0001,A,0.726,28.093
+117,BC1,17,NA,15,3,Ethanol,0.0001,A,0.715,24.606
+118,BC2,22,NA,15,3,Ethanol,0.0001,A,0.706,27.18
+119,A,2,9,15,3,Ethanol,0.0001,A,0.705,17.493
+120,B,2,62,15,3,Ethanol,0.0001,A,0.696,26.595
+121,W,2,6,16,4,Ethanol,0.0001,A,0.715,28.567
+122,AC1,8,NA,16,4,Ethanol,0.0001,A,0.538,2.202
+123,AC2,13,NA,16,4,Ethanol,0.0001,A,0.712,29.735
+124,BC1,17,NA,16,4,Ethanol,0.0001,A,0.71,27.482
+125,BC2,22,NA,16,4,Ethanol,0.0001,A,0.708,29.402
+126,A,2,9,16,4,Ethanol,0.0001,A,0.699,14.413
+127,B,2,62,16,4,Ethanol,0.0001,A,0.698,26.778
+128,AB,2,13,16,4,Ethanol,0.0001,A,0.709,25.925
+129,AC1,8,NA,17,5,Ethanol,0.0001,A,0.726,8.23
+130,AC2,13,NA,17,5,Ethanol,0.0001,A,0.723,25.772
+131,BC1,17,NA,17,5,Ethanol,0.0001,A,0.72,5.863
+132,BC2,22,NA,17,5,Ethanol,0.0001,A,0.72,25.594
+133,A,2,9,17,5,Ethanol,0.0001,A,0.626,4.942
+134,B,2,62,17,5,Ethanol,0.0001,A,0.735,20.917
+135,AB,2,13,17,5,Ethanol,0.0001,A,0.73,13.306
+136,W,2,6,17,5,Ethanol,0.0001,A,,
+137,AC2,13,NA,18,6,Ethanol,0.0001,A,0.726,25.448
+138,BC1,17,NA,18,6,Ethanol,0.0001,A,0.723,26.789
+139,BC2,22,NA,18,6,Ethanol,0.0001,A,0.714,25.754
+140,A,2,9,18,6,Ethanol,0.0001,A,0.644,4.422
+141,B,2,62,18,6,Ethanol,0.0001,A,0.721,27.457
+142,AB,2,13,18,6,Ethanol,0.0001,A,0.571,3.261
+143,W,2,6,18,6,Ethanol,0.0001,A,0.716,28.066
+144,AC1,8,NA,18,6,Ethanol,0.0001,A,0.717,23.173
+145,BC1,17,NA,19,7,Ethanol,0.0001,A,0.723,21.711
+146,BC2,22,NA,19,7,Ethanol,0.0001,A,0.731,26.216
+147,A,2,9,19,7,Ethanol,0.0001,A,0.733,29.998
+148,B,2,62,19,7,Ethanol,0.0001,A,0.73,14.252
+149,AB,2,13,19,7,Ethanol,0.0001,A,0.725,27.391
+150,W,2,6,19,7,Ethanol,0.0001,A,0.724,27.067
+151,AC1,8,NA,19,7,Ethanol,0.0001,A,0.72,22.343
+152,AC2,13,NA,19,7,Ethanol,0.0001,A,0.717,29.9
+153,BC2,22,NA,20,8,Ethanol,0.0001,A,0.731,11.236
+154,A,2,9,20,8,Ethanol,0.0001,A,0.762,14.572
+155,B,2,62,20,8,Ethanol,0.0001,A,0.753,27.566
+156,AB,2,13,20,8,Ethanol,0.0001,A,0.758,17.153
+157,W,2,6,20,8,Ethanol,0.0001,A,0.747,28.606
+158,AC1,8,NA,20,8,Ethanol,0.0001,A,0.733,29.511
+159,AC2,13,NA,20,8,Ethanol,0.0001,A,0.737,27.135
+160,BC1,17,NA,20,8,Ethanol,0.0001,A,0.73,7.316
+161,A,2,9,21,9,Ethanol,0.0001,A,,
+162,B,2,62,21,9,Ethanol,0.0001,A,0.71,25.165
+163,AB,2,13,21,9,Ethanol,0.0001,A,0.7,8.29
+164,W,2,6,21,9,Ethanol,0.0001,A,0.702,27.418
+165,AC1,8,NA,21,9,Ethanol,0.0001,A,0.699,19.898
+166,AC2,13,NA,21,9,Ethanol,0.0001,A,0.69,30.11
+167,BC1,17,NA,21,9,Ethanol,0.0001,A,0.701,26.492
+168,BC2,22,NA,21,9,Ethanol,0.0001,A,0.709,5.636
+169,B,2,62,22,10,Ethanol,0.0001,A,0.715,14.839
+170,AB,2,13,22,10,Ethanol,0.0001,A,,
+171,W,2,6,22,10,Ethanol,0.0001,A,0.721,26.869
+172,AC1,8,NA,22,10,Ethanol,0.0001,A,0.695,25.449
+173,AC2,13,NA,22,10,Ethanol,0.0001,A,0.71,9.548
+174,BC1,17,NA,22,10,Ethanol,0.0001,A,0.699,25.05
+175,BC2,22,NA,22,10,Ethanol,0.0001,A,0.696,28.14
+176,A,2,9,22,10,Ethanol,0.0001,A,0.698,29.241
+177,AB,2,13,23,11,Ethanol,0.0001,A,0.644,3.75
+178,W,2,6,23,11,Ethanol,0.0001,A,0.726,22.393
+179,AC1,8,NA,23,11,Ethanol,0.0001,A,0.7,22.892
+180,AC2,13,NA,23,11,Ethanol,0.0001,A,0.691,25.694
+181,BC1,17,NA,23,11,Ethanol,0.0001,A,0.689,23.188
+182,BC2,22,NA,23,11,Ethanol,0.0001,A,0.697,10.199
+183,A,2,9,23,11,Ethanol,0.0001,A,0.643,0.194
+184,B,2,62,23,11,Ethanol,0.0001,A,0.729,23.97
+185,W,2,6,24,12,Ethanol,0.0001,A,0.717,12.028
+186,AC1,8,NA,24,12,Ethanol,0.0001,A,0.7,20.775
+187,AC2,13,NA,24,12,Ethanol,0.0001,A,0.706,27.25
+188,BC1,17,NA,24,12,Ethanol,0.0001,A,0.704,25.288
+189,BC2,22,NA,24,12,Ethanol,0.0001,A,0.731,22.452
+190,A,2,9,24,12,Ethanol,0.0001,A,0.617,1.177
+191,B,2,62,24,12,Ethanol,0.0001,A,0.69,7.17
+192,AB,2,13,24,12,Ethanol,0.0001,A,0.668,4.836
+193,A,2,9,25,1,Chloramphenicol,2 ug/mL,Chl_2,0,1.345
+194,B,2,62,25,1,Chloramphenicol,2 ug/mL,Chl_2,0.294,1.509
+195,AB,2,13,25,1,Chloramphenicol,2 ug/mL,Chl_2,0.397,7.349
+196,W,2,6,25,1,Chloramphenicol,2 ug/mL,Chl_2,0.688,6.958
+197,AC1,8,NA,25,1,Chloramphenicol,2 ug/mL,Chl_2,0.372,1.696
+198,AC2,13,NA,25,1,Chloramphenicol,2 ug/mL,Chl_2,0.59,4.79
+199,BC1,17,NA,25,1,Chloramphenicol,2 ug/mL,Chl_2,0.656,7.441
+200,BC2,22,NA,25,1,Chloramphenicol,2 ug/mL,Chl_2,0.659,6.418
+201,B,2,62,26,2,Chloramphenicol,2 ug/mL,Chl_2,0.296,3.869
+202,AB,2,13,26,2,Chloramphenicol,2 ug/mL,Chl_2,0.347,1.978
+203,W,2,6,26,2,Chloramphenicol,2 ug/mL,Chl_2,0.695,7.145
+204,AC1,8,NA,26,2,Chloramphenicol,2 ug/mL,Chl_2,0.367,4.518
+205,AC2,13,NA,26,2,Chloramphenicol,2 ug/mL,Chl_2,0.609,4.471
+206,BC1,17,NA,26,2,Chloramphenicol,2 ug/mL,Chl_2,0.622,5.939
+207,BC2,22,NA,26,2,Chloramphenicol,2 ug/mL,Chl_2,0.414,4.664
+208,A,2,9,26,2,Chloramphenicol,2 ug/mL,Chl_2,,
+209,AB,2,13,3,3,Chloramphenicol,2 ug/mL,Chl_2,0,3.175
+210,W,2,6,3,3,Chloramphenicol,2 ug/mL,Chl_2,0.707,8.688
+211,AC1,8,NA,3,3,Chloramphenicol,2 ug/mL,Chl_2,0.426,4.513
+212,AC2,13,NA,3,3,Chloramphenicol,2 ug/mL,Chl_2,0.357,4.047
+213,BC1,17,NA,3,3,Chloramphenicol,2 ug/mL,Chl_2,0.614,5.544
+214,BC2,22,NA,3,3,Chloramphenicol,2 ug/mL,Chl_2,0.305,0.55
+215,A,2,9,3,3,Chloramphenicol,2 ug/mL,Chl_2,0,3.456
+216,B,2,62,3,3,Chloramphenicol,2 ug/mL,Chl_2,0.21,3.45
+217,W,2,6,4,4,Chloramphenicol,2 ug/mL,Chl_2,0.699,8.206
+218,AC1,8,NA,4,4,Chloramphenicol,2 ug/mL,Chl_2,0.597,4.827
+219,AC2,13,NA,4,4,Chloramphenicol,2 ug/mL,Chl_2,0.652,5.137
+220,BC1,17,NA,4,4,Chloramphenicol,2 ug/mL,Chl_2,0.666,4.386
+221,BC2,22,NA,4,4,Chloramphenicol,2 ug/mL,Chl_2,0.708,7.408
+222,A,2,9,4,4,Chloramphenicol,2 ug/mL,Chl_2,0.409,4.77
+223,B,2,62,4,4,Chloramphenicol,2 ug/mL,Chl_2,0.282,3.686
+224,AB,2,13,4,4,Chloramphenicol,2 ug/mL,Chl_2,0.321,3.238
+225,AC1,8,NA,5,5,Chloramphenicol,2 ug/mL,Chl_2,0.55,5.174
+226,AC2,13,NA,5,5,Chloramphenicol,2 ug/mL,Chl_2,0.692,7.999
+227,BC1,17,NA,5,5,Chloramphenicol,2 ug/mL,Chl_2,0.422,6.797
+228,BC2,22,NA,5,5,Chloramphenicol,2 ug/mL,Chl_2,0.707,3.486
+229,A,2,9,5,5,Chloramphenicol,2 ug/mL,Chl_2,0.441,2.512
+230,B,2,62,5,5,Chloramphenicol,2 ug/mL,Chl_2,0.302,2.144
+231,AB,2,13,5,5,Chloramphenicol,2 ug/mL,Chl_2,0.49,4.375
+232,W,2,6,5,5,Chloramphenicol,2 ug/mL,Chl_2,0.681,8.643
+233,AC2,13,NA,6,6,Chloramphenicol,2 ug/mL,Chl_2,0.66,5.116
+234,BC1,17,NA,6,6,Chloramphenicol,2 ug/mL,Chl_2,0.706,8.439
+235,BC2,22,NA,6,6,Chloramphenicol,2 ug/mL,Chl_2,0.69,6.489
+236,A,2,9,6,6,Chloramphenicol,2 ug/mL,Chl_2,0.337,3.18
+237,B,2,62,6,6,Chloramphenicol,2 ug/mL,Chl_2,0.397,3.868
+238,AB,2,13,6,6,Chloramphenicol,2 ug/mL,Chl_2,0.367,3.181
+239,W,2,6,6,6,Chloramphenicol,2 ug/mL,Chl_2,0.704,8.28
+240,AC1,8,NA,6,6,Chloramphenicol,2 ug/mL,Chl_2,0.622,4.977
+241,BC1,17,NA,7,7,Chloramphenicol,2 ug/mL,Chl_2,0.688,5.397
+242,BC2,22,NA,7,7,Chloramphenicol,2 ug/mL,Chl_2,0.4,3.667
+243,A,2,9,7,7,Chloramphenicol,2 ug/mL,Chl_2,0.403,6.071
+244,B,2,62,7,7,Chloramphenicol,2 ug/mL,Chl_2,0.383,4.091
+245,AB,2,13,7,7,Chloramphenicol,2 ug/mL,Chl_2,0.466,3.577
+246,W,2,6,7,7,Chloramphenicol,2 ug/mL,Chl_2,0.698,8.608
+247,AC1,8,NA,7,7,Chloramphenicol,2 ug/mL,Chl_2,0.545,5.907
+248,AC2,13,NA,7,7,Chloramphenicol,2 ug/mL,Chl_2,0.655,4.943
+249,BC2,22,NA,8,8,Chloramphenicol,2 ug/mL,Chl_2,0.709,7.096
+250,A,2,9,8,8,Chloramphenicol,2 ug/mL,Chl_2,0.469,5.645
+251,B,2,62,8,8,Chloramphenicol,2 ug/mL,Chl_2,0.341,4.762
+252,AB,2,13,8,8,Chloramphenicol,2 ug/mL,Chl_2,0.451,6.92
+253,W,2,6,8,8,Chloramphenicol,2 ug/mL,Chl_2,0.702,8.791
+254,AC1,8,NA,8,8,Chloramphenicol,2 ug/mL,Chl_2,0.566,5.135
+255,AC2,13,NA,8,8,Chloramphenicol,2 ug/mL,Chl_2,0.346,0.254
+256,BC1,17,NA,8,8,Chloramphenicol,2 ug/mL,Chl_2,0.651,6.804
+257,A,2,9,9,9,Chloramphenicol,2 ug/mL,Chl_2,0.206,2.546
+258,B,2,62,9,9,Chloramphenicol,2 ug/mL,Chl_2,,
+259,AB,2,13,9,9,Chloramphenicol,2 ug/mL,Chl_2,0.295,4.606
+260,W,2,6,9,9,Chloramphenicol,2 ug/mL,Chl_2,0.7,8.283
+261,AC1,8,NA,9,9,Chloramphenicol,2 ug/mL,Chl_2,0.46,3.57
+262,AC2,13,NA,9,9,Chloramphenicol,2 ug/mL,Chl_2,0.488,6.278
+263,BC1,17,NA,9,9,Chloramphenicol,2 ug/mL,Chl_2,0.679,6.822
+264,BC2,22,NA,9,9,Chloramphenicol,2 ug/mL,Chl_2,0.695,6.34
+265,B,2,62,10,10,Chloramphenicol,2 ug/mL,Chl_2,0.399,4.665
+266,AB,2,13,10,10,Chloramphenicol,2 ug/mL,Chl_2,0.333,4.792
+267,W,2,6,10,10,Chloramphenicol,2 ug/mL,Chl_2,0.685,8.609
+268,AC1,8,NA,10,10,Chloramphenicol,2 ug/mL,Chl_2,0.557,4.124
+269,AC2,13,NA,10,10,Chloramphenicol,2 ug/mL,Chl_2,,5.523
+270,BC1,17,NA,10,10,Chloramphenicol,2 ug/mL,Chl_2,0.703,8.446
+271,BC2,22,NA,10,10,Chloramphenicol,2 ug/mL,Chl_2,0.71,8.332
+272,A,2,9,10,10,Chloramphenicol,2 ug/mL,Chl_2,0.204,2.311
+273,AB,2,13,11,11,Chloramphenicol,2 ug/mL,Chl_2,0.186,3.349
+274,W,2,6,11,11,Chloramphenicol,2 ug/mL,Chl_2,0.637,6.293
+275,AC1,8,NA,11,11,Chloramphenicol,2 ug/mL,Chl_2,0.376,3.866
+276,AC2,13,NA,11,11,Chloramphenicol,2 ug/mL,Chl_2,0.509,7.95
+277,BC1,17,NA,11,11,Chloramphenicol,2 ug/mL,Chl_2,0.226,2.427
+278,BC2,22,NA,11,11,Chloramphenicol,2 ug/mL,Chl_2,0.693,4.87
+279,A,2,9,11,11,Chloramphenicol,2 ug/mL,Chl_2,0.238,3.328
+280,B,2,62,11,11,Chloramphenicol,2 ug/mL,Chl_2,0.331,3.908
+281,W,2,6,12,12,Chloramphenicol,2 ug/mL,Chl_2,0.704,7.634
+282,AC1,8,NA,12,12,Chloramphenicol,2 ug/mL,Chl_2,0.486,3.461
+283,AC2,13,NA,12,12,Chloramphenicol,2 ug/mL,Chl_2,0.485,4.598
+284,BC1,17,NA,12,12,Chloramphenicol,2 ug/mL,Chl_2,0.657,5.243
+285,BC2,22,NA,12,12,Chloramphenicol,2 ug/mL,Chl_2,0.706,8.069
+286,A,2,9,12,12,Chloramphenicol,2 ug/mL,Chl_2,0.172,1.547
+287,B,2,62,12,12,Chloramphenicol,2 ug/mL,Chl_2,0.196,3.157
+288,AB,2,13,12,12,Chloramphenicol,2 ug/mL,Chl_2,0.263,4.186
+289,A,2,9,1,1,Erythromycin,2 ug/mL,Ery_2,0.25,13.17
+290,B,2,62,1,1,Erythromycin,2 ug/mL,Ery_2,0.452,17.148
+291,AB,2,13,1,1,Erythromycin,2 ug/mL,Ery_2,0.226,10.548
+292,W,2,6,1,1,Erythromycin,2 ug/mL,Ery_2,0.581,17.291
+293,AC1,8,NA,1,1,Erythromycin,2 ug/mL,Ery_2,0.48,18.364
+294,AC2,13,NA,1,1,Erythromycin,2 ug/mL,Ery_2,0.401,19.449
+295,BC1,17,NA,1,1,Erythromycin,2 ug/mL,Ery_2,0.257,6.347
+296,BC2,22,NA,1,1,Erythromycin,2 ug/mL,Ery_2,0.542,19.901
+297,B,2,62,2,2,Erythromycin,2 ug/mL,Ery_2,0.442,4.593
+298,AB,2,13,2,2,Erythromycin,2 ug/mL,Ery_2,0.42,6.426
+299,W,2,6,2,2,Erythromycin,2 ug/mL,Ery_2,0.639,2.792
+300,AC1,8,NA,2,2,Erythromycin,2 ug/mL,Ery_2,0.453,12.923
+301,AC2,13,NA,2,2,Erythromycin,2 ug/mL,Ery_2,0.412,14.413
+302,BC1,17,NA,2,2,Erythromycin,2 ug/mL,Ery_2,0.403,15.009
+303,BC2,22,NA,2,2,Erythromycin,2 ug/mL,Ery_2,0.407,17.228
+304,A,2,9,2,2,Erythromycin,2 ug/mL,Ery_2,0.402,15.39
+305,AB,2,13,3,3,Erythromycin,2 ug/mL,Ery_2,0.227,13.955
+306,W,2,6,3,3,Erythromycin,2 ug/mL,Ery_2,0.431,0.314
+307,AC1,8,NA,3,3,Erythromycin,2 ug/mL,Ery_2,0.334,4.305
+308,AC2,13,NA,3,3,Erythromycin,2 ug/mL,Ery_2,0.554,23.306
+309,BC1,17,NA,3,3,Erythromycin,2 ug/mL,Ery_2,0.386,3.526
+310,BC2,22,NA,3,3,Erythromycin,2 ug/mL,Ery_2,0.325,7.035
+311,A,2,9,3,3,Erythromycin,2 ug/mL,Ery_2,0.269,1.261
+312,B,2,62,3,3,Erythromycin,2 ug/mL,Ery_2,0.297,14.31
+313,W,2,6,4,4,Erythromycin,2 ug/mL,Ery_2,0.571,23.236
+314,AC1,8,NA,4,4,Erythromycin,2 ug/mL,Ery_2,0.484,15.95
+315,AC2,13,NA,4,4,Erythromycin,2 ug/mL,Ery_2,0.426,19.177
+316,BC1,17,NA,4,4,Erythromycin,2 ug/mL,Ery_2,0.494,16.283
+317,BC2,22,NA,4,4,Erythromycin,2 ug/mL,Ery_2,0.634,25.811
+318,A,2,9,4,4,Erythromycin,2 ug/mL,Ery_2,0.287,4.96
+319,B,2,62,4,4,Erythromycin,2 ug/mL,Ery_2,0.32,16.521
+320,AB,2,13,4,4,Erythromycin,2 ug/mL,Ery_2,0.279,15.621
+321,AC1,8,NA,5,5,Erythromycin,2 ug/mL,Ery_2,0.325,10.914
+322,AC2,13,NA,5,5,Erythromycin,2 ug/mL,Ery_2,0.509,22.177
+323,BC1,17,NA,5,5,Erythromycin,2 ug/mL,Ery_2,0.578,20.819
+324,BC2,22,NA,5,5,Erythromycin,2 ug/mL,Ery_2,0.434,15.1
+325,A,2,9,5,5,Erythromycin,2 ug/mL,Ery_2,0.375,4.696
+326,B,2,62,5,5,Erythromycin,2 ug/mL,Ery_2,0.236,6.061
+327,AB,2,13,5,5,Erythromycin,2 ug/mL,Ery_2,0.313,13.783
+328,W,2,6,5,5,Erythromycin,2 ug/mL,Ery_2,0.647,6.875
+329,AC2,13,NA,6,6,Erythromycin,2 ug/mL,Ery_2,0.476,2.311
+330,BC1,17,NA,6,6,Erythromycin,2 ug/mL,Ery_2,0.562,20.086
+331,BC2,22,NA,6,6,Erythromycin,2 ug/mL,Ery_2,0.585,21.777
+332,A,2,9,6,6,Erythromycin,2 ug/mL,Ery_2,,
+333,B,2,62,6,6,Erythromycin,2 ug/mL,Ery_2,0.359,8.222
+334,AB,2,13,6,6,Erythromycin,2 ug/mL,Ery_2,0.31,5.296
+335,W,2,6,6,6,Erythromycin,2 ug/mL,Ery_2,0.6,21.959
+336,AC1,8,NA,6,6,Erythromycin,2 ug/mL,Ery_2,0.409,7.298
+337,BC1,17,NA,7,7,Erythromycin,2 ug/mL,Ery_2,0.56,15.871
+338,BC2,22,NA,7,7,Erythromycin,2 ug/mL,Ery_2,0.483,15.438
+339,A,2,9,7,7,Erythromycin,2 ug/mL,Ery_2,0.352,6.915
+340,B,2,62,7,7,Erythromycin,2 ug/mL,Ery_2,0.27,12.277
+341,AB,2,13,7,7,Erythromycin,2 ug/mL,Ery_2,0.239,6.842
+342,W,2,6,7,7,Erythromycin,2 ug/mL,Ery_2,0.638,24.703
+343,AC1,8,NA,7,7,Erythromycin,2 ug/mL,Ery_2,0.415,5.024
+344,AC2,13,NA,7,7,Erythromycin,2 ug/mL,Ery_2,0.64,21.187
+345,BC2,22,NA,8,8,Erythromycin,2 ug/mL,Ery_2,0.584,2.948
+346,A,2,9,8,8,Erythromycin,2 ug/mL,Ery_2,0.347,5.73
+347,B,2,62,8,8,Erythromycin,2 ug/mL,Ery_2,0.275,11.851
+348,AB,2,13,8,8,Erythromycin,2 ug/mL,Ery_2,0.402,3.463
+349,W,2,6,8,8,Erythromycin,2 ug/mL,Ery_2,0.578,19.853
+350,AC1,8,NA,8,8,Erythromycin,2 ug/mL,Ery_2,0.328,11
+351,AC2,13,NA,8,8,Erythromycin,2 ug/mL,Ery_2,0.438,16.739
+352,BC1,17,NA,8,8,Erythromycin,2 ug/mL,Ery_2,0.541,2.14
+353,A,2,9,9,9,Erythromycin,2 ug/mL,Ery_2,0.229,9.552
+354,B,2,62,9,9,Erythromycin,2 ug/mL,Ery_2,0.344,15.949
+355,AB,2,13,9,9,Erythromycin,2 ug/mL,Ery_2,0.269,15.251
+356,W,2,6,9,9,Erythromycin,2 ug/mL,Ery_2,0.553,21.825
+357,AC1,8,NA,9,9,Erythromycin,2 ug/mL,Ery_2,0.533,18.32
+358,AC2,13,NA,9,9,Erythromycin,2 ug/mL,Ery_2,0.356,15.706
+359,BC1,17,NA,9,9,Erythromycin,2 ug/mL,Ery_2,0.635,21.327
+360,BC2,22,NA,9,9,Erythromycin,2 ug/mL,Ery_2,0.641,23.8
+361,B,2,62,10,10,Erythromycin,2 ug/mL,Ery_2,0.287,15.562
+362,AB,2,13,10,10,Erythromycin,2 ug/mL,Ery_2,0.275,2.074
+363,W,2,6,10,10,Erythromycin,2 ug/mL,Ery_2,0.531,17.597
+364,AC1,8,NA,10,10,Erythromycin,2 ug/mL,Ery_2,0.328,11.965
+365,AC2,13,NA,10,10,Erythromycin,2 ug/mL,Ery_2,0.373,12.353
+366,BC1,17,NA,10,10,Erythromycin,2 ug/mL,Ery_2,0.45,7.133
+367,BC2,22,NA,10,10,Erythromycin,2 ug/mL,Ery_2,0.63,22.446
+368,A,2,9,10,10,Erythromycin,2 ug/mL,Ery_2,0.353,4.635
+369,AB,2,13,11,11,Erythromycin,2 ug/mL,Ery_2,0.369,15.697
+370,W,2,6,11,11,Erythromycin,2 ug/mL,Ery_2,0.569,19.492
+371,AC1,8,NA,11,11,Erythromycin,2 ug/mL,Ery_2,0.582,1.604
+372,AC2,13,NA,11,11,Erythromycin,2 ug/mL,Ery_2,0.656,22.8
+373,BC1,17,NA,11,11,Erythromycin,2 ug/mL,Ery_2,0.601,19.213
+374,BC2,22,NA,11,11,Erythromycin,2 ug/mL,Ery_2,0.55,21.88
+375,A,2,9,11,11,Erythromycin,2 ug/mL,Ery_2,0.38,7.151
+376,B,2,62,11,11,Erythromycin,2 ug/mL,Ery_2,0.253,2.814
+377,W,2,6,12,12,Erythromycin,2 ug/mL,Ery_2,0.6,22.732
+378,AC1,8,NA,12,12,Erythromycin,2 ug/mL,Ery_2,0.382,5.184
+379,AC2,13,NA,12,12,Erythromycin,2 ug/mL,Ery_2,0.379,20.297
+380,BC1,17,NA,12,12,Erythromycin,2 ug/mL,Ery_2,0.606,23.381
+381,BC2,22,NA,12,12,Erythromycin,2 ug/mL,Ery_2,0.664,23.108
+382,A,2,9,12,12,Erythromycin,2 ug/mL,Ery_2,0.306,5.812
+383,B,2,62,12,12,Erythromycin,2 ug/mL,Ery_2,0.256,2.255
+384,AB,2,13,12,12,Erythromycin,2 ug/mL,Ery_2,0.318,6.843
+481,A,2,9,1,1,Spectinomycin,2 ug/mL,Spec_2,0.568,2.589
+482,B,2,62,1,1,Spectinomycin,2 ug/mL,Spec_2,0.264,2.938
+483,AB,2,13,1,1,Spectinomycin,2 ug/mL,Spec_2,0.426,3.567
+484,W,2,6,1,1,Spectinomycin,2 ug/mL,Spec_2,0.524,2.402
+485,AC1,8,NA,1,1,Spectinomycin,2 ug/mL,Spec_2,0.443,5.51
+486,AC2,13,NA,1,1,Spectinomycin,2 ug/mL,Spec_2,0.499,7.617
+487,BC1,17,NA,1,1,Spectinomycin,2 ug/mL,Spec_2,0.382,6.874
+488,BC2,22,NA,1,1,Spectinomycin,2 ug/mL,Spec_2,0.346,8.261
+489,B,2,62,2,2,Spectinomycin,2 ug/mL,Spec_2,0.442,3.543
+490,AB,2,13,2,2,Spectinomycin,2 ug/mL,Spec_2,0.346,2.602
+491,W,2,6,2,2,Spectinomycin,2 ug/mL,Spec_2,0.521,6.826
+492,AC1,8,NA,2,2,Spectinomycin,2 ug/mL,Spec_2,0.396,4.388
+493,AC2,13,NA,2,2,Spectinomycin,2 ug/mL,Spec_2,0.15,1.746
+494,BC1,17,NA,2,2,Spectinomycin,2 ug/mL,Spec_2,0.51,7.676
+495,BC2,22,NA,2,2,Spectinomycin,2 ug/mL,Spec_2,0.414,4.082
+496,A,2,9,2,2,Spectinomycin,2 ug/mL,Spec_2,0.428,3.243
+497,AB,2,13,3,3,Spectinomycin,2 ug/mL,Spec_2,0.422,4.031
+498,W,2,6,3,3,Spectinomycin,2 ug/mL,Spec_2,0.212,5.955
+499,AC1,8,NA,3,3,Spectinomycin,2 ug/mL,Spec_2,0.47,2.84
+500,AC2,13,NA,3,3,Spectinomycin,2 ug/mL,Spec_2,0.581,4.402
+501,BC1,17,NA,3,3,Spectinomycin,2 ug/mL,Spec_2,0.527,6.27
+502,BC2,22,NA,3,3,Spectinomycin,2 ug/mL,Spec_2,0.477,5.658
+503,A,2,9,3,3,Spectinomycin,2 ug/mL,Spec_2,0.401,3.701
+504,B,2,62,3,3,Spectinomycin,2 ug/mL,Spec_2,0.514,10.726
+505,W,2,6,4,4,Spectinomycin,2 ug/mL,Spec_2,0.381,6.308
+506,AC1,8,NA,4,4,Spectinomycin,2 ug/mL,Spec_2,0.503,6.206
+507,AC2,13,NA,4,4,Spectinomycin,2 ug/mL,Spec_2,0.449,6.27
+508,BC1,17,NA,4,4,Spectinomycin,2 ug/mL,Spec_2,0.414,8.481
+509,BC2,22,NA,4,4,Spectinomycin,2 ug/mL,Spec_2,0.463,5.726
+510,A,2,9,4,4,Spectinomycin,2 ug/mL,Spec_2,0.32,3.425
+511,B,2,62,4,4,Spectinomycin,2 ug/mL,Spec_2,0.346,5.204
+512,AB,2,13,4,4,Spectinomycin,2 ug/mL,Spec_2,0.435,4.539
+513,AC1,8,NA,5,5,Spectinomycin,2 ug/mL,Spec_2,,3.762
+514,AC2,13,NA,5,5,Spectinomycin,2 ug/mL,Spec_2,0.534,6.835
+515,BC1,17,NA,5,5,Spectinomycin,2 ug/mL,Spec_2,0.468,4.946
+516,BC2,22,NA,5,5,Spectinomycin,2 ug/mL,Spec_2,0.411,7.259
+517,A,2,9,5,5,Spectinomycin,2 ug/mL,Spec_2,0.104,4.313
+518,B,2,62,5,5,Spectinomycin,2 ug/mL,Spec_2,0.453,4.525
+519,AB,2,13,5,5,Spectinomycin,2 ug/mL,Spec_2,0.41,4.392
+520,W,2,6,5,5,Spectinomycin,2 ug/mL,Spec_2,0.544,4.234
+521,AC2,13,NA,6,6,Spectinomycin,2 ug/mL,Spec_2,0.394,6.139
+522,BC1,17,NA,6,6,Spectinomycin,2 ug/mL,Spec_2,0.366,5.31
+523,BC2,22,NA,6,6,Spectinomycin,2 ug/mL,Spec_2,0.4,6.447
+524,A,2,9,6,6,Spectinomycin,2 ug/mL,Spec_2,0.393,4.356
+525,B,2,62,6,6,Spectinomycin,2 ug/mL,Spec_2,0.466,6.793
+526,AB,2,13,6,6,Spectinomycin,2 ug/mL,Spec_2,0.421,5.6
+527,W,2,6,6,6,Spectinomycin,2 ug/mL,Spec_2,0.45,4.215
+528,AC1,8,NA,6,6,Spectinomycin,2 ug/mL,Spec_2,0.471,4.87
+529,BC1,17,NA,7,7,Spectinomycin,2 ug/mL,Spec_2,0.369,1.458
+530,BC2,22,NA,7,7,Spectinomycin,2 ug/mL,Spec_2,0.491,6.652
+531,A,2,9,7,7,Spectinomycin,2 ug/mL,Spec_2,0.471,3.567
+532,B,2,62,7,7,Spectinomycin,2 ug/mL,Spec_2,0.566,7.969
+533,AB,2,13,7,7,Spectinomycin,2 ug/mL,Spec_2,0.426,6.802
+534,W,2,6,7,7,Spectinomycin,2 ug/mL,Spec_2,0.553,1.774
+535,AC1,8,NA,7,7,Spectinomycin,2 ug/mL,Spec_2,0.528,6.269
+536,AC2,13,NA,7,7,Spectinomycin,2 ug/mL,Spec_2,0.468,3.746
+537,BC2,22,NA,8,8,Spectinomycin,2 ug/mL,Spec_2,0.484,7.07
+538,A,2,9,8,8,Spectinomycin,2 ug/mL,Spec_2,0.635,0.812
+539,B,2,62,8,8,Spectinomycin,2 ug/mL,Spec_2,,
+540,AB,2,13,8,8,Spectinomycin,2 ug/mL,Spec_2,0.566,2.521
+541,W,2,6,8,8,Spectinomycin,2 ug/mL,Spec_2,0.535,10.588
+542,AC1,8,NA,8,8,Spectinomycin,2 ug/mL,Spec_2,0.49,4.127
+543,AC2,13,NA,8,8,Spectinomycin,2 ug/mL,Spec_2,0.589,6.409
+544,BC1,17,NA,8,8,Spectinomycin,2 ug/mL,Spec_2,0.563,6.136
+545,A,2,9,9,9,Spectinomycin,2 ug/mL,Spec_2,0.398,3.733
+546,B,2,62,9,9,Spectinomycin,2 ug/mL,Spec_2,0.53,6.044
+547,AB,2,13,9,9,Spectinomycin,2 ug/mL,Spec_2,0.559,3.26
+548,W,2,6,9,9,Spectinomycin,2 ug/mL,Spec_2,0.576,9.007
+549,AC1,8,NA,9,9,Spectinomycin,2 ug/mL,Spec_2,0.539,6.227
+550,AC2,13,NA,9,9,Spectinomycin,2 ug/mL,Spec_2,0.377,5.001
+551,BC1,17,NA,9,9,Spectinomycin,2 ug/mL,Spec_2,0.548,7.367
+552,BC2,22,NA,9,9,Spectinomycin,2 ug/mL,Spec_2,0.388,4.64
+553,B,2,62,10,10,Spectinomycin,2 ug/mL,Spec_2,0.426,4.068
+554,AB,2,13,10,10,Spectinomycin,2 ug/mL,Spec_2,,7.538
+555,W,2,6,10,10,Spectinomycin,2 ug/mL,Spec_2,0.517,10.653
+556,AC1,8,NA,10,10,Spectinomycin,2 ug/mL,Spec_2,0.527,5.687
+557,AC2,13,NA,10,10,Spectinomycin,2 ug/mL,Spec_2,0.498,5.873
+558,BC1,17,NA,10,10,Spectinomycin,2 ug/mL,Spec_2,0.42,3.653
+559,BC2,22,NA,10,10,Spectinomycin,2 ug/mL,Spec_2,0.507,7.082
+560,A,2,9,10,10,Spectinomycin,2 ug/mL,Spec_2,0.401,1.738
+561,AB,2,13,11,11,Spectinomycin,2 ug/mL,Spec_2,0.407,7.442
+562,W,2,6,11,11,Spectinomycin,2 ug/mL,Spec_2,0.469,5.543
+563,AC1,8,NA,11,11,Spectinomycin,2 ug/mL,Spec_2,0.571,7.215
+564,AC2,13,NA,11,11,Spectinomycin,2 ug/mL,Spec_2,0.497,5.11
+565,BC1,17,NA,11,11,Spectinomycin,2 ug/mL,Spec_2,0.409,5.08
+566,BC2,22,NA,11,11,Spectinomycin,2 ug/mL,Spec_2,0.493,5.606
+567,A,2,9,11,11,Spectinomycin,2 ug/mL,Spec_2,0.452,3.319
+568,B,2,62,11,11,Spectinomycin,2 ug/mL,Spec_2,0.505,10.142
+569,W,2,6,12,12,Spectinomycin,2 ug/mL,Spec_2,0.542,12.639
+570,AC1,8,NA,12,12,Spectinomycin,2 ug/mL,Spec_2,0.54,3.489
+571,AC2,13,NA,12,12,Spectinomycin,2 ug/mL,Spec_2,0.454,7.01
+572,BC1,17,NA,12,12,Spectinomycin,2 ug/mL,Spec_2,0.319,5.621
+573,BC2,22,NA,12,12,Spectinomycin,2 ug/mL,Spec_2,0.528,7.035
+574,A,2,9,12,12,Spectinomycin,2 ug/mL,Spec_2,0.546,8.217
+575,B,2,62,12,12,Spectinomycin,2 ug/mL,Spec_2,0.505,7.605
+576,AB,2,13,12,12,Spectinomycin,2 ug/mL,Spec_2,0.395,4.53
