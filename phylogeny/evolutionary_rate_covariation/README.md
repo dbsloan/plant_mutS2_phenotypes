@@ -1,0 +1,3 @@
+# evolutionary_rate_covariation
+
+The `ERC_PIPELINE.R` script was used for performing evolutionary rate covariation (ERC) analyses and was adapted from [Forsythe et al. 2021](https://academic.oup.com/plcell/article/33/4/980/6122720). Input files are available via the [Dryad repository for that study](https://doi.org/10.5061/dryad.7h44j0zs3). Hard-coded paths need to be updated to reflect locations of input files.
